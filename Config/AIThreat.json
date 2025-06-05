@@ -1,6 +1,6 @@
 {
   "Version": 23,
-  "Time": 1747872976,
+  "Time": 1748473874,
   "AIThreat": [
     {
       "name": "AirGenie01",
@@ -6066,6 +6066,36 @@
       "name": "LudmillaDarkNew02",
       "condition": "IsNotProtector",
       "value": 1.1
+    },
+    {
+      "name": "ElizabethRegular01",
+      "condition": "AllySpirit6OrMore",
+      "value": 1.05
+    },
+    {
+      "name": "ElizabethRegular01",
+      "condition": "AllySpirit10OrMore",
+      "value": 1.1
+    },
+    {
+      "name": "ElizabethRegular01",
+      "condition": "Kills1",
+      "value": 1.01
+    },
+    {
+      "name": "ElizabethRegular02",
+      "condition": "AllySpirit6OrMore",
+      "value": 1.05
+    },
+    {
+      "name": "ElizabethRegular02",
+      "condition": "AllySpirit10OrMore",
+      "value": 1.1
+    },
+    {
+      "name": "ElizabethRegular02",
+      "condition": "Kills1",
+      "value": 1.01
     }
   ]
 }

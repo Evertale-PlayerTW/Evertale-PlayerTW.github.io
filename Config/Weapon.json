@@ -1,6 +1,6 @@
 {
   "Version": 23,
-  "Time": 1748422033,
+  "Time": 1748499193,
   "Weapon": [
     {
       "name": "BasicHammer01",
@@ -14347,7 +14347,8 @@
       "goldMultiplier": 1,
       "consolationMultiplier": 1,
       "superEvolve1": "LudmillaDarkHammer02",
-      "cost": 11
+      "cost": 11,
+      "visible": 1
     },
     {
       "name": "LudmillaDarkHammer02",
@@ -14367,7 +14368,8 @@
       "consolationMultiplier": 1,
       "superEvolve1": "LudmillaDarkHammer03",
       "evolveFrom": "LudmillaDarkHammer01",
-      "cost": 17
+      "cost": 17,
+      "visible": 1
     },
     {
       "name": "LudmillaDarkHammer03",
@@ -14386,6 +14388,65 @@
       "goldMultiplier": 1,
       "consolationMultiplier": 1,
       "evolveFrom": "LudmillaDarkHammer02",
+      "cost": 23,
+      "visible": 1
+    },
+    {
+      "name": "RoyalBlueGreatSword01",
+      "family": "RoyalBlueGreatSword",
+      "class": "Weapon",
+      "passives": {
+        "0": "AttackUpDamageReduc4SleepingEnemy2"
+      },
+      "stars": 4,
+      "evolvedStars": 6,
+      "baseAttack": 479,
+      "baseMaxHp": 2980,
+      "bundleNumber": 9,
+      "weaponPref": "GreatSword",
+      "secure": 1,
+      "goldMultiplier": 1,
+      "consolationMultiplier": 1,
+      "superEvolve1": "RoyalBlueGreatSword02",
+      "cost": 11
+    },
+    {
+      "name": "RoyalBlueGreatSword02",
+      "family": "RoyalBlueGreatSword",
+      "class": "Weapon",
+      "passives": {
+        "0": "AttackUpDamageReduc5SleepingEnemy2"
+      },
+      "stars": 5,
+      "evolvedStars": 6,
+      "baseAttack": 599,
+      "baseMaxHp": 3505,
+      "bundleNumber": 9,
+      "weaponPref": "GreatSword",
+      "secure": 1,
+      "goldMultiplier": 1,
+      "consolationMultiplier": 1,
+      "superEvolve1": "RoyalBlueGreatSword03",
+      "evolveFrom": "RoyalBlueGreatSword01",
+      "cost": 17
+    },
+    {
+      "name": "RoyalBlueGreatSword03",
+      "family": "RoyalBlueGreatSword",
+      "class": "Weapon",
+      "passives": {
+        "0": "AttackUpDamageReduc6SleepingEnemy2"
+      },
+      "stars": 6,
+      "evolvedStars": 6,
+      "baseAttack": 644,
+      "baseMaxHp": 3780,
+      "bundleNumber": 9,
+      "weaponPref": "GreatSword",
+      "secure": 1,
+      "goldMultiplier": 1,
+      "consolationMultiplier": 1,
+      "evolveFrom": "RoyalBlueGreatSword02",
       "cost": 23
     }
   ]

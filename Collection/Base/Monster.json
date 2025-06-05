@@ -90696,7 +90696,7 @@
         "Hp_Base": 9554,
         "Speed": 361,
         "Power": 169548,
-        "Visible": false,
+        "Visible": true,
         "Leader_Skill": {
             "Title": "@AttackAndHPUp6DeathNameKey",
             "Description": "@AttackAndHPUp6DeathDescriptionKey"
@@ -90984,6 +90984,316 @@
                         "HPAbove50Percent": 0.75,
                         "IsPloyed": 0.89,
                         "HPBelow50Percent": 1.35
+                    }
+                }
+            }
+        }
+    },
+    "ElizabethRegular01": {
+        "Name": "@ElizabethRegular01NameKey",
+        "Name2": "@ElizabethRegular01SecondNameKey",
+        "Profile": "@ElizabethRegular01DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 5,
+        "Star_Max": 6,
+        "Preferred_Weapon": "@GreatSword",
+        "Element": "@Water",
+        "Cost": 28,
+        "Atk_Base": 1156,
+        "Hp_Base": 5430,
+        "Speed": 515,
+        "Power": 134520,
+        "Visible": false,
+        "Leader_Skill": {
+            "Title": "@AttackUpWaterDNameKey",
+            "Description": "@AttackUpWaterDDescriptionKey"
+        },
+        "Active_Skills": [
+            {
+                "Title": "@BasicAttackAElizabethRegularNameKey",
+                "Description": "@BasicAttackAElizabethRegularDescriptionKey",
+                "TU_Cost": 50,
+                "Spirit": "+2"
+            },
+            {
+                "Title": "@AllEnemyForceSleepAElizabethRegularNameKey",
+                "Description": "@AllEnemyForceSleepAElizabethRegularDescriptionKey",
+                "TU_Cost": 50,
+                "Spirit": "-3"
+            },
+            {
+                "Title": "@DreamShatterAElizabethRegularNameKey",
+                "Description": "@DreamShatterAElizabethRegularDescriptionKey",
+                "TU_Cost": 70,
+                "Spirit": "-2"
+            }
+        ],
+        "Passive_Skills": [
+            {
+                "Title": "@MonarchsWillAElizabethRegularNameKey",
+                "Description": "@MonarchsWillAElizabethRegularDescriptionKey"
+            },
+            {
+                "Title": "@HoldGroundAElizabethRegularNameKey",
+                "Description": "@HoldGroundAElizabethRegularDescriptionKey"
+            },
+            {
+                "Title": "@PlusHPBoostLv3NameKey",
+                "Description": "@PlusHPBoostLv3DescriptionKey"
+            },
+            {
+                "Title": "@PlusAttackBoostLv3NameKey",
+                "Description": "@PlusAttackBoostLv3DescriptionKey"
+            },
+            {
+                "Title": "@Sleep20TUMinusNameKey",
+                "Description": "@Sleep20TUMinusDescriptionKey"
+            },
+            {
+                "Title": "@AddWeaponPrefGreatAxeNameKey",
+                "Description": "@AddWeaponPrefGreatAxeDescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@ElizabethRegular01GachaIntroText",
+        "Dialog": {
+            "Gacha": [
+                "@ElizabethRegularGacha45Key"
+            ],
+            "Login": [
+                "@ElizabethRegularLogin46Key"
+            ],
+            "Tap": [
+                "@ElizabethRegularTap47Key",
+                "@ElizabethRegularTap48Key",
+                "@ElizabethRegularTap49Key"
+            ],
+            "Idle": [
+                "@ElizabethRegularIdle50Key"
+            ]
+        },
+        "AI_Prop": {
+            "Pick_Weight": 1,
+            "Threat": {
+                "AllySpirit6OrMore": 1.05,
+                "AllySpirit10OrMore": 1.1,
+                "Kills1": 1.01
+            },
+            "Skills": {
+                "BasicAttackAElizabethRegular": {
+                    "Base_Weight": 1,
+                    "Ignore": [
+                        "IsSleeping",
+                        "HasSkin"
+                    ],
+                    "Target": {
+                        "IsAlwaysDodging": 0.1,
+                        "NotProtectingDodging": 0.1,
+                        "IsAloneAndStealth": 0.8,
+                        "IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1
+                    }
+                },
+                "AllEnemyForceSleepAElizabethRegular": {
+                    "Base_Weight": 0.8,
+                    "Source": {
+                        "EnemyHasNoSleepingInTeam": 10,
+                        "AllEnemiesIsSleeping": 0,
+                        "EnemyIsAlone": 0.5,
+                        "EnemyTeamThreeSleeping": 0.25,
+                        "AllEnemiesBurnBlastOrForceOrFire": 3
+                    }
+                },
+                "DreamShatterAElizabethRegular": {
+                    "Base_Weight": 0.5,
+                    "Ignore": [
+                        "IsSleeping"
+                    ],
+                    "Target": {
+                        "IsOdinRaven": 0.1,
+                        "IsBadFriend": 0.1,
+                        "IsImposter": 0.001,
+                        "IsMirage": 0.2,
+                        "RarityLessThan3": 0.8,
+                        "IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1,
+                        "IsProtected": 0.5,
+                        "IsProtectedNotProtector": 0.5,
+                        "HPAbove50Percent": 0.5,
+                        "IsPloyed": 0.89,
+                        "IsSleeping": 1.3,
+                        "On1HPIsSleeping": 25
+                    }
+                }
+            }
+        }
+    },
+    "ElizabethRegular02": {
+        "Name": "@ElizabethRegular02NameKey",
+        "Name2": "@ElizabethRegular02SecondNameKey",
+        "Profile": "@ElizabethRegular02DescriptionKey",
+        "Profile_Ascended": "@ElizabethRegular03DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 6,
+        "Star_Max": 6,
+        "Preferred_Weapon": "@GreatSword",
+        "Element": "@Water",
+        "Cost": 34,
+        "Atk_Base": 1278,
+        "Hp_Base": 8030,
+        "Speed": 515,
+        "Power": 173040,
+        "Visible": false,
+        "Leader_Skill": {
+            "Title": "@AttackUpWaterDNameKey",
+            "Description": "@AttackUpWaterDDescriptionKey"
+        },
+        "Active_Skills": [
+            {
+                "Title": "@BasicAttackAElizabethRegularNameKey",
+                "Description": "@BasicAttackAElizabethRegularDescriptionKey",
+                "TU_Cost": 50,
+                "Spirit": "+2"
+            },
+            {
+                "Title": "@AllEnemyForceSleepAElizabethRegularNameKey",
+                "Description": "@AllEnemyForceSleepAElizabethRegularDescriptionKey",
+                "TU_Cost": 50,
+                "Spirit": "-3"
+            },
+            {
+                "Title": "@DreamShatterAElizabethRegularNameKey",
+                "Description": "@DreamShatterAElizabethRegularDescriptionKey",
+                "TU_Cost": 70,
+                "Spirit": "-2"
+            },
+            {
+                "Title": "@RoyalDriveAElizabethRegularNameKey",
+                "Description": "@RoyalDriveAElizabethRegularDescriptionKey",
+                "TU_Cost": 1,
+                "Spirit": "-4"
+            }
+        ],
+        "Passive_Skills": [
+            {
+                "Title": "@MonarchsWillAElizabethRegularNameKey",
+                "Description": "@MonarchsWillAElizabethRegularDescriptionKey"
+            },
+            {
+                "Title": "@HoldGroundAElizabethRegularNameKey",
+                "Description": "@HoldGroundAElizabethRegularDescriptionKey"
+            },
+            {
+                "Title": "@PlusHPBoostLv3NameKey",
+                "Description": "@PlusHPBoostLv3DescriptionKey"
+            },
+            {
+                "Title": "@PlusAttackBoostLv3NameKey",
+                "Description": "@PlusAttackBoostLv3DescriptionKey"
+            },
+            {
+                "Title": "@Sleep20TUMinusNameKey",
+                "Description": "@Sleep20TUMinusDescriptionKey"
+            },
+            {
+                "Title": "@AddWeaponPrefGreatAxeNameKey",
+                "Description": "@AddWeaponPrefGreatAxeDescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@ElizabethRegular02GachaIntroText",
+        "Dialog": {
+            "Gacha": [
+                "@ElizabethRegularGacha45Key"
+            ],
+            "Login": [
+                "@ElizabethRegularLogin46Key"
+            ],
+            "Tap": [
+                "@ElizabethRegularTap47Key",
+                "@ElizabethRegularTap48Key",
+                "@ElizabethRegularTap49Key"
+            ],
+            "Idle": [
+                "@ElizabethRegularIdle50Key"
+            ]
+        },
+        "AI_Prop": {
+            "Pick_Weight": 1,
+            "Threat": {
+                "AllySpirit6OrMore": 1.05,
+                "AllySpirit10OrMore": 1.1,
+                "Kills1": 1.01
+            },
+            "Skills": {
+                "BasicAttackAElizabethRegular": {
+                    "Base_Weight": 1,
+                    "Ignore": [
+                        "IsSleeping",
+                        "HasSkin"
+                    ],
+                    "Target": {
+                        "IsAlwaysDodging": 0.1,
+                        "NotProtectingDodging": 0.1,
+                        "IsAloneAndStealth": 0.8,
+                        "IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1
+                    }
+                },
+                "AllEnemyForceSleepAElizabethRegular": {
+                    "Base_Weight": 0.8,
+                    "Source": {
+                        "EnemyHasNoSleepingInTeam": 10,
+                        "AllEnemiesIsSleeping": 0,
+                        "EnemyIsAlone": 0.5,
+                        "EnemyTeamThreeSleeping": 0.25,
+                        "AllEnemiesBurnBlastOrForceOrFire": 3
+                    }
+                },
+                "DreamShatterAElizabethRegular": {
+                    "Base_Weight": 0.5,
+                    "Ignore": [
+                        "IsSleeping"
+                    ],
+                    "Target": {
+                        "IsOdinRaven": 0.1,
+                        "IsBadFriend": 0.1,
+                        "IsImposter": 0.001,
+                        "IsMirage": 0.2,
+                        "RarityLessThan3": 0.8,
+                        "IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1,
+                        "IsProtected": 0.5,
+                        "IsProtectedNotProtector": 0.5,
+                        "HPAbove50Percent": 0.5,
+                        "IsPloyed": 0.89,
+                        "IsSleeping": 1.3,
+                        "On1HPIsSleeping": 25
+                    }
+                },
+                "RoyalDriveAElizabethRegular": {
+                    "Base_Weight": 2,
+                    "Ignore": [
+                        "IsSleeping",
+                        "HasSkin"
+                    ],
+                    "Source": {
+                        "AllySpirit8OrMore": 2,
+                        "AllySpirit9OrMore": 3,
+                        "AllySpirit10Or0": 5
+                    },
+                    "Target": {
+                        "IsOdinRaven": 0.1,
+                        "IsBadFriend": 0.1,
+                        "IsImposter": 0.001,
+                        "IsMirage": 0.2,
+                        "RarityLessThan3": 0.8,
+                        "IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1,
+                        "IsProtected": 0.75,
+                        "IsProtectedNotProtector": 0.75,
+                        "HPBelow5PercentNotProtected": 1.1,
+                        "HPAbove50Percent": 0.85,
+                        "IsPloyed": 0.89,
+                        "IsAlwaysDodging": 0.1,
+                        "NotProtectingDodging": 0.1,
+                        "IsAloneAndStealth": 0.5,
+                        "IsStealth": 0.1,
+                        "IsMordredRegularAndBurning": 0.8,
+                        "On1HPIsSleeping": 0.5
                     }
                 }
             }

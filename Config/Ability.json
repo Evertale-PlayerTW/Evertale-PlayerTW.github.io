@@ -1,6 +1,6 @@
 {
   "Version": 23,
-  "Time": 1748333617,
+  "Time": 1748499135,
   "Ability": [
     {
       "name": "SkipTurn",
@@ -25804,6 +25804,56 @@
       "tuCost": 50,
       "useLimit": 0,
       "spiritCost": 3,
+      "blockTargetManipulation": 0,
+      "showConfirmation": 0
+    },
+    {
+      "name": "BasicAttackAElizabethRegular",
+      "class": "Ability",
+      "abilityScalor": 1,
+      "conditionalAbilityScalors": [
+        3,
+        5
+      ],
+      "config": "BasicAttackAElizabethRegular",
+      "tuCost": 50,
+      "useLimit": 0,
+      "spiritGain": 2,
+      "blockTargetManipulation": 0,
+      "showConfirmation": 0
+    },
+    {
+      "name": "AllEnemyForceSleepAElizabethRegular",
+      "class": "Ability",
+      "config": "AllEnemyForceSleepAElizabethRegular",
+      "tuCost": 50,
+      "useLimit": 0,
+      "spiritCost": 3,
+      "blockTargetManipulation": 0,
+      "showConfirmation": 0
+    },
+    {
+      "name": "DreamShatterAElizabethRegular",
+      "class": "Ability",
+      "abilityScalor": -1,
+      "conditionalAbilityScalors": [
+        5
+      ],
+      "config": "DreamShatterAElizabethRegular",
+      "tuCost": 70,
+      "useLimit": 0,
+      "spiritCost": 2,
+      "blockTargetManipulation": 0,
+      "showConfirmation": 0
+    },
+    {
+      "name": "RoyalDriveAElizabethRegular",
+      "class": "Ability",
+      "abilityScalor": 4,
+      "config": "RoyalDriveAElizabethRegular",
+      "tuCost": 1,
+      "useLimit": 0,
+      "spiritCost": 4,
       "blockTargetManipulation": 0,
       "showConfirmation": 0
     }

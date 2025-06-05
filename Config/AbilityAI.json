@@ -1,6 +1,6 @@
 {
   "Version": 23,
-  "Time": 1748333642,
+  "Time": 1749091807,
   "AbilityAI": {
 	"StunSingle200A_AI": {
 		"class": "AbilityAI","baseAITargetingWeight": 1.3,
@@ -21850,21 +21850,21 @@
 					}
     },
     "SurvivorDoubleIgnoreDefeatALuBuRegularBoss_AI":{
-        "class": "AbilityAI", "baseAITargetingWeight": 5.0,
-        "aiTargetingSourceMonsterConditions": {
+            "class": "AbilityAI", "baseAITargetingWeight": 5.0,
+            "aiTargetingSourceMonsterConditions": {
 				"AllySpirit4OrMore": 1.25,
 				"AllEnemies300TUOrGreater": 1.01,
         "AllEnemies400TUOrGreater": 1.01,
         "AllEnemies500TUOrGreater": 1.01
-		},
-		"aiTargetingMonsterConditions": {
-    			"HPBelow50Percent": 1.5,
-    			"HPBelow10Percent": 2.5,
-    			"IsAlwaysDodging": 0.01,
-    			"IsStealth": 0.01,
-    			"IsMirage": 0.50
-			}    
-		},  
+						},
+        		"aiTargetingMonsterConditions": {
+            			"HPBelow50Percent": 1.5,
+            			"HPBelow10Percent": 2.5,
+            			"IsAlwaysDodging": 0.01,
+            			"IsStealth": 0.01,
+            			"IsMirage": 0.50
+						}    
+		},    
 		"KillDamagePlusAMusashiRegularBoss_AI":{
 					"class": "AbilityAI","baseAITargetingWeight": 1.0,
 					"aiTargetingSourceMonsterConditions": {
@@ -21955,7 +21955,7 @@
     			"IsStealth": 0.01,
     			"IsMirage": 0.50
 		}    
-	},   
+	},    
 	"KillDamagePlusAMusashiRegular_AI":{
 		"class": "AbilityAI","baseAITargetingWeight": 1.0,
 		"aiTargetingSourceMonsterConditions": {
@@ -23153,7 +23153,8 @@
 						"IsProtectedNotProtector": 0.1,
 						"IsMegaPoisoned": 0.89,
 						"IsSuperPoisoned": 0.89,
-						"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5
+						"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5,
+						"IsRTKDarkAndAtLeast1KaguyahimeDarkAllyAndNotProtected": 5.0
 					}
     },
     "SinglePlagueARoundTableKnightDarkBoss_AI":{
@@ -23169,7 +23170,8 @@
 						"IsProtectedNotProtector": 0.1,
 						"IsMegaPoisoned": 0.89,
 						"IsSuperPoisoned": 0.89,
-						"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5
+						"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5,
+						"IsRTKDarkAndAtLeast1KaguyahimeDarkAllyAndNotProtected": 5.0
 					}
     },
     "AllPlagueARoundTableKnightDarkBoss_AI":{
@@ -23185,6 +23187,7 @@
 							"IsProtectedNotProtector": 1.0,
 							"IsProtectedCurrentTUGreaterThan100": 2.0,
 							"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5,
+							"IsRTKDarkAndAtLeast1KaguyahimeDarkAllyAndNotProtected": 5.0,
 							"IsMegaPoisoned": 2.0,
 							"IsAloneAndMegaPoisoned": 7.5
 					}
@@ -23208,7 +23211,8 @@
 					"class": "AbilityAI","baseAITargetingWeight": 1.25,
 					"aiTargetingMonsterConditions": {
 							"IsPoisoned": 1.5,
-							"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5
+							"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5,
+							"IsRTKDarkAndAtLeast1KaguyahimeDarkAllyAndNotProtected": 5.0
 					}
     },
     "InstantMeagPoisonStunALuciferRegularBoss_AI":{
@@ -23227,7 +23231,8 @@
 							"IsOdinRaven": 0.1,
 							"IsImposter": 0.25,
 							"IsMirage": 0.75,
-							"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5
+							"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5,
+							"IsRTKDarkAndAtLeast1KaguyahimeDarkAllyAndNotProtected": 5.0
 					}
     },
     "InfernoAttackALuciferRegularBoss_AI":{
@@ -23239,7 +23244,8 @@
 							"IsAlwaysDodging": 0.1,
 							"NotProtectingDodging": 0.1,
 							"IsAloneAndStealth": 0.0,
-							"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5
+							"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5,
+							"IsRTKDarkAndAtLeast1KaguyahimeDarkAllyAndNotProtected": 5.0
 					}
     },
    	"CursedBladeACrossSwordKnightDarkBoss_AI":{
@@ -23248,6 +23254,7 @@
 					"aiTargetingMonsterConditions":{
 						"IsNotBurning": 1.1,
 						"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5,
+						"IsRTKDarkAndAtLeast1KaguyahimeDarkAllyAndNotProtected": 5.0,
 						"IsPoisoned": 1.1,
 						"IsSleeping": 1.0,
 						"IsOdinRaven": 0.75,
@@ -23276,6 +23283,7 @@
 						"IsPoisoned": 1.1,
 						"IsSleeping": 1.0,
 						"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5,
+						"IsRTKDarkAndAtLeast1KaguyahimeDarkAllyAndNotProtected": 5.0,
 						"IsSleepingOrPoisonedNotHitAlreadyCSKDarkBoss": 2.0,
 						"IsSleepingOrPoisonedAndProtectingNotHitAlreadyCSKDarkBoss": 2.0,
 						"IsSleepingOrPoisonedNotHitAlreadyOrProtectedOrImposterCSKDarkBoss": 2.0,
@@ -23294,6 +23302,7 @@
 					"aiTargetingMonsterConditions": {
 						"HPBelow50Percent": 1.2,
 						"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 2.5,
+						"IsRTKDarkAndAtLeast1KaguyahimeDarkAllyAndNotProtected": 5.0,
 						"IsPoisoned": 1.1,
 						"IsSleeping": 1.0,
 						"IsHoldGround": 1.0,
@@ -25554,6 +25563,72 @@
 						"IsPloyed": 0.89,
 						"HPBelow50Percent": 1.35
 }
+    },
+    "BasicAttackAElizabethRegular_AI":{
+					"class": "AbilityAI","baseAITargetingWeight": 1.0,
+					"globalScalorsToIgnore": ["IsSleeping","HasSkin"],
+						"aiTargetingMonsterConditions":{
+							"IsAlwaysDodging": 0.1,
+							"NotProtectingDodging": 0.1,
+							"IsAloneAndStealth": 0.8,
+							"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1
+    }
+    },
+    "AllEnemyForceSleepAElizabethRegular_AI":{
+					"class": "AbilityAI","baseAITargetingWeight": 0.80,
+					"aiTargetingSourceMonsterConditions": {
+						"EnemyHasNoSleepingInTeam": 10,
+						"AllEnemiesIsSleeping": 0.0,
+						"EnemyIsAlone": 0.5,
+						"EnemyTeamThreeSleeping": 0.25,
+						"AllEnemiesBurnBlastOrForceOrFire": 3
+}
+    },
+    "DreamShatterAElizabethRegular_AI":{
+					"class": "AbilityAI","baseAITargetingWeight": 0.50,
+					"globalScalorsToIgnore": ["IsSleeping"],
+					"aiTargetingMonsterConditions": {
+						"IsOdinRaven": 0.1,
+						"IsBadFriend": 0.1,
+						"IsImposter": 0.001,
+						"IsMirage": 0.2,
+						"RarityLessThan3": 0.8,
+						"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1,
+						"IsProtected": 0.50,
+						"IsProtectedNotProtector": 0.50,
+						"HPAbove50Percent": 0.50,
+						"IsPloyed": 0.89,
+						"IsSleeping": 1.3,
+						"On1HPIsSleeping": 25
+}
+    },
+    "RoyalDriveAElizabethRegular_AI":{
+					"class": "AbilityAI","baseAITargetingWeight": 2.0,
+					"globalScalorsToIgnore": ["IsSleeping","HasSkin"],
+					"aiTargetingSourceMonsterConditions": {
+						"AllySpirit8OrMore": 2.0,
+						"AllySpirit9OrMore": 3.0,
+						"AllySpirit10Or0": 5.0
+					},
+					"aiTargetingMonsterConditions": {
+						"IsOdinRaven": 0.1,
+						"IsBadFriend": 0.1,
+						"IsImposter": 0.001,
+						"IsMirage": 0.2,
+						"RarityLessThan3": 0.8,
+						"IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1,
+						"IsProtected": 0.75,
+						"IsProtectedNotProtector": 0.75,
+						"HPBelow5PercentNotProtected": 1.1,
+						"HPAbove50Percent": 0.85,
+						"IsPloyed": 0.89,
+						"IsAlwaysDodging": 0.1,
+						"NotProtectingDodging": 0.1,
+						"IsAloneAndStealth": 0.5,
+						"IsStealth": 0.1,
+						"IsMordredRegularAndBurning": 0.80,
+						"On1HPIsSleeping": 0.50
+					}
     }
 }
 }

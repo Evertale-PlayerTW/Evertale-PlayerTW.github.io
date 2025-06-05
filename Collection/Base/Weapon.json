@@ -14887,7 +14887,7 @@
         "Hp_Base": 3150,
         "Speed": 0,
         "Power": 32250,
-        "Visible": false,
+        "Visible": true,
         "Skill": [
             {
                 "Title": "@DamageReduc4EnemiesLowSpiritsNameKey",
@@ -14908,7 +14908,7 @@
         "Hp_Base": 3815,
         "Speed": 0,
         "Power": 39000,
-        "Visible": false,
+        "Visible": true,
         "Skill": [
             {
                 "Title": "@DamageReduc5EnemiesLowSpiritsNameKey",
@@ -14929,7 +14929,7 @@
         "Hp_Base": 4105,
         "Speed": 0,
         "Power": 42000,
-        "Visible": false,
+        "Visible": true,
         "Skill": [
             {
                 "Title": "@DamageReduc6EnemiesLowSpiritsNameKey",
@@ -14937,5 +14937,68 @@
             }
         ],
         "Gacha_Intro": "@LudmillaDarkHammer03GachaIntroText"
+    },
+    "RoyalBlueGreatSword01": {
+        "Name": "@RoyalBlueGreatSword01NameKey",
+        "Profile": "@RoyalBlueGreatSword01DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 4,
+        "Star_Max": 6,
+        "Type": "@GreatSword",
+        "Cost": 11,
+        "Atk_Base": 479,
+        "Hp_Base": 2980,
+        "Speed": 0,
+        "Power": 32250,
+        "Visible": false,
+        "Skill": [
+            {
+                "Title": "@AttackUpDamageReduc4SleepingEnemy2NameKey",
+                "Description": "@AttackUpDamageReduc4SleepingEnemy2DescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@RoyalBlueGreatSword01GachaIntroText"
+    },
+    "RoyalBlueGreatSword02": {
+        "Name": "@RoyalBlueGreatSword01NameKey",
+        "Profile": "@RoyalBlueGreatSword01DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 5,
+        "Star_Max": 6,
+        "Type": "@GreatSword",
+        "Cost": 17,
+        "Atk_Base": 599,
+        "Hp_Base": 3505,
+        "Speed": 0,
+        "Power": 39000,
+        "Visible": false,
+        "Skill": [
+            {
+                "Title": "@AttackUpDamageReduc5SleepingEnemy2NameKey",
+                "Description": "@AttackUpDamageReduc5SleepingEnemy2DescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@RoyalBlueGreatSword02GachaIntroText"
+    },
+    "RoyalBlueGreatSword03": {
+        "Name": "@RoyalBlueGreatSword01NameKey",
+        "Profile": "@RoyalBlueGreatSword01DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 6,
+        "Star_Max": 6,
+        "Type": "@GreatSword",
+        "Cost": 23,
+        "Atk_Base": 644,
+        "Hp_Base": 3780,
+        "Speed": 0,
+        "Power": 42000,
+        "Visible": false,
+        "Skill": [
+            {
+                "Title": "@AttackUpDamageReduc6SleepingEnemy2NameKey",
+                "Description": "@AttackUpDamageReduc6SleepingEnemy2DescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@RoyalBlueGreatSword03GachaIntroText"
     }
 }
