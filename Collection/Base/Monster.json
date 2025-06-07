@@ -45510,7 +45510,8 @@
             {
                 "Title": "@SleepBombDoubleANameKey",
                 "Description": "@SleepBombDoubleADescriptionKey",
-                "TU_Cost": 0
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
