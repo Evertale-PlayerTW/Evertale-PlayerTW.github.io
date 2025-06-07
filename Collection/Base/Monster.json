@@ -1589,6 +1589,7 @@
             {
                 "Title": "@TimeBombAllBNameKey",
                 "Description": "@TimeBombAllBDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-4"
             },
             {
@@ -1680,6 +1681,7 @@
             {
                 "Title": "@TimeBombAllBNameKey",
                 "Description": "@TimeBombAllBDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-4"
             },
             {
@@ -3241,6 +3243,7 @@
             {
                 "Title": "@HealSingleSacANameKey",
                 "Description": "@HealSingleSacADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-4"
             }
         ],
@@ -3324,6 +3327,7 @@
             {
                 "Title": "@HealAllSacANameKey",
                 "Description": "@HealAllSacADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-4"
             }
         ],
@@ -4214,6 +4218,7 @@
             {
                 "Title": "@SleepBombDoubleANameKey",
                 "Description": "@SleepBombDoubleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             }
         ],
@@ -4292,6 +4297,7 @@
             {
                 "Title": "@SleepBombDoubleANameKey",
                 "Description": "@SleepBombDoubleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             }
         ],
@@ -4376,6 +4382,7 @@
             {
                 "Title": "@StunBombDoubleANameKey",
                 "Description": "@StunBombDoubleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             }
         ],
@@ -4450,6 +4457,7 @@
             {
                 "Title": "@StunBombDoubleANameKey",
                 "Description": "@StunBombDoubleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             },
             {
@@ -4865,6 +4873,7 @@
             {
                 "Title": "@TimeBombSingleBNameKey",
                 "Description": "@TimeBombSingleBDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-2"
             }
         ],
@@ -5556,6 +5565,7 @@
             {
                 "Title": "@SummonTokenx2SacAFireNameKey",
                 "Description": "@SummonTokenx2SacAFireDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-2"
             }
         ],
@@ -5640,6 +5650,7 @@
             {
                 "Title": "@SummonTokenx2SacAFireNameKey",
                 "Description": "@SummonTokenx2SacAFireDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-2"
             }
         ],
@@ -5887,6 +5898,7 @@
             {
                 "Title": "@SleepBombDoubleA2NameKey",
                 "Description": "@SleepBombDoubleA2DescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             }
         ],
@@ -7475,6 +7487,7 @@
             {
                 "Title": "@HealDoubleSacANameKey",
                 "Description": "@HealDoubleSacADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-1"
             }
         ],
@@ -7599,6 +7612,7 @@
             {
                 "Title": "@HealDoubleSacANameKey",
                 "Description": "@HealDoubleSacADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-1"
             },
             {
@@ -8919,6 +8933,7 @@
             {
                 "Title": "@StunBombDoubleANameKey",
                 "Description": "@StunBombDoubleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             },
             {
@@ -9037,6 +9052,7 @@
             {
                 "Title": "@StunBombDoubleANameKey",
                 "Description": "@StunBombDoubleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             },
             {
@@ -12110,6 +12126,7 @@
             {
                 "Title": "@TimeBombDoubleANameKey",
                 "Description": "@TimeBombDoubleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-2"
             }
         ],
@@ -12239,6 +12256,7 @@
             {
                 "Title": "@TimeBombDoubleANameKey",
                 "Description": "@TimeBombDoubleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-2"
             },
             {
@@ -12734,6 +12752,7 @@
             {
                 "Title": "@SleepBombDoubleA2NameKey",
                 "Description": "@SleepBombDoubleA2DescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             },
             {
@@ -12892,6 +12911,7 @@
             {
                 "Title": "@SleepBombDoubleA2NameKey",
                 "Description": "@SleepBombDoubleA2DescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             },
             {
@@ -21396,7 +21416,8 @@
             {
                 "Title": "@InstantKillBombAllANameKey",
                 "Description": "@InstantKillBombAllADescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "AI_Prop": {
@@ -21820,7 +21841,8 @@
             {
                 "Title": "@InstantKillBombAllANameKey",
                 "Description": "@InstantKillBombAllADescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "AI_Prop": {
@@ -21879,7 +21901,8 @@
             {
                 "Title": "@InstantKillBombAllANameKey",
                 "Description": "@InstantKillBombAllADescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "AI_Prop": {
@@ -21938,7 +21961,8 @@
             {
                 "Title": "@InstantKillBombAllANameKey",
                 "Description": "@InstantKillBombAllADescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "AI_Prop": {
@@ -21997,7 +22021,8 @@
             {
                 "Title": "@InstantKillBombAllANameKey",
                 "Description": "@InstantKillBombAllADescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "AI_Prop": {
@@ -22056,7 +22081,8 @@
             {
                 "Title": "@InstantKillBombAllANameKey",
                 "Description": "@InstantKillBombAllADescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "AI_Prop": {
@@ -22115,7 +22141,8 @@
             {
                 "Title": "@InstantKillBombAllANameKey",
                 "Description": "@InstantKillBombAllADescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "AI_Prop": {
@@ -23309,6 +23336,7 @@
             {
                 "Title": "@SwapSelfForRabbitANameKey",
                 "Description": "@SwapSelfForRabbitADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "+1"
             }
         ],
@@ -23455,6 +23483,7 @@
             {
                 "Title": "@SwapSelfForRabbitANameKey",
                 "Description": "@SwapSelfForRabbitADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "+1"
             },
             {
@@ -23608,6 +23637,7 @@
             {
                 "Title": "@SleepBombSingleANameKey",
                 "Description": "@SleepBombSingleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-2"
             }
         ],
@@ -23886,6 +23916,7 @@
             {
                 "Title": "@PullbackSelfAReiRegularNameKey",
                 "Description": "@PullbackSelfAReiRegularDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-2"
             }
         ],
@@ -28048,6 +28079,7 @@
             {
                 "Title": "@SleepBombDoubleA2NameKey",
                 "Description": "@SleepBombDoubleA2DescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             }
         ],
@@ -28787,6 +28819,7 @@
             {
                 "Title": "@HealAllSacANameKey",
                 "Description": "@HealAllSacADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-4"
             }
         ],
@@ -33966,6 +33999,7 @@
             {
                 "Title": "@SwapSelfForTokenElminaNameKey",
                 "Description": "@SwapSelfForTokenElminaDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-1"
             }
         ],
@@ -34099,6 +34133,7 @@
             {
                 "Title": "@SwapSelfForTokenElminaNameKey",
                 "Description": "@SwapSelfForTokenElminaDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-1"
             },
             {
@@ -34228,6 +34263,7 @@
             {
                 "Title": "@StealthAllySacANameKey",
                 "Description": "@StealthAllySacADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "+1"
             }
         ],
@@ -35511,7 +35547,7 @@
                 "Title": "@GiveTurnANameKey",
                 "Description": "@GiveTurnADescriptionKey",
                 "TU_Cost": 200,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@PurifySingleANameKey",
@@ -35686,7 +35722,7 @@
                 "Title": "@GiveTurnANameKey",
                 "Description": "@GiveTurnADescriptionKey",
                 "TU_Cost": 200,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@PurifySingleANameKey",
@@ -38883,6 +38919,7 @@
             {
                 "Title": "@TimeBombAllANameKey",
                 "Description": "@TimeBombAllADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-4"
             }
         ],
@@ -39021,6 +39058,7 @@
             {
                 "Title": "@TimeBombAllANameKey",
                 "Description": "@TimeBombAllADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-4"
             }
         ],
@@ -43067,6 +43105,7 @@
             {
                 "Title": "@PullbackSelfANameKey",
                 "Description": "@PullbackSelfADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-2"
             }
         ],
@@ -45470,7 +45509,8 @@
             },
             {
                 "Title": "@SleepBombDoubleANameKey",
-                "Description": "@SleepBombDoubleADescriptionKey"
+                "Description": "@SleepBombDoubleADescriptionKey",
+                "TU_Cost": 0
             }
         ],
         "Passive_Skills": [
@@ -47839,6 +47879,7 @@
             {
                 "Title": "@SendbackSelfANameKey",
                 "Description": "@SendbackSelfADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-2"
             }
         ],
@@ -49366,7 +49407,8 @@
             {
                 "Title": "@GiveTurnBombSingleANameKey",
                 "Description": "@GiveTurnBombSingleADescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -49466,7 +49508,8 @@
             {
                 "Title": "@SwapSelfForTokenChristmasNameKey",
                 "Description": "@SwapSelfForTokenChristmasDescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -49643,7 +49686,8 @@
             {
                 "Title": "@SwapSelfForTokenChristmasNameKey",
                 "Description": "@SwapSelfForTokenChristmasDescriptionKey",
-                "Spirit": "-0"
+                "TU_Cost": 0,
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -50081,7 +50125,7 @@
                 "Title": "@GiveTurnANameKey",
                 "Description": "@GiveTurnADescriptionKey",
                 "TU_Cost": 200,
-                "Spirit": "-0"
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -50299,7 +50343,7 @@
                 "Title": "@GiveTurnANameKey",
                 "Description": "@GiveTurnADescriptionKey",
                 "TU_Cost": 200,
-                "Spirit": "-0"
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -51418,7 +51462,7 @@
                 "Title": "@HighTUAllyBombDoubleANameKey",
                 "Description": "@HighTUAllyBombDoubleADescriptionKey",
                 "TU_Cost": 130,
-                "Spirit": "-0"
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -51609,7 +51653,7 @@
                 "Title": "@HighTUAllyBombDoubleANameKey",
                 "Description": "@HighTUAllyBombDoubleADescriptionKey",
                 "TU_Cost": 130,
-                "Spirit": "-0"
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -52136,19 +52180,19 @@
                 "Title": "@SleepSingleALockNameKey",
                 "Description": "@SleepSingleALockDescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@PushbackALockNameKey",
                 "Description": "@PushbackALockDescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@ReiSwimSummonFinalANameKey",
                 "Description": "@ReiSwimSummonFinalADescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -52281,19 +52325,19 @@
                 "Title": "@SleepSingleALockNameKey",
                 "Description": "@SleepSingleALockDescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@PushbackALockNameKey",
                 "Description": "@PushbackALockDescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@ReiSwimSummonFinalANameKey",
                 "Description": "@ReiSwimSummonFinalADescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -61182,7 +61226,7 @@
                 "Title": "@BurnSelfAttackAllBurnANameKey",
                 "Description": "@BurnSelfAttackAllBurnADescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@SuperBurnBlastANameKey",
@@ -61324,7 +61368,7 @@
                 "Title": "@BurnSelfAttackAllBurnANameKey",
                 "Description": "@BurnSelfAttackAllBurnADescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@SuperBurnBlastANameKey",
@@ -62154,6 +62198,7 @@
             {
                 "Title": "@StepBackSleepEnterLimitACallenBrideNameKey",
                 "Description": "@StepBackSleepEnterLimitACallenBrideDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-1"
             },
             {
@@ -62309,6 +62354,7 @@
             {
                 "Title": "@StepBackSleepEnterLimitACallenBrideNameKey",
                 "Description": "@StepBackSleepEnterLimitACallenBrideDescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-1"
             },
             {
@@ -70410,7 +70456,7 @@
                 "Title": "@DreamThiefDrainAIbarahimeNameKey",
                 "Description": "@DreamThiefDrainAIbarahimeDescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@SleepAttackAllAIbarahimeNameKey",
@@ -70555,7 +70601,7 @@
                 "Title": "@DreamThiefDrainAIbarahimeNameKey",
                 "Description": "@DreamThiefDrainAIbarahimeDescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@SleepAttackAllAIbarahimeNameKey",
@@ -71372,7 +71418,7 @@
                 "Title": "@TimeStrikeAllPlusARolotiaNewNameKey",
                 "Description": "@TimeStrikeAllPlusARolotiaNewDescriptionKey",
                 "TU_Cost": 130,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@BloodfuryPullbackSelfARolotiaNewNameKey",
@@ -71552,7 +71598,7 @@
                 "Title": "@TimeStrikeAllPlusARolotiaNewNameKey",
                 "Description": "@TimeStrikeAllPlusARolotiaNewDescriptionKey",
                 "TU_Cost": 130,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@BloodfuryPullbackSelfARolotiaNewNameKey",
@@ -72063,7 +72109,7 @@
                 "Title": "@SummonSnowWhiteBrideSacANameKey",
                 "Description": "@SummonSnowWhiteBrideSacADescriptionKey",
                 "TU_Cost": 0,
-                "Spirit": "-0"
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -72205,7 +72251,7 @@
                 "Title": "@SummonSnowWhiteBrideSacANameKey",
                 "Description": "@SummonSnowWhiteBrideSacADescriptionKey",
                 "TU_Cost": 0,
-                "Spirit": "-0"
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -72898,7 +72944,7 @@
                 "Title": "@SummonMagicalRabbitANameKey",
                 "Description": "@SummonMagicalRabbitADescriptionKey",
                 "TU_Cost": 50,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@HighSpiritBusterAllSAliceMagicGirlNameKey",
@@ -73067,7 +73113,7 @@
                 "Title": "@SummonMagicalRabbitANameKey",
                 "Description": "@SummonMagicalRabbitADescriptionKey",
                 "TU_Cost": 50,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@HighSpiritBusterAllSAliceMagicGirlNameKey",
@@ -73229,13 +73275,13 @@
                 "Title": "@PurifyHealDoubleANameKey",
                 "Description": "@DescriptionKey",
                 "TU_Cost": 70,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@ProtectTeammatesUntilNextTurnAMagicalRabbitNameKey",
                 "Description": "@ProtectTeammatesUntilNextTurnAMagicalRabbitDescriptionKey",
                 "TU_Cost": 100,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@MagicalGirlSacANameKey",
@@ -73347,13 +73393,13 @@
                 "Title": "@PurifyStunDoubleARtkBrideNameKey",
                 "Description": "@PurifyStunDoubleARtkBrideDescriptionKey",
                 "TU_Cost": 70,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@CriticalFurySingleARtkBrideNameKey",
                 "Description": "@CriticalFurySingleARtkBrideDescriptionKey",
                 "TU_Cost": 50,
-                "Spirit": "-0"
+                "Spirit": "+0"
             }
         ],
         "Passive_Skills": [
@@ -73489,13 +73535,13 @@
                 "Title": "@PurifyStunDoubleARtkBrideNameKey",
                 "Description": "@PurifyStunDoubleARtkBrideDescriptionKey",
                 "TU_Cost": 70,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@CriticalFurySingleARtkBrideNameKey",
                 "Description": "@CriticalFurySingleARtkBrideDescriptionKey",
                 "TU_Cost": 50,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@DesperateDrainTwiceARtkBrideNameKey",
@@ -77489,7 +77535,7 @@
                 "Title": "@HighSpiritOnslaughtAOtohimeNameKey",
                 "Description": "@HighSpiritOnslaughtAOtohimeDescriptionKey",
                 "TU_Cost": 1,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@NightmareHuntDoubleAOtohimeNameKey",
@@ -77620,7 +77666,7 @@
                 "Title": "@HighSpiritOnslaughtAOtohimeNameKey",
                 "Description": "@HighSpiritOnslaughtAOtohimeDescriptionKey",
                 "TU_Cost": 1,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@NightmareHuntDoubleAOtohimeNameKey",
@@ -77760,7 +77806,7 @@
                 "Title": "@JealousSpiritSiphonACinderellaDarkNameKey",
                 "Description": "@JealousSpiritSiphonACinderellaDarkDescriptionKey",
                 "TU_Cost": 50,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@BloodfuryHealChargeStormACinderellaDarkNameKey",
@@ -77917,7 +77963,7 @@
                 "Title": "@JealousSpiritSiphonACinderellaDarkNameKey",
                 "Description": "@JealousSpiritSiphonACinderellaDarkDescriptionKey",
                 "TU_Cost": 50,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@BloodfuryHealChargeStormACinderellaDarkNameKey",
@@ -79122,7 +79168,7 @@
                 "Title": "@DreamBurstAllAIbarahimeSwimsuitNameKey",
                 "Description": "@DreamBurstAllAIbarahimeSwimsuitDescriptionKey",
                 "TU_Cost": 130,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@LifeFlipAttackAIbarahimeSwimsuitNameKey",
@@ -79278,7 +79324,7 @@
                 "Title": "@DreamBurstAllAIbarahimeSwimsuitNameKey",
                 "Description": "@DreamBurstAllAIbarahimeSwimsuitDescriptionKey",
                 "TU_Cost": 130,
-                "Spirit": "-0"
+                "Spirit": "+0"
             },
             {
                 "Title": "@LifeFlipAttackAIbarahimeSwimsuitNameKey",
@@ -84522,6 +84568,7 @@
             {
                 "Title": "@SendbackSelfHighAIPriorityANameKey",
                 "Description": "@SendbackSelfHighAIPriorityADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "+1"
             }
         ],
@@ -86536,6 +86583,7 @@
             {
                 "Title": "@ForceSleepBombANameKey",
                 "Description": "@ForceSleepBombADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "+0"
             }
         ],
@@ -90626,6 +90674,7 @@
             {
                 "Title": "@StunBombDoubleANameKey",
                 "Description": "@StunBombDoubleADescriptionKey",
+                "TU_Cost": 0,
                 "Spirit": "-3"
             }
         ],
