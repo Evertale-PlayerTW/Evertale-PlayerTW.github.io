@@ -28,7 +28,7 @@
                 "Spirit": "+1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -84,7 +84,7 @@
                 "Spirit": "+1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleAFire": {
@@ -142,7 +142,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleAFire": {
@@ -212,7 +212,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.1
@@ -299,7 +299,7 @@
                 "Spirit": "-5"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.1
@@ -352,7 +352,7 @@
                 "Spirit": "-5"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.15
@@ -411,7 +411,7 @@
                 "Description": "@SpiritGainRevengeBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.15
@@ -476,7 +476,7 @@
                 "Description": "@StealthEntranceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.15
@@ -529,7 +529,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan150": 1.15
@@ -588,7 +588,7 @@
                 "Spirit": "-1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "RecklessAttackB": {
@@ -658,7 +658,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15
@@ -759,7 +759,7 @@
                 "Description": "@AddWeaponPrefMaceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleA": {
@@ -891,7 +891,7 @@
                 "Description": "@AddWeaponPrefMaceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleA": {
@@ -1018,7 +1018,7 @@
                 "Spirit": "-3"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -1091,7 +1091,7 @@
                 "Description": "@SpiritLossRevengeADescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -1158,7 +1158,7 @@
                 "Spirit": "-1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -1232,7 +1232,7 @@
                 "Description": "@StunAbsorberDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -1306,7 +1306,7 @@
                 "Description": "@PoisonRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan150": 1.15
@@ -1382,7 +1382,7 @@
                 "Description": "@StunAbsorberDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBEarth": {
@@ -1456,7 +1456,7 @@
                 "Description": "@PoisonRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.15
@@ -1521,7 +1521,7 @@
                 "Description": "@PoisonRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.15
@@ -1599,7 +1599,7 @@
                 "Spirit": "-1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -1697,7 +1697,7 @@
                 "Description": "@HoldGroundDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -1807,7 +1807,7 @@
                 "Description": "@AddWeaponPrefMaceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAFire": {
@@ -1938,7 +1938,7 @@
                 "Description": "@AddWeaponPrefMaceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAFire": {
@@ -2065,7 +2065,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.15
@@ -2127,7 +2127,7 @@
                 "Spirit": "-1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.15,
@@ -2205,7 +2205,7 @@
                 "Description": "@SpiritGainRevengeBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.15,
@@ -2277,7 +2277,7 @@
                 "Description": "@PoisonRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.15
@@ -2342,7 +2342,7 @@
                 "Description": "@PoisonRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.15
@@ -2442,7 +2442,7 @@
                 "Description": "@AddWeaponPrefGreatAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -2554,7 +2554,7 @@
                 "Description": "@AddWeaponPrefGreatAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -2669,7 +2669,7 @@
                 "Description": "@AddWeaponPrefSwordDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.2,
@@ -2779,7 +2779,7 @@
                 "Description": "@AddWeaponPrefSwordDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.2,
@@ -2873,7 +2873,7 @@
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -2960,7 +2960,7 @@
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -3072,7 +3072,7 @@
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -3185,7 +3185,7 @@
                 "@HeroIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 0.9,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan150": 1.15
@@ -3253,7 +3253,7 @@
                 "Description": "@PoisonRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -3337,7 +3337,7 @@
                 "Description": "@PoisonRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -3415,7 +3415,7 @@
                 "Description": "@StunRevengeBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.1
@@ -3493,7 +3493,7 @@
                 "@RizetteIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 0.8,
             "Threat": {
                 "TimeInCombat300": 1.15
@@ -3593,7 +3593,7 @@
                 "@LudmillaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleA": {
@@ -3703,7 +3703,7 @@
                 "@NagiIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.15
@@ -3802,7 +3802,7 @@
                 "@AstridIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.15,
@@ -3881,7 +3881,7 @@
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15
@@ -3988,7 +3988,7 @@
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -4126,7 +4126,7 @@
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -4222,7 +4222,7 @@
                 "Spirit": "-3"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.2
@@ -4307,7 +4307,7 @@
                 "Description": "@HoldGroundDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.2
@@ -4386,7 +4386,7 @@
                 "Spirit": "-3"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat100": 1.2
@@ -4473,7 +4473,7 @@
                 "Description": "@PoisonRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat100": 1.2
@@ -4591,7 +4591,7 @@
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2
@@ -4703,7 +4703,7 @@
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2
@@ -4807,7 +4807,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.1
@@ -4877,7 +4877,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.15
@@ -4952,7 +4952,7 @@
                 "Spirit": "-1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.15
@@ -5017,7 +5017,7 @@
                 "Spirit": "-3"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.15
@@ -5108,7 +5108,7 @@
                 "Description": "@StealthEntranceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.15
@@ -5161,7 +5161,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15
@@ -5240,7 +5240,7 @@
                 "Description": "@AutoProtectDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -5327,7 +5327,7 @@
                 "Description": "@SpiritGainRevengeBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.15
@@ -5392,7 +5392,7 @@
                 "Description": "@AutoProtectDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -5479,7 +5479,7 @@
                 "Description": "@HoldGroundDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "RecklessAttackB": {
@@ -5572,7 +5572,7 @@
         "Conjures": [
             "FireMinion01"
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat100": 1.1
@@ -5663,7 +5663,7 @@
         "Conjures": [
             "FireMinion01"
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat100": 1.1
@@ -5751,7 +5751,7 @@
                 "Description": "@SpiritLossRevengeADescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -5830,7 +5830,7 @@
                 "Description": "@AutoProtectDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.15
@@ -5908,7 +5908,7 @@
                 "Description": "@HoldGroundDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.2
@@ -5987,7 +5987,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.1
@@ -6056,7 +6056,7 @@
                 "Spirit": "-3"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBLife": {
@@ -6127,7 +6127,7 @@
                 "Spirit": "+1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -6212,7 +6212,7 @@
                 "Description": "@SleepRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2AlliesLeftNot3": 1.15
@@ -6344,7 +6344,7 @@
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleA": {
@@ -6469,7 +6469,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15
@@ -6562,7 +6562,7 @@
                 "Spirit": "-1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.15
@@ -6657,7 +6657,7 @@
                 "Description": "@StunRevengeADescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.15
@@ -6746,7 +6746,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.1
@@ -6832,7 +6832,7 @@
                 "Description": "@AutoProtectDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "PoisonTouchDoubleA": {
@@ -6925,7 +6925,7 @@
                 "Description": "@AutoProtectDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "PoisonTouchDoubleA": {
@@ -7024,7 +7024,7 @@
                 "Description": "@AutoProtectDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAFire": {
@@ -7134,7 +7134,7 @@
                 "Description": "@StunRevengeBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2AlliesLeftNot3": 1.15
@@ -7199,7 +7199,7 @@
                 "Description": "@SpiritGainRevengeBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.15,
@@ -7271,7 +7271,7 @@
                 "Description": "@SpiritLossRevengeADescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.15
@@ -7358,7 +7358,7 @@
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAEarth": {
@@ -7509,7 +7509,7 @@
                 "Description": "@AddWeaponPrefMaceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2AlliesAtHPBelow50Percent": 1.1
@@ -7644,7 +7644,7 @@
                 "Description": "@AddWeaponPrefMaceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2AlliesAtHPBelow50Percent": 1.1
@@ -7801,7 +7801,7 @@
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleALife": {
@@ -7967,7 +7967,7 @@
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleALife": {
@@ -8129,7 +8129,7 @@
                 "Description": "@AddWeaponPrefKatanaDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.2,
@@ -8250,7 +8250,7 @@
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15
@@ -8361,7 +8361,7 @@
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15,
@@ -8473,7 +8473,7 @@
                 "Description": "@AddWeaponPrefKatanaDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -8579,7 +8579,7 @@
                 "Description": "@AddWeaponPrefKatanaDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -8708,7 +8708,7 @@
                 "@WaterElfWarriorGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -8837,7 +8837,7 @@
                 "@WaterElfWarriorGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2,
@@ -8970,7 +8970,7 @@
                 "@AirElfWarriorGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.15,
@@ -9095,7 +9095,7 @@
                 "@AirElfWarriorGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -9226,7 +9226,7 @@
                 "@BeastSoldierGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2,
@@ -9345,7 +9345,7 @@
                 "@BeastSoldierGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2,
@@ -9458,7 +9458,7 @@
                 "@FireElfKnightGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleA": {
@@ -9596,7 +9596,7 @@
                 "@FireElfKnightGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleA": {
@@ -9754,7 +9754,7 @@
                 "@BeastClericGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleALife": {
@@ -9942,7 +9942,7 @@
                 "@BeastClericGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleALife": {
@@ -10130,7 +10130,7 @@
                 "@MartialArtistGirlGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -10249,7 +10249,7 @@
                 "@MartialArtistGirlGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -10362,7 +10362,7 @@
                 "@RedScarfFrogGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -10477,7 +10477,7 @@
                 "@RedScarfFrogGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -10612,7 +10612,7 @@
                 "@ElfBattleMageGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.2
@@ -10789,7 +10789,7 @@
                 "@ElfBattleMageGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.2
@@ -10966,7 +10966,7 @@
                 "@TwoFaceDemonGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2,
@@ -11126,7 +11126,7 @@
                 "@TwoFaceDemonGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2,
@@ -11278,7 +11278,7 @@
                 "@FloatingMageGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllyHasThrower": 1.05
@@ -11444,7 +11444,7 @@
                 "@FloatingMageGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllyHasThrower": 1.05
@@ -11603,7 +11603,7 @@
                 "@FoxDuelistGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -11757,7 +11757,7 @@
                 "@FoxDuelistGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -11907,7 +11907,7 @@
                 "@RedHairKnightGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15
@@ -12035,7 +12035,7 @@
                 "@RedHairKnightGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15
@@ -12157,7 +12157,7 @@
                 "@RoseElfGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -12293,7 +12293,7 @@
                 "@RoseElfGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -12445,7 +12445,7 @@
                 "@TrainerBoyGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAFire": {
@@ -12620,7 +12620,7 @@
                 "@TrainerBoyGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAFire": {
@@ -12791,7 +12791,7 @@
                 "@TrainerGirlGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.2,
@@ -12954,7 +12954,7 @@
                 "@TrainerGirlGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.2,
@@ -13114,7 +13114,7 @@
                 "@ArcDemonGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15,
@@ -13244,7 +13244,7 @@
                 "@ArcDemonGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15,
@@ -13404,7 +13404,7 @@
                 "@SquidHeadGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15
@@ -13561,7 +13561,7 @@
                 "@SquidHeadGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15
@@ -13712,7 +13712,7 @@
                 "@HighAngelSoldierGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleA": {
@@ -13853,7 +13853,7 @@
                 "@HighAngelSoldierGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleA": {
@@ -14019,7 +14019,7 @@
                 "@PharaohLizardGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast4BurningInBattle": 1.25,
@@ -14158,7 +14158,7 @@
                 "@PharaohLizardGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast4BurningInBattle": 1.25,
@@ -14289,7 +14289,7 @@
                 "@GearLancerGirlGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -14445,7 +14445,7 @@
                 "@GearLancerGirlGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -14592,7 +14592,7 @@
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.15,
@@ -14709,7 +14709,7 @@
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.15,
@@ -14827,7 +14827,7 @@
                 "@SmokePipeFrogGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2
@@ -14969,7 +14969,7 @@
                 "@SmokePipeFrogGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2
@@ -15105,7 +15105,7 @@
                 "@CatEaredFighterGacha43Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25
@@ -15231,7 +15231,7 @@
                 "@CatEaredFighterGacha43Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25
@@ -15375,7 +15375,7 @@
                 "@EarthMercenaryGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleA": {
@@ -15538,7 +15538,7 @@
                 "@EarthMercenaryGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleA": {
@@ -15730,7 +15730,7 @@
                 "@ElfMusicianGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleALife": {
@@ -15897,7 +15897,7 @@
                 "@ElfMusicianGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleALife": {
@@ -16060,7 +16060,7 @@
                 "@GoldAngelGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -16198,7 +16198,7 @@
                 "@GoldAngelGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -16327,7 +16327,7 @@
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.2
@@ -16461,7 +16461,7 @@
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.2
@@ -16596,7 +16596,7 @@
                 "@AztecWarriorGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15
@@ -16724,7 +16724,7 @@
                 "@AztecWarriorGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15
@@ -16848,7 +16848,7 @@
                 "@FrogSorcerorGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2
@@ -17001,7 +17001,7 @@
                 "@FrogSorcerorGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2
@@ -17151,7 +17151,7 @@
                 "@MaskPurpleWitchGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15
@@ -17289,7 +17289,7 @@
                 "@MaskPurpleWitchGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15
@@ -17446,7 +17446,7 @@
                 "@MonsterBoyGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -17591,7 +17591,7 @@
                 "@MonsterBoyGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -17731,7 +17731,7 @@
                 "Description": "@AddWeaponPrefKatanaDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15
@@ -17870,7 +17870,7 @@
         "Conjures": [
             "DeathMinion01"
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15,
@@ -18004,7 +18004,7 @@
                 "@InannaGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2
@@ -18178,7 +18178,7 @@
                 "@InannaGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2
@@ -18348,7 +18348,7 @@
                 "@BugWarriorGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -18502,7 +18502,7 @@
                 "@BugWarriorGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -18647,7 +18647,7 @@
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.2,
@@ -18769,7 +18769,7 @@
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.2,
@@ -18908,7 +18908,7 @@
                 "@ElfFireSamuraiIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -19050,7 +19050,7 @@
                 "@ElfFireSamuraiIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -19187,7 +19187,7 @@
                 "@SilverHairBerserkerIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "KillsMoreThanSkillUsed": 1.4,
@@ -19352,7 +19352,7 @@
                 "@SilverHairBerserkerIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "KillsMoreThanSkillUsed": 1.4,
@@ -19508,7 +19508,7 @@
                 "@FoxMutantIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -19651,7 +19651,7 @@
                 "@FoxMutantIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -19771,7 +19771,7 @@
             }
         ],
         "Gacha_Intro": "@Taotie01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.2,
@@ -19884,7 +19884,7 @@
             }
         ],
         "Gacha_Intro": "@Taotie02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.2,
@@ -20015,7 +20015,7 @@
                 "@DemonElfBoyIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -20173,7 +20173,7 @@
                 "@DemonElfBoyIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -20337,7 +20337,7 @@
                 "@KirinIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -20473,7 +20473,7 @@
                 "@KirinIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -20602,7 +20602,7 @@
                 "@BlueSeaSerpentIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.25
@@ -20753,7 +20753,7 @@
                 "@BlueSeaSerpentIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.25,
@@ -20870,7 +20870,7 @@
                 "@ElminaIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -20986,7 +20986,7 @@
                 "@TheoIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAEarth": {
@@ -21098,7 +21098,7 @@
                 "Spirit": "-3"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.1
@@ -21198,7 +21198,7 @@
                 "@MyshaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -21334,7 +21334,7 @@
                 "Description": "@AddWeaponPrefKatanaDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -21420,7 +21420,7 @@
                 "Spirit": "+0"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -21480,7 +21480,7 @@
                 "Description": "@AutoProtectDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "PoisonTouchA": {
@@ -21544,7 +21544,7 @@
                 "Description": "@LossSpiritEntranceBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBEarth": {
@@ -21597,7 +21597,7 @@
                 "Description": "@AutoProtectDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBFire": {
@@ -21667,7 +21667,7 @@
                 "Description": "@PoisonImmunityDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBLife": {
@@ -21747,7 +21747,7 @@
                 "Description": "@GainSpiritEntranceCDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBWater": {
@@ -21798,7 +21798,7 @@
                 "Description": "@StunAbsorberDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBAir": {
@@ -21845,7 +21845,7 @@
                 "Spirit": "+0"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -21905,7 +21905,7 @@
                 "Spirit": "+0"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -21965,7 +21965,7 @@
                 "Spirit": "+0"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -22025,7 +22025,7 @@
                 "Spirit": "+0"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -22085,7 +22085,7 @@
                 "Spirit": "+0"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -22145,7 +22145,7 @@
                 "Spirit": "+0"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleB": {
@@ -22256,7 +22256,7 @@
                 "@RizetteCrestbearerIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -22407,7 +22407,7 @@
                 "@RizetteCrestbearerIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -22557,7 +22557,7 @@
                 "@FinnCrestbearerIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -22695,7 +22695,7 @@
                 "@FinnCrestbearerIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -22806,7 +22806,7 @@
             }
         ],
         "Gacha_Intro": "@AirDragon01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1.05,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.25,
@@ -22939,7 +22939,7 @@
             }
         ],
         "Gacha_Intro": "@AirDragon02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1.05,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.25,
@@ -23073,7 +23073,7 @@
                 "@BattleClericGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleA": {
@@ -23213,7 +23213,7 @@
                 "@BattleClericGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleA": {
@@ -23382,7 +23382,7 @@
                 "@AliceIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1.05,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -23535,7 +23535,7 @@
                 "@AliceIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1.05,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -23647,7 +23647,7 @@
                 "Description": "@TUMinusHighestTURevengeADescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TeamHasDreamhunt": 1.2
@@ -23812,7 +23812,7 @@
                 "@ReiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2
@@ -23963,7 +23963,7 @@
                 "@ReiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2
@@ -24142,7 +24142,7 @@
                 "@NagiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -24269,7 +24269,7 @@
                 "@NagiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -24377,7 +24377,7 @@
                 "@GreenDragonGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TeamHasTimestriker": 1.1
@@ -24526,7 +24526,7 @@
                 "@GreenDragonGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TeamHasTimestriker": 1.1
@@ -24712,7 +24712,7 @@
                 "@MoonGoddessIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.1
@@ -24897,7 +24897,7 @@
                 "@MoonGoddessIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.1
@@ -25071,7 +25071,7 @@
                 "@ButterflyLadyIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -25221,7 +25221,7 @@
                 "@ButterflyLadyIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -25383,7 +25383,7 @@
                 "@PinkHairWitchGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2
@@ -25557,7 +25557,7 @@
                 "@PinkHairWitchGacha21Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2
@@ -25743,7 +25743,7 @@
                 "@GoldAppleGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.25,
@@ -25904,7 +25904,7 @@
                 "@GoldAppleGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.25,
@@ -26060,7 +26060,7 @@
                 "@AstridRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2
@@ -26229,7 +26229,7 @@
                 "@AstridRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2
@@ -26389,7 +26389,7 @@
                 "@CherryBlossomIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit5OrMore": 0.8,
@@ -26545,7 +26545,7 @@
                 "@CherryBlossomIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit5OrMore": 0.9,
@@ -26688,7 +26688,7 @@
             "FireMinion01"
         ],
         "Gacha_Intro": "@FireDragon01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.1,
@@ -26842,7 +26842,7 @@
             "FireMinion01"
         ],
         "Gacha_Intro": "@FireDragon02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.1,
@@ -26995,7 +26995,7 @@
                 "@FurCoatLizardGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllyHasNoReinforcements": 1.1,
@@ -27124,7 +27124,7 @@
                 "@FurCoatLizardGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllyHasNoReinforcements": 1.1,
@@ -27240,7 +27240,7 @@
                 "@PurpleElfKnightGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TeamHasDreamhunt": 1.2
@@ -27387,7 +27387,7 @@
                 "@PurpleElfKnightGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2
@@ -27538,7 +27538,7 @@
                 "Description": "@AddWeaponPrefMaceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllyHasThrower": 1.05
@@ -27660,7 +27660,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.1
@@ -27745,7 +27745,7 @@
                 "Description": "@StunRevengeBDojoDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2AlliesLeftNot3": 1.15
@@ -27791,7 +27791,7 @@
                 "Spirit": "+1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleAFireDojo": {
@@ -27846,7 +27846,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleAFireDojo": {
@@ -27919,7 +27919,7 @@
                 "Description": "@SpiritGainRevengeBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.15,
@@ -27996,7 +27996,7 @@
                 "Description": "@HoldGroundDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "RecklessAttackBDojo": {
@@ -28089,7 +28089,7 @@
                 "Description": "@HoldGroundDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.2
@@ -28201,7 +28201,7 @@
                 "Description": "@AddWeaponPrefMaceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15
@@ -28325,7 +28325,7 @@
             }
         ],
         "Gacha_Intro": "@ElfFireSamuraiDojo02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -28435,7 +28435,7 @@
                 "Description": "@AddWeaponPrefKatanaDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -28536,7 +28536,7 @@
                 "Description": "@AddWeaponPrefSwordDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.2,
@@ -28645,7 +28645,7 @@
                 "Description": "@AddWeaponPrefSwordDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.2,
@@ -28732,7 +28732,7 @@
                 "Description": "@SleepRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2AlliesLeftNot3": 1.15
@@ -28829,7 +28829,7 @@
                 "Description": "@PoisonRevengeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBDojo": {
@@ -28938,7 +28938,7 @@
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.2,
@@ -29058,7 +29058,7 @@
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.15,
@@ -29166,7 +29166,7 @@
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleALifeDojo": {
@@ -29332,7 +29332,7 @@
             }
         ],
         "Gacha_Intro": "@BlueSeaSerpentDojo02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.25,
@@ -29424,7 +29424,7 @@
                 "Spirit": "+3"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.15
@@ -29534,7 +29534,7 @@
                 "Description": "@AddWeaponPrefGreatAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -29618,7 +29618,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.1
@@ -29716,7 +29716,7 @@
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2
@@ -29825,7 +29825,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15
@@ -29915,7 +29915,7 @@
                 "Description": "@StunAbsorberDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBEarthDojo": {
@@ -29986,7 +29986,7 @@
                 "Spirit": "-1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.15,
@@ -30048,7 +30048,7 @@
                 "Description": "@StunRevengeBDojoDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.1
@@ -30109,7 +30109,7 @@
                 "Description": "@StunAbsorberDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBDojo": {
@@ -30212,7 +30212,7 @@
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -30357,7 +30357,7 @@
                 "Description": "@AddWeaponPrefSwordDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -30438,7 +30438,7 @@
                 "Spirit": "-3"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAWaterDojo": {
@@ -30545,7 +30545,7 @@
                 "Description": "@AddWeaponPrefKatanaDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.2,
@@ -30670,7 +30670,7 @@
                 "Description": "@AddWeaponPrefMaceDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2
@@ -30779,7 +30779,7 @@
                 "Description": "@SpiritGainRevengeBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.15
@@ -30861,7 +30861,7 @@
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAFireDojo": {
@@ -30961,7 +30961,7 @@
                 "Spirit": "-1"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.15
@@ -31044,7 +31044,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -31141,7 +31141,7 @@
                 "Spirit": "-2"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 0.8,
             "Threat": {
                 "TimeInCombat300": 1.15
@@ -31245,7 +31245,7 @@
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -31334,7 +31334,7 @@
                 "Description": "@SpiritGainRevengeBDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.15,
@@ -31454,7 +31454,7 @@
                 "@DeathKnightIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25,
@@ -31604,7 +31604,7 @@
                 "@DeathKnightIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25,
@@ -31750,7 +31750,7 @@
                 "@WhiteKnightIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.25,
@@ -31897,7 +31897,7 @@
                 "@WhiteKnightIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.25,
@@ -32030,7 +32030,7 @@
                 "@DevilLadyGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15
@@ -32203,7 +32203,7 @@
                 "@DevilLadyGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15
@@ -32367,7 +32367,7 @@
                 "@WaterPriestessGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleAWater": {
@@ -32528,7 +32528,7 @@
                 "@WaterPriestessGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleAWater": {
@@ -32734,7 +32734,7 @@
                 "@SwimsuitAstridIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.25
@@ -32911,7 +32911,7 @@
                 "@SwimsuitAstridIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.25
@@ -33081,7 +33081,7 @@
                 "@SwimsuitLudmillaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -33242,7 +33242,7 @@
                 "@SwimsuitLudmillaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -33407,7 +33407,7 @@
                 "@WaterLancerGirlGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -33556,7 +33556,7 @@
                 "@WaterLancerGirlGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -33713,7 +33713,7 @@
                 "@AngelFighterIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.25
@@ -33883,7 +33883,7 @@
                 "@AngelFighterIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.25
@@ -34049,7 +34049,7 @@
                 "@ElminaRegularIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.25
@@ -34189,7 +34189,7 @@
                 "@ElminaRegularIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.25
@@ -34273,7 +34273,7 @@
                 "Description": "@AutoProtectDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "StealthAllySacA": {
@@ -34395,7 +34395,7 @@
                 "@IceWitchIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHasFrost2": 1.1,
@@ -34554,7 +34554,7 @@
                 "@IceWitchIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHasFrost2": 1.1,
@@ -34725,7 +34725,7 @@
                 "@LegendFireDragonIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged1": 1.1,
@@ -34903,7 +34903,7 @@
                 "@LegendFireDragonIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged1": 1.1,
@@ -35064,7 +35064,7 @@
                 "@FireGirlWarriorGacha45Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.15,
@@ -35210,7 +35210,7 @@
                 "@FireGirlWarriorGacha45Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.15,
@@ -35347,7 +35347,7 @@
                 "Description": "@AddWeaponPrefGreatSwordDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15,
@@ -35466,7 +35466,7 @@
         "Conjures": [
             "DeathMinion01"
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.15,
@@ -35595,7 +35595,7 @@
                 "@LudmillaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleALudmillaRegular": {
@@ -35774,7 +35774,7 @@
                 "@LudmillaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleALudmillaRegular": {
@@ -35948,7 +35948,7 @@
                 "@NorzaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -36094,7 +36094,7 @@
                 "@NorzaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -36235,7 +36235,7 @@
                 "@ArgaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25,
@@ -36373,7 +36373,7 @@
                 "@ArgaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25,
@@ -36488,7 +36488,7 @@
                 "@RibbonStudentGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TeamHasTimestriker": 1.1
@@ -36640,7 +36640,7 @@
                 "@RibbonStudentGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TeamHasTimestriker": 1.1
@@ -36814,7 +36814,7 @@
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -36954,7 +36954,7 @@
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -37104,7 +37104,7 @@
                 "@NovaBlastDragonIdle29Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.32,
@@ -37257,7 +37257,7 @@
                 "@NovaBlastDragonIdle29Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.32,
@@ -37405,7 +37405,7 @@
                 "@DarkRizetteIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -37561,7 +37561,7 @@
                 "@DarkRizetteIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -37708,7 +37708,7 @@
                 "@ChristmasElminaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -37858,7 +37858,7 @@
                 "@ChristmasElminaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -38001,7 +38001,7 @@
                 "@NewYearRolotiaIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CanUseRetributionSkills": 1.25
@@ -38141,7 +38141,7 @@
                 "@NewYearRolotiaIdle48Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CanUseRetributionSkills": 1.25
@@ -38295,7 +38295,7 @@
                 "@ChristmasCatEarGacha45Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleA": {
@@ -38472,7 +38472,7 @@
                 "@ChristmasCatEarGacha45Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleA": {
@@ -38661,7 +38661,7 @@
                 "@ChineseRizetteIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -38814,7 +38814,7 @@
                 "@ChineseRizetteIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -38946,7 +38946,7 @@
             }
         ],
         "Gacha_Intro": "@EarthKaiju01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.35,
@@ -39089,7 +39089,7 @@
             }
         ],
         "Gacha_Intro": "@EarthKaiju02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.35,
@@ -39241,7 +39241,7 @@
                 "@SamuraiGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.2,
@@ -39378,7 +39378,7 @@
                 "@SamuraiGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.2,
@@ -39510,7 +39510,7 @@
                 "@DancingAssassinIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -39665,7 +39665,7 @@
                 "@DancingAssassinIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -39801,7 +39801,7 @@
         "Conjures": [
             "FireMinion01"
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -39928,7 +39928,7 @@
         "Conjures": [
             "FireMinion01"
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -40048,7 +40048,7 @@
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CanUseRetributionSkills": 1.2
@@ -40204,7 +40204,7 @@
         "Conjures": [
             "EarthMinion01"
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CanUseRetributionSkills": 1.2
@@ -40373,7 +40373,7 @@
                 "@DarkLudmillaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -40537,7 +40537,7 @@
                 "@DarkLudmillaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -40693,7 +40693,7 @@
                 "@DarkAstridIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -40860,7 +40860,7 @@
                 "@DarkAstridIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -41016,7 +41016,7 @@
                 "@CyrusIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.15,
@@ -41177,7 +41177,7 @@
                 "@CyrusIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Kills1": 1.15,
@@ -41366,7 +41366,7 @@
                 "@RizetteNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.32,
@@ -41543,7 +41543,7 @@
                 "@RizetteNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow50Percent": 1.32,
@@ -41729,7 +41729,7 @@
                 "@GloriaGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow25Percent": 1.2
@@ -41883,7 +41883,7 @@
                 "@GloriaGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow25Percent": 1.2
@@ -42038,7 +42038,7 @@
                 "@SpearGirlWarriorGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleASpearGirlWarrior": {
@@ -42190,7 +42190,7 @@
                 "@SpearGirlWarriorGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackDoubleASpearGirlWarrior": {
@@ -42363,7 +42363,7 @@
                 "@CrescentIdle29Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CanUseRetributionSkills": 1.25
@@ -42513,7 +42513,7 @@
                 "@CrescentIdle29Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CanUseRetributionSkills": 1.25
@@ -42688,7 +42688,7 @@
                 "@KisaraIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -42852,7 +42852,7 @@
                 "@KisaraIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -43009,7 +43009,7 @@
                 "@RolotiaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -43152,7 +43152,7 @@
                 "@RolotiaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -43313,7 +43313,7 @@
                 "@TimeWitchGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -43469,7 +43469,7 @@
                 "@TimeWitchGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2
@@ -43633,7 +43633,7 @@
                 "@BahamutIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged1": 1.1,
@@ -43808,7 +43808,7 @@
                 "@BahamutIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged1": 1.1,
@@ -43981,7 +43981,7 @@
                 "@JeanneIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -44159,7 +44159,7 @@
                 "@JeanneIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2
@@ -44307,7 +44307,7 @@
             }
         ],
         "Gacha_Intro": "@JeanneAngel01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "RecklessAttackCJeanneAngel": {
@@ -44428,7 +44428,7 @@
             }
         ],
         "Gacha_Intro": "@JeanneAngel02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "RecklessAttackCJeanneAngel": {
@@ -44581,7 +44581,7 @@
                 "@AxeAngelGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -44723,7 +44723,7 @@
                 "@AxeAngelGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -44873,7 +44873,7 @@
                 "@RolotiaSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -45001,7 +45001,7 @@
                 "@RolotiaSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -45122,7 +45122,7 @@
                 "@ElminaSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -45256,7 +45256,7 @@
                 "@ElminaSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -45408,7 +45408,7 @@
                 "@DancingAssassinSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleStanceAEarthDASwimsuit": {
@@ -45560,7 +45560,7 @@
                 "@DancingAssassinSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleStanceAEarthDASwimsuit": {
@@ -45726,7 +45726,7 @@
                 "@AntaresSwimsuitGacha45Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -45902,7 +45902,7 @@
                 "@AntaresSwimsuitGacha45Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2
@@ -46086,7 +46086,7 @@
                 "@CallenDragonIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -46270,7 +46270,7 @@
                 "@CallenDragonIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -46437,7 +46437,7 @@
                 "@EyepatchGuardGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "RecklessAttackA": {
@@ -46600,7 +46600,7 @@
                 "@EyepatchGuardGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "RecklessAttackA": {
@@ -46774,7 +46774,7 @@
                 "@GothGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllyHasThrower": 1.1,
@@ -46958,7 +46958,7 @@
                 "@GothGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllyHasThrower": 1.1,
@@ -47134,7 +47134,7 @@
                 "@IkemenSamuraiIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -47331,7 +47331,7 @@
                 "@IkemenSamuraiIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -47523,7 +47523,7 @@
                 "@OssiaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -47677,7 +47677,7 @@
                 "@OssiaIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -47811,7 +47811,7 @@
         "Conjures": [
             "WaterMinion01"
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.15,
@@ -47913,7 +47913,7 @@
         "Conjures": [
             "WaterMinion01"
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.15,
@@ -48048,7 +48048,7 @@
                 "@RedElfOfficerGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15
@@ -48179,7 +48179,7 @@
                 "@RedElfOfficerGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15
@@ -48318,7 +48318,7 @@
                 "@YandereMaidIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -48492,7 +48492,7 @@
                 "@YandereMaidIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25,
@@ -48661,7 +48661,7 @@
                 "@SchoolGirlWarriorIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast4BurningInBattle": 1.25,
@@ -48809,7 +48809,7 @@
                 "@SchoolGirlWarriorIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast4BurningInBattle": 1.25,
@@ -48952,7 +48952,7 @@
                 "@OniSchoolGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -49093,7 +49093,7 @@
                 "@OniSchoolGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -49215,7 +49215,7 @@
                 "@BunnySamuraiGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2,
@@ -49325,7 +49325,7 @@
                 "@BunnySamuraiGacha39Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.2,
@@ -49418,7 +49418,7 @@
                 "Description": "@HealPurifyAllRevengeADescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBLife": {
@@ -49555,7 +49555,7 @@
                 "@DarkRizetteChristmasIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -49737,7 +49737,7 @@
                 "@DarkRizetteChristmasIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -49911,7 +49911,7 @@
                 "@DarkAstridNewYearIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -50042,7 +50042,7 @@
                 "@DarkAstridNewYearIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -50168,7 +50168,7 @@
                 "@CatIdolGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.2
@@ -50390,7 +50390,7 @@
                 "@CatIdolGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.2
@@ -50595,7 +50595,7 @@
                 "@DarkCatFighterGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -50737,7 +50737,7 @@
                 "@DarkCatFighterGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.15,
@@ -50887,7 +50887,7 @@
                 "@AntaresModernIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -51040,7 +51040,7 @@
                 "@AntaresModernIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 0.75,
@@ -51189,7 +51189,7 @@
                 "@MechaSisterIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25
@@ -51349,7 +51349,7 @@
                 "@MechaSisterIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25,
@@ -51505,7 +51505,7 @@
                 "@DeadlyNurseIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -51700,7 +51700,7 @@
                 "@DeadlyNurseIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -51893,7 +51893,7 @@
                 "@ReiSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast1ReiSwimsuitSummonAlly": 1.2,
@@ -52070,7 +52070,7 @@
                 "@ReiSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast1ReiSwimsuitSummonAlly": 1.2,
@@ -52219,7 +52219,7 @@
             }
         ],
         "Gacha_Intro": "@ReiSwimsuitSummon01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "GoodForReiSwimSummonFinal": 1.25,
@@ -52368,7 +52368,7 @@
             }
         ],
         "Gacha_Intro": "@ReiSwimsuitSummon02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "GoodForReiSwimSummonFinal": 1.25,
@@ -52530,7 +52530,7 @@
                 "@RizetteYoungIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged1": 1.075,
@@ -52687,7 +52687,7 @@
                 "@RizetteYoungIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged1": 1.075,
@@ -52868,7 +52868,7 @@
                 "@ShannaRidingHoodIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove50Percent": 1.2,
@@ -53016,7 +53016,7 @@
                 "@ShannaRidingHoodIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove50Percent": 1.2,
@@ -53147,7 +53147,7 @@
                 "@LunaHoodGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2
@@ -53319,7 +53319,7 @@
                 "@LunaHoodGacha41Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2
@@ -53500,7 +53500,7 @@
                 "@SnowWhiteIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.2
@@ -53646,7 +53646,7 @@
                 "@SnowWhiteIdle147Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.2,
@@ -53800,7 +53800,7 @@
                 "@LudmillaBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.01
@@ -53947,7 +53947,7 @@
                 "@LudmillaBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.01
@@ -54127,7 +54127,7 @@
                 "@YandereMaidSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.25,
@@ -54265,7 +54265,7 @@
                 "@YandereMaidSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit7OrMore": 1.25,
@@ -54395,7 +54395,7 @@
                 "@RizetteSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -54570,7 +54570,7 @@
                 "@RizetteSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -54743,7 +54743,7 @@
                 "@CallenSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25,
@@ -54936,7 +54936,7 @@
                 "@CallenSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25,
@@ -55072,7 +55072,7 @@
                 "Description": "@StunImmunityDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyKillLockNotUnlockedActing": 30.1,
@@ -55197,7 +55197,7 @@
                 "@JeanneDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -55371,7 +55371,7 @@
                 "@JeanneDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -55521,7 +55521,7 @@
             "DeathMinion01"
         ],
         "Gacha_Intro": "@JeanneDarkAngel01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.2,
@@ -55678,7 +55678,7 @@
             "DeathMinion01"
         ],
         "Gacha_Intro": "@JeanneDarkAngel02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CrappyMonsterInBack": 1.2,
@@ -55846,7 +55846,7 @@
                 "@CallenDragonDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.2,
@@ -56018,7 +56018,7 @@
                 "@CallenDragonDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.2,
@@ -56185,7 +56185,7 @@
                 "@ElminaNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "BusterAttackAElminaNew": {
@@ -56335,7 +56335,7 @@
                 "@ElminaNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "BusterAttackAElminaNew": {
@@ -56480,7 +56480,7 @@
                 "@CatIdolHalloweenIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -56630,7 +56630,7 @@
                 "@CatIdolHalloweenIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -56775,7 +56775,7 @@
                 "@MyshaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealthOrHiding": 1.2,
@@ -56947,7 +56947,7 @@
                 "@MyshaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealthOrHiding": 1.2,
@@ -57114,7 +57114,7 @@
                 "@WhiteSnakeGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan100": 1.29,
@@ -57293,7 +57293,7 @@
                 "@WhiteSnakeGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan100": 1.29,
@@ -57470,7 +57470,7 @@
                 "@OniSchoolSamuraiIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2,
@@ -57640,7 +57640,7 @@
                 "@OniSchoolSamuraiIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2,
@@ -57803,7 +57803,7 @@
                 "@LudmillaChristmasIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HasNotUsedDoubleTurn": 1.5,
@@ -58012,7 +58012,7 @@
                 "@LudmillaChristmasIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HasNotUsedDoubleTurn": 1.5,
@@ -58216,7 +58216,7 @@
                 "@MechaSisterDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "PoisonTouchAMechaSisterDark": {
@@ -58408,7 +58408,7 @@
                 "@MechaSisterDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "PoisonTouchAMechaSisterDark": {
@@ -58598,7 +58598,7 @@
                 "@CallenRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -58801,7 +58801,7 @@
                 "@CallenRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan130": 1.2,
@@ -58999,7 +58999,7 @@
                 "@JeanneValentineIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -59169,7 +59169,7 @@
                 "@JeanneValentineIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -59311,7 +59311,7 @@
             }
         ],
         "Gacha_Intro": "@JeanneAngelValentine01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -59474,7 +59474,7 @@
             }
         ],
         "Gacha_Intro": "@JeanneAngelValentine02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -59652,7 +59652,7 @@
                 "@HorseIdolGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.2,
@@ -59774,7 +59774,7 @@
                 "@HorseIdolGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.2,
@@ -59891,7 +59891,7 @@
                 "@AstridBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.05
@@ -60043,7 +60043,7 @@
                 "@AstridBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.05
@@ -60190,7 +60190,7 @@
                 "@MyshaIdolGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.2,
@@ -60358,7 +60358,7 @@
                 "@MyshaIdolGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPAbove75Percent": 1.2,
@@ -60525,7 +60525,7 @@
                 "@ShutenDojiIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -60701,7 +60701,7 @@
                 "@ShutenDojiIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -60873,7 +60873,7 @@
                 "@EarthGoddessIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2EnemiesPoisonedAlt": 1.1,
@@ -61078,7 +61078,7 @@
                 "@EarthGoddessIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2EnemiesPoisonedAlt": 1.1,
@@ -61275,7 +61275,7 @@
                 "@AntaresRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -61421,7 +61421,7 @@
                 "@AntaresRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.15,
@@ -61562,7 +61562,7 @@
                 "@MyshaDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -61723,7 +61723,7 @@
                 "@MyshaDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -61879,7 +61879,7 @@
                 "@CowGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleSCowGirl": {
@@ -62069,7 +62069,7 @@
                 "@CowGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleSCowGirl": {
@@ -62257,7 +62257,7 @@
                 "@CallenBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -62417,7 +62417,7 @@
                 "@CallenBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -62569,7 +62569,7 @@
                 "@ReiBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.04,
@@ -62767,7 +62767,7 @@
                 "@ReiBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.04,
@@ -62960,7 +62960,7 @@
                 "@SnowWhiteSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.25,
@@ -63117,7 +63117,7 @@
                 "@SnowWhiteSwimsuitIdle149Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.25,
@@ -63272,7 +63272,7 @@
                 "@TheoRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CanUseVicariousSkills": 1.15
@@ -63465,7 +63465,7 @@
                 "@TheoRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CanUseVicariousSkills": 1.15
@@ -63657,7 +63657,7 @@
                 "@DeadlyVampireIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "KillsMoreThanSkillUsed": 1.4,
@@ -63808,7 +63808,7 @@
                 "@DeadlyVampireIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "KillsMoreThanSkillUsed": 1.4,
@@ -63950,7 +63950,7 @@
                 "@MerlinRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CannotUseStunAllRetreat": 0.83,
@@ -64089,7 +64089,7 @@
                 "@MerlinRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "CannotUseStunAllRetreat": 0.83,
@@ -64223,7 +64223,7 @@
                 "@FreyaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HoldGroundPlusTriggeredWaitingForTurn": 0.1,
@@ -64373,7 +64373,7 @@
                 "@FreyaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HoldGroundPlusTriggeredWaitingForTurn": 0.1,
@@ -64518,7 +64518,7 @@
                 "@InugamiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -64683,7 +64683,7 @@
                 "@InugamiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -64847,7 +64847,7 @@
                 "@DeerGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.4
@@ -65065,7 +65065,7 @@
                 "@DeerGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.4
@@ -65278,7 +65278,7 @@
                 "@OssiaHalloweenIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsTauntingAndTauntedEnemyTurn": 1.5,
@@ -65493,7 +65493,7 @@
                 "@OssiaHalloweenIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsTauntingAndTauntedEnemyTurn": 1.5,
@@ -65700,7 +65700,7 @@
                 "@GokuRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -65841,7 +65841,7 @@
                 "@GokuRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -65977,7 +65977,7 @@
                 "@AliceDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.25,
@@ -66143,7 +66143,7 @@
                 "@AliceDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.25,
@@ -66304,7 +66304,7 @@
                 "@ElminaBunnyIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast4BurningInBattle": 1.25,
@@ -66449,7 +66449,7 @@
                 "@ElminaBunnyIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast4BurningInBattle": 1.25,
@@ -66592,7 +66592,7 @@
                 "@TiamatRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.2,
@@ -66726,7 +66726,7 @@
                 "@TiamatRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.2,
@@ -66852,7 +66852,7 @@
                 "@RoundTableKnightIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.15,
@@ -67025,7 +67025,7 @@
                 "@RoundTableKnightIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.15,
@@ -67193,7 +67193,7 @@
                 "@CrossSwordKnightIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills0AllySpirit3OrMore": 1.15,
@@ -67348,7 +67348,7 @@
                 "@CrossSwordKnightIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills0AllySpirit3OrMore": 1.15,
@@ -67501,7 +67501,7 @@
                 "@JeanneBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25
@@ -67679,7 +67679,7 @@
                 "@JeanneBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat300": 1.25
@@ -67832,7 +67832,7 @@
             "JeanneBride01"
         ],
         "Gacha_Intro": "@JeanneBrideAngel01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "NoJeanneBrideInTeam": 1.3,
@@ -68013,7 +68013,7 @@
             "JeanneBride02"
         ],
         "Gacha_Intro": "@JeanneBrideAngel02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "NoJeanneBrideInTeam": 1.3,
@@ -68206,7 +68206,7 @@
                 "@LudmillaRacequeenIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow25Percent": 1.32,
@@ -68348,7 +68348,7 @@
                 "@LudmillaRacequeenIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HPBelow25Percent": 1.32,
@@ -68483,7 +68483,7 @@
                 "@TwinGodRegularIdle76Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -68637,7 +68637,7 @@
                 "@TwinGodRegularIdle76Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -68787,7 +68787,7 @@
                 "@MechaSisterSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.03
@@ -68960,7 +68960,7 @@
                 "@MechaSisterSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.03
@@ -69186,7 +69186,7 @@
                 "@GyurelleRegularIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast2GyurelleRegularAlly": 1.25,
@@ -69346,7 +69346,7 @@
                 "@GyurelleRegularIdle149Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast2GyurelleRegularAlly": 1.25,
@@ -69498,7 +69498,7 @@
                 "@OssiaDarkIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealthOrCounterStance": 1.2,
@@ -69665,7 +69665,7 @@
                 "@OssiaDarkIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealthOrCounterStance": 1.2,
@@ -69827,7 +69827,7 @@
                 "@AstridNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2,
@@ -69999,7 +69999,7 @@
                 "@AstridNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2,
@@ -70167,7 +70167,7 @@
                 "@CinderellaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyHasStealthOrArmor": 1.1,
@@ -70335,7 +70335,7 @@
                 "@CinderellaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyHasStealthOrArmor": 1.1,
@@ -70505,7 +70505,7 @@
                 "@IbarahimeRegularIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -70654,7 +70654,7 @@
                 "@IbarahimeRegularIdle149Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -70799,7 +70799,7 @@
                 "@DarkRizetteSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.25
@@ -70961,7 +70961,7 @@
                 "@DarkRizetteSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.25
@@ -71123,7 +71123,7 @@
                 "@LudmillaSchoolGirlIdle145Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -71300,7 +71300,7 @@
                 "@LudmillaSchoolGirlIdle145Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -71470,7 +71470,7 @@
                 "@RolotiaNewIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "StunAbsorberInEnemyTeam": 0.25,
@@ -71654,7 +71654,7 @@
                 "@RolotiaNewIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "StunAbsorberInEnemyTeam": 0.25,
@@ -71833,7 +71833,7 @@
                 "@SnowWhiteBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.2,
@@ -71998,7 +71998,7 @@
                 "@SnowWhiteBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.2,
@@ -72140,7 +72140,7 @@
             "DeathMinion01"
         ],
         "Gacha_Intro": "@SnowBlackBride01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "GoodForSnowBlackBrideThrow": 1.2,
@@ -72286,7 +72286,7 @@
             "DeathMinion01"
         ],
         "Gacha_Intro": "@SnowBlackBride02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "GoodForSnowBlackBrideThrow": 1.2,
@@ -72444,7 +72444,7 @@
                 "@NobunagaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.2
@@ -72590,7 +72590,7 @@
                 "@NobunagaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.2,
@@ -72732,7 +72732,7 @@
                 "@BurnedGirlRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.1,
@@ -72868,7 +72868,7 @@
                 "@BurnedGirlRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.1,
@@ -73002,7 +73002,7 @@
                 "@AliceMagicalGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.5,
@@ -73175,7 +73175,7 @@
                 "@AliceMagicalGirlIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.5,
@@ -73301,7 +73301,7 @@
                 "Description": "@StunImmunityDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "PurifyHealDoubleBMagicalRabbit": {
@@ -73446,7 +73446,7 @@
                 "@RoundTableKnightBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAttackBoostARtkBride": {
@@ -73594,7 +73594,7 @@
                 "@RoundTableKnightBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleAttackBoostARtkBride": {
@@ -73741,7 +73741,7 @@
                 "@KingArthurRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -73903,7 +73903,7 @@
                 "@KingArthurRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -74078,7 +74078,7 @@
                 "@YandereMaidRaceQueenIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -74254,7 +74254,7 @@
                 "@YandereMaidRaceQueenIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -74444,7 +74444,7 @@
                 "@JeanneDarkSwimsuitIdle53Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -74618,7 +74618,7 @@
                 "@JeanneDarkSwimsuitIdle53Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -74786,7 +74786,7 @@
                 "@HimikoRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan100": 1.2,
@@ -74927,7 +74927,7 @@
                 "@HimikoRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan100": 1.2,
@@ -75063,7 +75063,7 @@
                 "@KaguyahimeRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -75213,7 +75213,7 @@
                 "@KaguyahimeRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -75361,7 +75361,7 @@
                 "@OdinRegularIdle52Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.99,
@@ -75507,7 +75507,7 @@
                 "@OdinRegularIdle52Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.99,
@@ -75606,7 +75606,7 @@
             "OdinRegular01"
         ],
         "Gacha_Intro": "@OdinRaven01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "NoOdinRegularInMyTeam": 1.5
@@ -75693,7 +75693,7 @@
             "OdinRegular02"
         ],
         "Gacha_Intro": "@OdinRaven02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "NoOdinRegularInMyTeam": 1.5
@@ -75814,7 +75814,7 @@
                 "@LokiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -75968,7 +75968,7 @@
                 "@LokiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.15,
@@ -76117,7 +76117,7 @@
                 "@MechaSisterBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -76276,7 +76276,7 @@
                 "@MechaSisterBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -76433,7 +76433,7 @@
                 "@CleopatraRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -76584,7 +76584,7 @@
                 "@CleopatraRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.2,
@@ -76727,7 +76727,7 @@
                 "@GilgameshRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllUnitsInBattleBurning": 1.3,
@@ -76846,7 +76846,7 @@
                 "@GilgameshRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllUnitsInBattleBurning": 1.3,
@@ -76960,7 +76960,7 @@
                 "@RizetteBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -77129,7 +77129,7 @@
                 "@RizetteBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -77296,7 +77296,7 @@
                 "@GokuDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.2,
@@ -77447,7 +77447,7 @@
                 "@GokuDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.2,
@@ -77590,7 +77590,7 @@
                 "@OtohimeRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.3,
@@ -77725,7 +77725,7 @@
                 "@OtohimeRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.3,
@@ -77855,7 +77855,7 @@
                 "@CinderellaDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HasPowerCharge": 1.2,
@@ -78016,7 +78016,7 @@
                 "@CinderellaDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HasPowerCharge": 1.2,
@@ -78173,7 +78173,7 @@
                 "@CerberusRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "IgnitionAttackSpiritACerberusRegular": {
@@ -78315,7 +78315,7 @@
                 "@CerberusRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "IgnitionAttackSpiritACerberusRegular": {
@@ -78452,7 +78452,7 @@
                 "@LudmillaYukataIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "BlindStrikeDoubleALudmillaYukata": {
@@ -78572,7 +78572,7 @@
                 "@LudmillaYukataIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "BlindStrikeDoubleALudmillaYukata": {
@@ -78687,7 +78687,7 @@
                 "@PercivalRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.25,
@@ -78816,7 +78816,7 @@
                 "@PercivalRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.25,
@@ -78940,7 +78940,7 @@
                 "@MordredRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -79081,7 +79081,7 @@
                 "@MordredRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -79217,7 +79217,7 @@
                 "@IbarahimeSwimsuitIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast1SleepingInBattleNotSelf": 1.1,
@@ -79377,7 +79377,7 @@
                 "@IbarahimeSwimsuitIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast1SleepingInBattleNotSelf": 1.1,
@@ -79532,7 +79532,7 @@
                 "@RapunzelRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHasNoSleepingInTeam": 1.1,
@@ -79683,7 +79683,7 @@
                 "@RapunzelRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHasNoSleepingInTeam": 1.1,
@@ -79829,7 +79829,7 @@
                 "@LuBuRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.3,
@@ -79976,7 +79976,7 @@
                 "@LuBuRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.3,
@@ -80118,7 +80118,7 @@
                 "@MusashiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25,
@@ -80265,7 +80265,7 @@
                 "@MusashiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.25,
@@ -80407,7 +80407,7 @@
                 "@KingArthurSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.1,
@@ -80543,7 +80543,7 @@
                 "@KingArthurSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.1,
@@ -80677,7 +80677,7 @@
                 "@FrankensteinRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "FrankensteinRegularDollInTeam": 1.3
@@ -80797,7 +80797,7 @@
                 "@FrankensteinRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "FrankensteinRegularDollInTeam": 1.3
@@ -80892,7 +80892,7 @@
             "FrankensteinRegular01"
         ],
         "Gacha_Intro": "@FrankensteinRegularDoll01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "FrankensteinRegularInTeam": 1.29,
@@ -80993,7 +80993,7 @@
             "FrankensteinRegular02"
         ],
         "Gacha_Intro": "@FrankensteinRegularDoll02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "FrankensteinRegularInTeam": 1.29,
@@ -81106,7 +81106,7 @@
                 "@GenieRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit0": 1.1,
@@ -81235,7 +81235,7 @@
                 "@GenieRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit0": 1.1,
@@ -81359,7 +81359,7 @@
                 "@CinderellaSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleeping": 1.2,
@@ -81524,7 +81524,7 @@
                 "@CinderellaSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleeping": 1.2,
@@ -81684,7 +81684,7 @@
                 "@UnicornRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -81846,7 +81846,7 @@
                 "@UnicornRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -82003,7 +82003,7 @@
                 "@CthulhuGirlRegularIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllEnemiesPoisonedAlt": 1.1,
@@ -82121,7 +82121,7 @@
                 "@CthulhuGirlRegularIdle49Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllEnemiesPoisonedAlt": 1.1,
@@ -82234,7 +82234,7 @@
                 "@NapoleonRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged3": 1.1,
@@ -82382,7 +82382,7 @@
                 "@NapoleonRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged3": 1.1,
@@ -82525,7 +82525,7 @@
                 "@CleopatraDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2EnemiesPoisoned": 1.15,
@@ -82672,7 +82672,7 @@
                 "@CleopatraDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2EnemiesPoisoned": 1.15,
@@ -82814,7 +82814,7 @@
                 "@HijikataRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.15,
@@ -82982,7 +82982,7 @@
                 "@HijikataRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.15,
@@ -83145,7 +83145,7 @@
                 "@OkitaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -83299,7 +83299,7 @@
                 "@OkitaRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsStealth": 1.2,
@@ -83448,7 +83448,7 @@
                 "@KaguyahimeSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2,
@@ -83585,7 +83585,7 @@
                 "@KaguyahimeSwimsuitIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyHas1Protector": 1.2,
@@ -83717,7 +83717,7 @@
                 "@LudmillaNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged1": 1.1,
@@ -83870,7 +83870,7 @@
                 "@LudmillaNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsCharged1": 1.1,
@@ -84018,7 +84018,7 @@
                 "@TristanRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -84186,7 +84186,7 @@
                 "@TristanRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -84352,7 +84352,7 @@
                 "@ExcaliburRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllyHasReinforcementsTokenInBack": 1.1,
@@ -84494,7 +84494,7 @@
                 "@ExcaliburRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllyHasReinforcementsTokenInBack": 1.1,
@@ -84583,7 +84583,7 @@
                 "Description": "@MirageMonsterDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "PoisonTouchA": {
@@ -84701,7 +84701,7 @@
                 "@RoundTableKnightDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -84882,7 +84882,7 @@
                 "@RoundTableKnightDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -85058,7 +85058,7 @@
                 "@LuciferRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -85205,7 +85205,7 @@
                 "@LuciferRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.2,
@@ -85347,7 +85347,7 @@
                 "@CrossSwordKnightDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills2": 1.2,
@@ -85518,7 +85518,7 @@
                 "@CrossSwordKnightDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills2": 1.2,
@@ -85684,7 +85684,7 @@
                 "@SnowWhiteMaidIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan100": 1.2,
@@ -85836,7 +85836,7 @@
                 "@SnowWhiteMaidIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan100": 1.2,
@@ -85986,7 +85986,7 @@
                 "@MurasakiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast4EnemiesLeft": 1.2,
@@ -86143,7 +86143,7 @@
                 "@MurasakiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AtLeast4EnemiesLeft": 1.2,
@@ -86295,7 +86295,7 @@
                 "@MermaidRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -86473,7 +86473,7 @@
                 "@MermaidRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamSleepingAlt": 1.2,
@@ -86598,7 +86598,7 @@
                 "Description": "@MirageMonsterDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "SleepAttackA": {
@@ -86733,7 +86733,7 @@
                 "@GokuBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "NotCharged": 1.1,
@@ -86893,7 +86893,7 @@
                 "@GokuBrideIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "NotCharged": 1.1,
@@ -87048,7 +87048,7 @@
                 "@GoemonRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "NoClonedGoemonRegularInTeam": 1.2,
@@ -87204,7 +87204,7 @@
                 "@GoemonRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "NoClonedGoemonRegularInTeam": 1.2,
@@ -87333,7 +87333,7 @@
             "GoemonRegularClone01"
         ],
         "Gacha_Intro": "@GoemonRegularClone01GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "SweepMaybeCloneAGoemonRegular01": {
@@ -87455,7 +87455,7 @@
             "GoemonRegularClone02"
         ],
         "Gacha_Intro": "@GoemonRegularClone02GachaIntroText",
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "SweepMaybeCloneAGoemonRegular": {
@@ -87595,7 +87595,7 @@
                 "@KojiroRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -87741,7 +87741,7 @@
                 "@KojiroRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -87882,7 +87882,7 @@
                 "@DaVinciRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HoldGroundPlusTriggeredWaitingForTurn": 0.01,
@@ -88053,7 +88053,7 @@
                 "@DaVinciRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HoldGroundPlusTriggeredWaitingForTurn": 0.01,
@@ -88217,7 +88217,7 @@
                 "@SatanRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -88372,7 +88372,7 @@
                 "@SatanRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "Kills1": 1.1,
@@ -88545,7 +88545,7 @@
                 "@DragonGirlRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.05,
@@ -88717,7 +88717,7 @@
                 "@DragonGirlRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "IsBurning": 1.05,
@@ -88836,7 +88836,7 @@
                 "Description": "@MirageMonsterDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBFire": {
@@ -88952,7 +88952,7 @@
                 "@HokusaiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HokusaiSeesAll6ElementsOnBattlefield": 1.3,
@@ -89122,7 +89122,7 @@
                 "@HokusaiRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "HokusaiSeesAll6ElementsOnBattlefield": 1.3,
@@ -89285,7 +89285,7 @@
                 "@MechaSisterNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.02
@@ -89425,7 +89425,7 @@
                 "@MechaSisterNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.02
@@ -89567,7 +89567,7 @@
                 "@YamatoRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.04
@@ -89697,7 +89697,7 @@
                 "@YamatoRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AlwaysTrue": 1.04
@@ -89816,7 +89816,7 @@
                 "@ZoroRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2AlliesLessThan50TU": 1.1,
@@ -89958,7 +89958,7 @@
                 "@ZoroRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "2AlliesLessThan50TU": 1.1,
@@ -90116,7 +90116,7 @@
                 "@KaguyahimeDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.2,
@@ -90286,7 +90286,7 @@
                 "@KaguyahimeDarkIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "TimeInCombat200": 1.2,
@@ -90454,7 +90454,7 @@
                 "@KirinGirlRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan50": 1.01,
@@ -90598,7 +90598,7 @@
                 "@KirinGirlRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "EnemyTeamHasCurrentTUGreaterThan50": 1.01,
@@ -90689,7 +90689,7 @@
                 "Description": "@MirageMonsterDescriptionKey"
             }
         ],
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
                 "GainAttackSingleBAir": {
@@ -90814,7 +90814,7 @@
                 "@LudmillaDarkNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.05,
@@ -90958,7 +90958,7 @@
                 "@LudmillaDarkNewIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "1EnemyPoisonedAlt": 1.05,
@@ -91121,7 +91121,7 @@
                 "@ElizabethRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.05,
@@ -91264,7 +91264,7 @@
                 "@ElizabethRegularIdle50Key"
             ]
         },
-        "AI_Prop": {
+        "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
                 "AllySpirit6OrMore": 1.05,
