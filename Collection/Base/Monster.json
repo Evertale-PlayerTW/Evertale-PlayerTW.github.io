@@ -76,6 +76,10 @@
         "Speed": 142,
         "Power": 13116,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 6,
+            "Evolve_Target": "FireBird02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackDoubleAFireNameKey",
@@ -727,6 +731,10 @@
         "Speed": 272,
         "Power": 21810,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 26,
+            "Evolve_Target": "FrogKnight02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackDoubleANameKey",
@@ -1014,6 +1022,10 @@
         "Speed": 89,
         "Power": 15600,
         "Visible": false,
+        "Free_Evolve": {
+            "Evolve_Level": 15,
+            "Evolve_Target": "TasselMage02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleBAirNameKey",
@@ -1154,6 +1166,10 @@
         "Speed": 103,
         "Power": 15282,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 15,
+            "Evolve_Target": "FourLeggedCatfish02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleBNameKey",
@@ -1448,6 +1464,10 @@
         "Speed": 367,
         "Power": 18462,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 9,
+            "Evolve_Target": "AirPony02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -1591,6 +1611,10 @@
         "Speed": 364,
         "Power": 18348,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 15,
+            "Evolve_Target": "CancerCrab02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -1781,6 +1805,10 @@
         "Speed": 71,
         "Power": 21774,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 23,
+            "Evolve_Target": "BrocheWitch02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleAFireNameKey",
@@ -2063,6 +2091,10 @@
         "Speed": 266,
         "Power": 15624,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 12,
+            "Evolve_Target": "FireWolf02"
+        },
         "Active_Skills": [
             {
                 "Title": "@RecklessAttackANameKey",
@@ -2119,6 +2151,10 @@
         "Speed": 266,
         "Power": 18696,
         "Visible": false,
+        "Free_Evolve": {
+            "Evolve_Level": 22,
+            "Evolve_Target": "FireWolf03"
+        },
         "Active_Skills": [
             {
                 "Title": "@RecklessAttackANameKey",
@@ -2269,6 +2305,10 @@
         "Speed": 363,
         "Power": 18426,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 21,
+            "Evolve_Target": "FaceMaskFrog02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -2412,6 +2452,10 @@
         "Speed": 275,
         "Power": 22188,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 17,
+            "Evolve_Target": "AirWolf02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -2637,6 +2681,10 @@
         "Speed": 274,
         "Power": 22056,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 16,
+            "Evolve_Target": "FurCoatWolf02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -2853,6 +2901,10 @@
         "Speed": 286,
         "Power": 22200,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 25,
+            "Evolve_Target": "BeastLadyFighter02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -2930,6 +2982,10 @@
         "Speed": 286,
         "Power": 32778,
         "Visible": false,
+        "Free_Evolve": {
+            "Evolve_Level": 30,
+            "Evolve_Target": "BeastLadyFighter03"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -3245,6 +3301,10 @@
         "Speed": 48,
         "Power": 12900,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 6,
+            "Evolve_Target": "OnionBoy02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleBNameKey",
@@ -3866,6 +3926,10 @@
         "Speed": 145,
         "Power": 22062,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 7,
+            "Evolve_Target": "StarterDragon02"
+        },
         "Active_Skills": [
             {
                 "Title": "@PoisonTouchAClawNameKey",
@@ -4241,6 +4305,10 @@
         "Speed": 201,
         "Power": 15522,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 15,
+            "Evolve_Target": "FlowerTurtle02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleBEarthNameKey",
@@ -4405,6 +4473,10 @@
         "Speed": 60,
         "Power": 18564,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 19,
+            "Evolve_Target": "SlugManta02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -4586,6 +4658,10 @@
         "Speed": 273,
         "Power": 22206,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 10,
+            "Evolve_Target": "ForestBear02"
+        },
         "Active_Skills": [
             {
                 "Title": "@RecklessAttackANameKey",
@@ -4973,6 +5049,10 @@
         "Speed": 366,
         "Power": 18594,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 20,
+            "Evolve_Target": "JewelMermaid02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleAWaterNameKey",
@@ -5590,6 +5670,10 @@
         "Speed": 210,
         "Power": 15348,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 15,
+            "Evolve_Target": "FlyingOtter02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackDoubleAEarthNameKey",
@@ -6583,6 +6667,10 @@
         "Speed": 365,
         "Power": 18546,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 28,
+            "Evolve_Target": "AirSpider02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -7512,6 +7600,10 @@
         "Speed": 23,
         "Power": 21792,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 22,
+            "Evolve_Target": "GreenFerret02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -7800,6 +7892,10 @@
         "Speed": 24,
         "Power": 21924,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 23,
+            "Evolve_Target": "NewRedElf02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleALifeNameKey",
@@ -8256,6 +8352,10 @@
         "Speed": 178,
         "Power": 21936,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 25,
+            "Evolve_Target": "DragonKnight02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
@@ -8481,6 +8581,10 @@
         "Speed": 287,
         "Power": 32292,
         "Visible": true,
+        "Free_Evolve": {
+            "Evolve_Level": 26,
+            "Evolve_Target": "CrescentBladeElf02"
+        },
         "Active_Skills": [
             {
                 "Title": "@GainAttackSingleANameKey",
