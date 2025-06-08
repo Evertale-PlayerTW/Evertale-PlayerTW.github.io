@@ -95,7 +95,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -107,7 +109,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 }
             }
@@ -153,7 +155,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -165,7 +169,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "AssistedAttackSingleFireB": {
@@ -318,7 +322,10 @@
                     }
                 },
                 "HighSpiritAttackC": {
-                    "Base_Weight": 1
+                    "Base_Weight": 1,
+                    "Source": {
+                        "AllySpirit7ButRarerAllyWithHighSpirit4Star": 0.01
+                    }
                 }
             }
         }
@@ -371,7 +378,10 @@
                     }
                 },
                 "HighSpiritAttackC": {
-                    "Base_Weight": 1
+                    "Base_Weight": 1,
+                    "Source": {
+                        "AllySpirit7ButRarerAllyWithHighSpirit4Star": 0.01
+                    }
                 }
             }
         }
@@ -1320,7 +1330,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -1332,7 +1344,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "TimeStrikeB": {
@@ -3722,7 +3734,10 @@
                     }
                 },
                 "HighSpiritAttackB": {
-                    "Base_Weight": 1
+                    "Base_Weight": 1,
+                    "Source": {
+                        "AllySpirit7ButRarerAllyWithHighSpirit4Star": 0.01
+                    }
                 },
                 "RecklessGainSpiritB": {
                     "Base_Weight": 1.2,
@@ -3822,7 +3837,13 @@
                     }
                 },
                 "ProtectorKillerB2": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 },
                 "DesperateStrikeB2": {
                     "Base_Weight": 1
@@ -4031,7 +4052,13 @@
                     }
                 },
                 "ProtectorKillerB": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 },
                 "BasicAttackAllAAir": {
                     "Base_Weight": 0.75,
@@ -4169,7 +4196,13 @@
                     }
                 },
                 "ProtectorKillerA": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 },
                 "BasicAttackAllAAir": {
                     "Base_Weight": 0.75,
@@ -4891,7 +4924,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -4903,7 +4938,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "TimeBombSingleB": {
@@ -5586,7 +5621,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -5598,7 +5635,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "SummonTokenx2SacAFire": {
@@ -5677,7 +5714,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -5689,7 +5728,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "SummonTokenx2SacAFire": {
@@ -6001,7 +6040,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -6013,7 +6054,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "ThrowB": {
@@ -7535,9 +7576,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -7670,9 +7712,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -7824,9 +7867,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -7990,9 +8034,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -8161,7 +8206,10 @@
                     }
                 },
                 "HighSpiritAttackA3": {
-                    "Base_Weight": 1
+                    "Base_Weight": 1,
+                    "Source": {
+                        "AllySpirit7ButRarerAllyWithHighSpirit5Star": 0.01
+                    }
                 },
                 "LifeFlipAllyA": {
                     "Base_Weight": 0.1,
@@ -8276,9 +8324,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -8388,9 +8437,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -8499,9 +8549,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -8605,9 +8656,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -9253,9 +9305,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -9372,9 +9425,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -9384,7 +9438,13 @@
                     }
                 },
                 "ProtectorKillerA": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 },
                 "SurvivorA": {
                     "Base_Weight": 1
@@ -9481,9 +9541,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -9619,9 +9680,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -10157,9 +10219,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -10276,9 +10339,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -10388,9 +10452,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -10503,9 +10568,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -10994,9 +11060,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -11154,9 +11221,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -11304,9 +11372,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -11470,9 +11539,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -11638,9 +11708,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -11792,9 +11863,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -11917,6 +11989,7 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
@@ -11933,8 +12006,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -12045,6 +12121,7 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
@@ -12061,8 +12138,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -12183,9 +12263,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -12319,9 +12400,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -12468,9 +12550,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -12643,9 +12726,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -13443,9 +13527,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -13600,9 +13685,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -13746,9 +13832,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -13887,9 +13974,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -14030,6 +14118,7 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
@@ -14046,8 +14135,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -14169,6 +14261,7 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
@@ -14185,8 +14278,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -14303,7 +14399,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -14315,7 +14413,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "BasicAttackAllAAir": {
@@ -14326,9 +14424,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -14343,7 +14442,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 },
                 "RecklessGainSpiritA": {
@@ -14459,7 +14558,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -14471,7 +14572,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "BasicAttackAllAAir": {
@@ -14482,9 +14583,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -14499,7 +14601,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 },
                 "RecklessGainSpiritA": {
@@ -14622,9 +14724,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -14637,7 +14740,13 @@
                     "Base_Weight": 1
                 },
                 "ProtectorKillerA": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 }
             }
         }
@@ -14739,9 +14848,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -14754,7 +14864,13 @@
                     "Base_Weight": 1
                 },
                 "ProtectorKillerA": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 }
             }
         }
@@ -14856,9 +14972,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -14868,7 +14985,13 @@
                     }
                 },
                 "ProtectorKillerA": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 },
                 "RecklessGainSpiritA": {
                     "Base_Weight": 1.2,
@@ -14998,9 +15121,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -15010,7 +15134,13 @@
                     }
                 },
                 "ProtectorKillerA": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 },
                 "RecklessGainSpiritA": {
                     "Base_Weight": 1.2,
@@ -15131,9 +15261,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -15257,9 +15388,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -15386,7 +15518,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -15398,7 +15532,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "BasicAttackAllA2": {
@@ -15409,9 +15543,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -15549,7 +15684,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -15561,7 +15698,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "BasicAttackAllA2": {
@@ -15572,9 +15709,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -15753,9 +15891,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -15920,9 +16059,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -16086,9 +16226,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -16224,9 +16365,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -16353,9 +16495,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -16365,7 +16508,10 @@
                     }
                 },
                 "HighSpiritAttackA": {
-                    "Base_Weight": 1
+                    "Base_Weight": 1,
+                    "Source": {
+                        "6StarHighSpiritsInTeamAllySpiritLessThan10": 0.01
+                    }
                 },
                 "RecklessGainSpiritA": {
                     "Base_Weight": 1.2,
@@ -16487,9 +16633,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -16499,7 +16646,10 @@
                     }
                 },
                 "HighSpiritAttackA": {
-                    "Base_Weight": 1
+                    "Base_Weight": 1,
+                    "Source": {
+                        "6StarHighSpiritsInTeamAllySpiritLessThan10": 0.01
+                    }
                 },
                 "RecklessGainSpiritA": {
                     "Base_Weight": 1.2,
@@ -16606,6 +16756,7 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
@@ -16622,8 +16773,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -16734,6 +16888,7 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
@@ -16750,8 +16905,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -16874,9 +17032,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -17027,9 +17186,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -17190,9 +17350,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -17328,9 +17489,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -17472,9 +17634,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -17617,9 +17780,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -17745,7 +17909,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -17757,7 +17923,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "BasicAttackAllADeath": {
@@ -17768,9 +17934,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -17885,7 +18052,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -17897,7 +18066,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "BasicAttackAllADeath": {
@@ -17908,9 +18077,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -18383,9 +18553,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -18537,9 +18708,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -18678,9 +18850,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -18800,9 +18973,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -18920,11 +19094,13 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
                         "HPBelow10Percent": 2,
-                        "HPBelow50Percent": 1.1
+                        "HPBelow50Percent": 1.1,
+                        "HasArmor": 1.05
                     }
                 },
                 "BasicAttackAllAFire": {
@@ -18935,9 +19111,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -19062,11 +19239,13 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
                         "HPBelow10Percent": 2,
-                        "HPBelow50Percent": 1.1
+                        "HPBelow50Percent": 1.1,
+                        "HasArmor": 1.05
                     }
                 },
                 "BasicAttackAllAFire": {
@@ -19077,9 +19256,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -19218,9 +19398,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -19257,7 +19438,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 }
             }
@@ -19383,9 +19564,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -19422,7 +19604,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 }
             }
@@ -19535,9 +19717,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -19678,9 +19861,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -19798,9 +19982,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -19911,9 +20096,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -20056,9 +20242,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -20214,9 +20401,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -20364,9 +20552,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -20500,9 +20689,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -20884,7 +21074,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -20896,7 +21088,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "StealthSelfA": {
@@ -22317,7 +22509,13 @@
                     }
                 },
                 "ProtectorKillerA": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 }
             }
         }
@@ -22468,7 +22666,13 @@
                     }
                 },
                 "ProtectorKillerA": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 }
             }
         }
@@ -22583,7 +22787,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 },
                 "DesperateBiteDoubleA": {
@@ -22721,7 +22925,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 },
                 "DesperateBiteDoubleA": {
@@ -24727,6 +24931,9 @@
                     "Target": {
                         "HPBelow10Percent": 2,
                         "HPBelow50Percent": 1.1,
+                        "LessHPThanActiveMonsterAttack": 2,
+                        "IsProtectedNotProtector": 0.5,
+                        "GoneStaleRandomness": 3,
                         "HasArmor": 1.05
                     }
                 },
@@ -26717,8 +26924,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -26871,8 +27081,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -28211,11 +28424,13 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
                         "HPBelow10Percent": 2,
-                        "HPBelow50Percent": 1.1
+                        "HPBelow50Percent": 1.1,
+                        "HasArmor": 1.05
                     }
                 },
                 "BasicAttackAllA2FireDojo": {
@@ -28226,8 +28441,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -28337,11 +28555,13 @@
                     "Base_Weight": 1,
                     "Ignore": [
                         "HPAbove1Percent",
+                        "IsBurning",
                         "HPBelow5Percent"
                     ],
                     "Target": {
                         "HPBelow10Percent": 2,
-                        "HPBelow50Percent": 1.1
+                        "HPBelow50Percent": 1.1,
+                        "HasArmor": 1.05
                     }
                 },
                 "BasicAttackAllAFireDojo": {
@@ -29442,7 +29662,10 @@
                     }
                 },
                 "HighSpiritAttackBDojo": {
-                    "Base_Weight": 1
+                    "Base_Weight": 1,
+                    "Source": {
+                        "AllySpirit7ButRarerAllyWithHighSpirit4Star": 0.01
+                    }
                 },
                 "RecklessGainSpiritBDojo": {
                     "Base_Weight": 1.2,
@@ -30576,7 +30799,10 @@
                     }
                 },
                 "HighSpiritAttackA3Dojo": {
-                    "Base_Weight": 1
+                    "Base_Weight": 1,
+                    "Source": {
+                        "AllySpirit7ButRarerAllyWithHighSpirit5Star": 0.01
+                    }
                 },
                 "LifeFlipAllyADojo": {
                     "Base_Weight": 0.1,
@@ -32086,8 +32312,8 @@
                 "ThrowA": {
                     "Base_Weight": 0.2,
                     "Source": {
-                        "CrappyMonsterInBack": 4.5,
-                        "NearDeathMonsterInBack": 4.5,
+                        "CrappyMonsterInBack": 6,
+                        "NearDeathMonsterInBack": 6,
                         "GoodMonsterInBack": 0.5
                     }
                 },
@@ -32259,8 +32485,8 @@
                 "ThrowA": {
                     "Base_Weight": 0.2,
                     "Source": {
-                        "CrappyMonsterInBack": 4.5,
-                        "NearDeathMonsterInBack": 4.5,
+                        "CrappyMonsterInBack": 6,
+                        "NearDeathMonsterInBack": 6,
                         "GoodMonsterInBack": 0.5
                     }
                 },
@@ -32378,7 +32604,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -32390,7 +32618,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "StealthAllyA": {
@@ -32539,7 +32767,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -32551,7 +32781,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "StealthAllyA": {
@@ -32642,8 +32872,8 @@
                         "IsGiveTurnerOver300TU": 5,
                         "ShouldGiveTurnTo": 1.1,
                         "CurrentTULessThan50": 0.5,
+                        "IsSneakAttackerWith70TUAndAllyHave4SpiritAndStealth": 2.5,
                         "IsFrozen": 0,
-                        "IsCapedSkeleton": 0.3,
                         "IsProtectorBlockDeathUntilNextTurn": 0
                     }
                 }
@@ -33474,7 +33704,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 }
             }
@@ -33623,7 +33853,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 }
             }
@@ -36502,7 +36732,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -36514,7 +36746,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "StunSmallSingleA": {
@@ -36654,7 +36886,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -36666,7 +36900,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "StunSmallSingleA": {
@@ -36847,7 +37081,7 @@
                     }
                 },
                 "ConfidentStrikeA": {
-                    "Base_Weight": 1
+                    "Base_Weight": 2
                 },
                 "GainStunAbsorbA": {
                     "Base_Weight": 0.75,
@@ -36987,7 +37221,7 @@
                     }
                 },
                 "ConfidentStrikeA": {
-                    "Base_Weight": 1
+                    "Base_Weight": 2
                 },
                 "GainStunAbsorbA": {
                     "Base_Weight": 0.75,
@@ -37435,7 +37669,13 @@
                     }
                 },
                 "ProtectorKillerADarkRizette": {
-                    "Base_Weight": 2
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 },
                 "InstantPoisonTouchRandomADarkRizette": {
                     "Base_Weight": 2.1,
@@ -37591,7 +37831,13 @@
                     }
                 },
                 "ProtectorKillerADarkRizette": {
-                    "Base_Weight": 2
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 },
                 "InstantPoisonTouchRandomADarkRizette": {
                     "Base_Weight": 2.1,
@@ -38961,8 +39207,7 @@
                     ],
                     "Target": {
                         "HPBelow10Percent": 2,
-                        "HPBelow50Percent": 1.1,
-                        "HasArmor": 1.05
+                        "HPBelow50Percent": 1.1
                     }
                 },
                 "NullifyDrainSingleAEarthKaiju01": {
@@ -38990,8 +39235,7 @@
                         "RarityGreaterThan5": 1.1,
                         "IsStealth": 5,
                         "HasArmor": 5,
-                        "IsOverwatch": 5,
-                        "IsPurifyImmune": 0
+                        "IsOverwatch": 5
                     }
                 },
                 "DesperateBiteAEarthKaiju01": {
@@ -42074,8 +42318,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -42226,8 +42473,11 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1,
+                        "SettingUpForBurnForce": 2.5,
+                        "AllySpirit4OrLess": 0.25,
                         "EnemyHas2OrMoreTokens": 3
                     },
                     "Target": {
@@ -43057,7 +43307,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 }
             }
@@ -43200,7 +43450,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 },
                 "PullbackSelfARolotiaRegular": {
@@ -44907,7 +45157,13 @@
                     "Base_Weight": 1
                 },
                 "ProtectorKillerARolotiaSwimsuit": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 }
             }
         }
@@ -45035,7 +45291,13 @@
                     "Base_Weight": 1
                 },
                 "ProtectorKillerARolotiaSwimsuit": {
-                    "Base_Weight": 1.6
+                    "Base_Weight": 1.6,
+                    "Target": {
+                        "IsToken": 0,
+                        "IsElminaToken": 0,
+                        "On1HP": 0,
+                        "LessHPThanActiveMonsterAttack": 0
+                    }
                 }
             }
         }
@@ -49240,7 +49502,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 },
                 "SurvivorA": {
@@ -49350,7 +49612,7 @@
                         "CurrentTULessThan200"
                     ],
                     "Target": {
-                        "HasProtectorLessThan130TUInTeam": 0.15
+                        "HasProtectorLessThan130TUInTeam": 0.05
                     }
                 },
                 "SurvivorA": {
@@ -50610,7 +50872,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -50622,7 +50886,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "ConfidentStrikeDoubleA2": {
@@ -50752,7 +51016,9 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.8,
-                        "HPBelow10PercentEnemyCount2NoStealth": 2.5
+                        "HPBelow10PercentEnemyCount2NoStealth": 2.5,
+                        "Has2ProtectorNotLessHPThanActiveMonsterAttackOrStealthInAllyTeam": 0.3,
+                        "HasArmor": 1.05
                     },
                     "Target": {
                         "HPBelow10PercentNoStealth": 1.2,
@@ -50764,7 +51030,7 @@
                         "IsAlwaysDodging": 0.4,
                         "NotProtectingDodging": 0.4,
                         "IsAloneAndStealth": 0.25,
-                        "HasArmor": 1.05
+                        "LessHPThanActiveMonsterAttackNotStealth": 3
                     }
                 },
                 "ConfidentStrikeDoubleA2": {
@@ -53186,9 +53452,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -53358,9 +53625,10 @@
                     ],
                     "Source": {
                         "EnemyHasTimestrikerNoProtector": 0.5,
-                        "HPBelow10PercentEnemyCount2NoStealth": 3,
-                        "HPBelow10PercentEnemyCount3NoStealth": 2,
-                        "EnemyHas2OrMoreTokens": 3
+                        "EnemyHas2OrMoreTokens": 3,
+                        "2EnemiesLessHPThanActiveMonsterAttackNotStealth": 2,
+                        "3EnemiesLessHPThanActiveMonsterAttackNotStealth": 3,
+                        "4EnemiesLessHPThanActiveMonsterAttackNotStealth": 1.1
                     },
                     "Target": {
                         "HasProtectorAndLowHPAlly": 3,
@@ -61600,8 +61868,7 @@
                     "Source": {
                         "IsNotBurning": 1.5,
                         "IsPoisoned": 1.3,
-                        "IsBurning": 3.5,
-                        "NotHoldGroundOnceForHoldGroundGetTurnAllySpirit8OrMore": 0.05
+                        "IsBurning": 3.5
                     }
                 },
                 "BloodfuryBusterDoubleAMyshaDark": {
@@ -64269,10 +64536,8 @@
                         "0SpiritDamageReducerAt0Spirit"
                     ],
                     "Source": {
-                        "NoEnemyOn50TUOrLess": 0,
                         "EqippedWithHammerOrHoldGroundOnceForHoldGroundPlusNotProtected": 6,
-                        "IsProtecting": 0,
-                        "IsAlone": 0
+                        "NotBurningHPAbove25Percent": 10
                     }
                 },
                 "DesperateBiteBusterAFreya": {
@@ -64582,7 +64847,7 @@
                         "0SpiritDamageReducerAt0Spirit"
                     ],
                     "Source": {
-                        "On1HP": 500
+                        "HPBelow30Percent": 500
                     }
                 },
                 "BloodfuryBusterAInugamiRegular": {
