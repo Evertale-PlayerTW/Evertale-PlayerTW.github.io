@@ -14950,7 +14950,7 @@
         "Hp_Base": 2980,
         "Speed": 0,
         "Power": 32250,
-        "Visible": false,
+        "Visible": true,
         "Skill": [
             {
                 "Title": "@AttackUpDamageReduc4SleepingEnemy2NameKey",
@@ -14971,7 +14971,7 @@
         "Hp_Base": 3505,
         "Speed": 0,
         "Power": 39000,
-        "Visible": false,
+        "Visible": true,
         "Skill": [
             {
                 "Title": "@AttackUpDamageReduc5SleepingEnemy2NameKey",
@@ -14992,7 +14992,7 @@
         "Hp_Base": 3780,
         "Speed": 0,
         "Power": 42000,
-        "Visible": false,
+        "Visible": true,
         "Skill": [
             {
                 "Title": "@AttackUpDamageReduc6SleepingEnemy2NameKey",
@@ -15000,5 +15000,68 @@
             }
         ],
         "Gacha_Intro": "@RoyalBlueGreatSword03GachaIntroText"
+    },
+    "DarkMaidAxe01": {
+        "Name": "@DarkMaidAxe01NameKey",
+        "Profile": "@DarkMaidAxe01DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 4,
+        "Star_Max": 6,
+        "Type": "@Axe",
+        "Cost": 11,
+        "Atk_Base": 528,
+        "Hp_Base": 2735,
+        "Speed": 0,
+        "Power": 32250,
+        "Visible": false,
+        "Skill": [
+            {
+                "Title": "@AttackUp4TargetIsLifeNameKey",
+                "Description": "@AttackUp4TargetIsLifeDescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@DarkMaidAxe01GachaIntroText"
+    },
+    "DarkMaidAxe02": {
+        "Name": "@DarkMaidAxe01NameKey",
+        "Profile": "@DarkMaidAxe01DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 5,
+        "Star_Max": 6,
+        "Type": "@Axe",
+        "Cost": 17,
+        "Atk_Base": 637,
+        "Hp_Base": 3315,
+        "Speed": 0,
+        "Power": 39000,
+        "Visible": false,
+        "Skill": [
+            {
+                "Title": "@AttackUp5TargetIsLifeNameKey",
+                "Description": "@AttackUp5TargetIsLifeDescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@DarkMaidAxe02GachaIntroText"
+    },
+    "DarkMaidAxe03": {
+        "Name": "@DarkMaidAxe01NameKey",
+        "Profile": "@DarkMaidAxe01DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 6,
+        "Star_Max": 6,
+        "Type": "@Axe",
+        "Cost": 23,
+        "Atk_Base": 686,
+        "Hp_Base": 3570,
+        "Speed": 0,
+        "Power": 42000,
+        "Visible": false,
+        "Skill": [
+            {
+                "Title": "@AttackUp6TargetIsLifeNameKey",
+                "Description": "@AttackUp6TargetIsLifeDescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@DarkMaidAxe03GachaIntroText"
     }
 }

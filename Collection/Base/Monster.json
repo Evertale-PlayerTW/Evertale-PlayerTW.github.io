@@ -91422,7 +91422,7 @@
         "Hp_Base": 5430,
         "Speed": 515,
         "Power": 134520,
-        "Visible": false,
+        "Visible": true,
         "Leader_Skill": {
             "Title": "@AttackUpWaterDNameKey",
             "Description": "@AttackUpWaterDDescriptionKey"
@@ -91713,6 +91713,282 @@
                         "IsStealth": 0.1,
                         "IsMordredRegularAndBurning": 0.8,
                         "On1HPIsSleeping": 0.5
+                    }
+                }
+            }
+        }
+    },
+    "YandereMaidDark01": {
+        "Name": "@YandereMaidDark01NameKey",
+        "Name2": "@YandereMaidDark01SecondNameKey",
+        "Profile": "@YandereMaidDark01DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 5,
+        "Star_Max": 6,
+        "Preferred_Weapon": "@Axe",
+        "Element": "@Death",
+        "Cost": 28,
+        "Atk_Base": 1113,
+        "Hp_Base": 5645,
+        "Speed": 468,
+        "Power": 134520,
+        "Visible": false,
+        "Leader_Skill": {
+            "Title": "@AttackUpDeathDNameKey",
+            "Description": "@AttackUpDeathDDescriptionKey"
+        },
+        "Active_Skills": [
+            {
+                "Title": "@LethalTouchAYandereMaidDarkNameKey",
+                "Description": "@LethalTouchAYandereMaidDarkDescriptionKey",
+                "TU_Cost": 1,
+                "Spirit": "-1"
+            },
+            {
+                "Title": "@ThrowKnivesAYandereMaidDarkNameKey",
+                "Description": "@ThrowKnivesAYandereMaidDarkDescriptionKey",
+                "TU_Cost": 1,
+                "Spirit": "+1"
+            },
+            {
+                "Title": "@MassacreAYandereMaidDarkNameKey",
+                "Description": "@MassacreAYandereMaidDarkDescriptionKey",
+                "TU_Cost": 70,
+                "Spirit": "+0"
+            }
+        ],
+        "Passive_Skills": [
+            {
+                "Title": "@PoisonLustPassiveAYandereMaidDarkNameKey",
+                "Description": "@PoisonLustPassiveAYandereMaidDarkDescriptionKey"
+            },
+            {
+                "Title": "@EvasionPassiveAYandereMaidDarkNameKey",
+                "Description": "@EvasionPassiveAYandereMaidDarkDescriptionKey"
+            },
+            {
+                "Title": "@PlusAttackBoostLv3NameKey",
+                "Description": "@PlusAttackBoostLv3DescriptionKey"
+            },
+            {
+                "Title": "@PlusHPBoostLv3NameKey",
+                "Description": "@PlusHPBoostLv3DescriptionKey"
+            },
+            {
+                "Title": "@GreatAxeMinusDamageLv3NameKey",
+                "Description": "@GreatAxeMinusDamageLv3DescriptionKey"
+            },
+            {
+                "Title": "@AddWeaponPrefSwordNameKey",
+                "Description": "@AddWeaponPrefSwordDescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@YandereMaidDark01GachaIntroText",
+        "Dialog": {
+            "Gacha": [
+                "@YandereMaidDarkGacha45Key"
+            ],
+            "Login": [
+                "@YandereMaidDarkLogin46Key"
+            ],
+            "Tap": [
+                "@YandereMaidDarkTap47Key",
+                "@YandereMaidDarkTap48Key",
+                "@YandereMaidDarkTap49Key"
+            ],
+            "Idle": [
+                "@YandereMaidDarkIdle50Key"
+            ]
+        },
+        "AI_Logic": {
+            "Pick_Weight": 1,
+            "Threat": {
+                "1EnemyPoisonedAlt": 1.05,
+                "AllEnemiesPoisonedAlt": 1.1,
+                "TimeInCombatNot200": 1.01
+            },
+            "Skills": {
+                "LethalTouchAYandereMaidDark": {
+                    "Base_Weight": 100,
+                    "Source": {
+                        "1MechaSisterNewOnEnemyTeam": 10,
+                        "AllEnemiesPoisonedAlt": 0.5
+                    },
+                    "Target": {
+                        "IsOdinRaven": 0.1,
+                        "IsBadFriend": 0.1,
+                        "IsImposter": 0.001,
+                        "IsSleeping": 0.2,
+                        "RarityLessThan3": 0.8,
+                        "IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1,
+                        "IsPloyed": 0.89,
+                        "IsLethalPoison": 0,
+                        "IsMegaPoisoned": 0.89,
+                        "NotLethalPoisoned": 1.1,
+                        "IsPoisonImmune": 0,
+                        "IsBurning": 0,
+                        "IsBoss": 0
+                    }
+                },
+                "ThrowKnivesAYandereMaidDark": {
+                    "Base_Weight": 5,
+                    "Source": {
+                        "1MechaSisterNewOnEnemyTeam": 0.75
+                    }
+                },
+                "MassacreAYandereMaidDark": {
+                    "Base_Weight": 0.5,
+                    "Source": {
+                        "UsedAbilityCounter3": 1.1,
+                        "AllySpirit2OrLess": 0.2
+                    }
+                }
+            }
+        }
+    },
+    "YandereMaidDark02": {
+        "Name": "@YandereMaidDark02NameKey",
+        "Name2": "@YandereMaidDark02SecondNameKey",
+        "Profile": "@YandereMaidDark02DescriptionKey",
+        "Profile_Ascended": "@YandereMaidDark03DescriptionKey",
+        "Rarity": "SSR",
+        "Stars": 6,
+        "Star_Max": 6,
+        "Preferred_Weapon": "@Axe",
+        "Element": "@Death",
+        "Cost": 34,
+        "Atk_Base": 1456,
+        "Hp_Base": 7140,
+        "Speed": 468,
+        "Power": 173040,
+        "Visible": false,
+        "Leader_Skill": {
+            "Title": "@AttackUpDeathDNameKey",
+            "Description": "@AttackUpDeathDDescriptionKey"
+        },
+        "Active_Skills": [
+            {
+                "Title": "@LethalTouchAYandereMaidDarkNameKey",
+                "Description": "@LethalTouchAYandereMaidDarkDescriptionKey",
+                "TU_Cost": 1,
+                "Spirit": "-1"
+            },
+            {
+                "Title": "@ThrowKnivesAYandereMaidDarkNameKey",
+                "Description": "@ThrowKnivesAYandereMaidDarkDescriptionKey",
+                "TU_Cost": 1,
+                "Spirit": "+1"
+            },
+            {
+                "Title": "@MassacreAYandereMaidDarkNameKey",
+                "Description": "@MassacreAYandereMaidDarkDescriptionKey",
+                "TU_Cost": 70,
+                "Spirit": "+0"
+            },
+            {
+                "Title": "@DeathKissAYandereMaidDarkNameKey",
+                "Description": "@DeathKissAYandereMaidDarkDescriptionKey",
+                "TU_Cost": 70,
+                "Spirit": "-2"
+            }
+        ],
+        "Passive_Skills": [
+            {
+                "Title": "@PoisonLustPassiveAYandereMaidDarkNameKey",
+                "Description": "@PoisonLustPassiveAYandereMaidDarkDescriptionKey"
+            },
+            {
+                "Title": "@EvasionPassiveAYandereMaidDarkNameKey",
+                "Description": "@EvasionPassiveAYandereMaidDarkDescriptionKey"
+            },
+            {
+                "Title": "@PlusAttackBoostLv3NameKey",
+                "Description": "@PlusAttackBoostLv3DescriptionKey"
+            },
+            {
+                "Title": "@PlusHPBoostLv3NameKey",
+                "Description": "@PlusHPBoostLv3DescriptionKey"
+            },
+            {
+                "Title": "@GreatAxeMinusDamageLv3NameKey",
+                "Description": "@GreatAxeMinusDamageLv3DescriptionKey"
+            },
+            {
+                "Title": "@AddWeaponPrefSwordNameKey",
+                "Description": "@AddWeaponPrefSwordDescriptionKey"
+            }
+        ],
+        "Gacha_Intro": "@YandereMaidDark02GachaIntroText",
+        "Dialog": {
+            "Gacha": [
+                "@YandereMaidDarkGacha45Key"
+            ],
+            "Login": [
+                "@YandereMaidDarkLogin46Key"
+            ],
+            "Tap": [
+                "@YandereMaidDarkTap47Key",
+                "@YandereMaidDarkTap48Key",
+                "@YandereMaidDarkTap49Key"
+            ],
+            "Idle": [
+                "@YandereMaidDarkIdle50Key"
+            ]
+        },
+        "AI_Logic": {
+            "Pick_Weight": 1,
+            "Threat": {
+                "1EnemyPoisonedAlt": 1.05,
+                "AllEnemiesPoisonedAlt": 1.1,
+                "TimeInCombatNot200": 1.01
+            },
+            "Skills": {
+                "LethalTouchAYandereMaidDark": {
+                    "Base_Weight": 100,
+                    "Source": {
+                        "1MechaSisterNewOnEnemyTeam": 10,
+                        "AllEnemiesPoisonedAlt": 0.5
+                    },
+                    "Target": {
+                        "IsOdinRaven": 0.1,
+                        "IsBadFriend": 0.1,
+                        "IsImposter": 0.001,
+                        "IsSleeping": 0.2,
+                        "RarityLessThan3": 0.8,
+                        "IsUnicornRegularAndAtLeast1GokuDarkAllyAndNotProtected": 1.1,
+                        "IsPloyed": 0.89,
+                        "IsLethalPoison": 0,
+                        "IsMegaPoisoned": 0.89,
+                        "NotLethalPoisoned": 1.1,
+                        "IsPoisonImmune": 0,
+                        "IsBurning": 0,
+                        "IsBoss": 0
+                    }
+                },
+                "ThrowKnivesAYandereMaidDark": {
+                    "Base_Weight": 5,
+                    "Source": {
+                        "1MechaSisterNewOnEnemyTeam": 0.75
+                    }
+                },
+                "MassacreAYandereMaidDark": {
+                    "Base_Weight": 0.5,
+                    "Source": {
+                        "UsedAbilityCounter3": 1.1,
+                        "AllySpirit2OrLess": 0.2
+                    }
+                },
+                "DeathKissAYandereMaidDark": {
+                    "Base_Weight": 0.1,
+                    "Target": {
+                        "IsOdinRaven": 0.1,
+                        "IsBadFriend": 0.1,
+                        "IsImposter": 0.001,
+                        "IsMirage": 0.8,
+                        "RarityLessThan3": 0.5,
+                        "HPBelow50Percent": 500,
+                        "IsBoss": 0,
+                        "IsLethalPoison": 0.89
                     }
                 }
             }

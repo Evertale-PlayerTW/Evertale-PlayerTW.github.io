@@ -1,6 +1,6 @@
 {
   "Version": 23,
-  "Time": 1748499135,
+  "Time": 1748922560,
   "Ability": [
     {
       "name": "SkipTurn",
@@ -25854,6 +25854,59 @@
       "tuCost": 1,
       "useLimit": 0,
       "spiritCost": 4,
+      "blockTargetManipulation": 0,
+      "showConfirmation": 0
+    },
+    {
+      "name": "ThrowKnivesAYandereMaidDark",
+      "class": "Ability",
+      "abilityScalor": 4,
+      "conditionalAbilityScalors": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "config": "ThrowKnivesAYandereMaidDark",
+      "tuCost": 1,
+      "useLimit": 0,
+      "spiritGain": 1,
+      "blockTargetManipulation": 1,
+      "showConfirmation": 0
+    },
+    {
+      "name": "MassacreAYandereMaidDark",
+      "class": "Ability",
+      "abilityScalor": 0,
+      "conditionalAbilityScalors": [
+        1,
+        2,
+        3
+      ],
+      "config": "MassacreAYandereMaidDark",
+      "tuCost": 70,
+      "useLimit": 0,
+      "spiritGain": 0,
+      "blockTargetManipulation": 0,
+      "showConfirmation": 0
+    },
+    {
+      "name": "LethalTouchAYandereMaidDark",
+      "class": "Ability",
+      "config": "LethalTouchAYandereMaidDark",
+      "tuCost": 1,
+      "useLimit": 5,
+      "spiritCost": 1,
+      "blockTargetManipulation": 0,
+      "showConfirmation": 0
+    },
+    {
+      "name": "DeathKissAYandereMaidDark",
+      "class": "Ability",
+      "config": "DeathKissAYandereMaidDark",
+      "tuCost": 70,
+      "useLimit": 3,
+      "spiritCost": 2,
       "blockTargetManipulation": 0,
       "showConfirmation": 0
     }

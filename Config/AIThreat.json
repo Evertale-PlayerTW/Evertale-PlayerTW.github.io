@@ -1,6 +1,6 @@
 {
   "Version": 23,
-  "Time": 1748473874,
+  "Time": 1748897532,
   "AIThreat": [
     {
       "name": "AirGenie01",
@@ -6095,6 +6095,36 @@
     {
       "name": "ElizabethRegular02",
       "condition": "Kills1",
+      "value": 1.01
+    },
+    {
+      "name": "YandereMaidDark01",
+      "condition": "1EnemyPoisonedAlt",
+      "value": 1.05
+    },
+    {
+      "name": "YandereMaidDark01",
+      "condition": "AllEnemiesPoisonedAlt",
+      "value": 1.1
+    },
+    {
+      "name": "YandereMaidDark01",
+      "condition": "TimeInCombatNot200",
+      "value": 1.01
+    },
+    {
+      "name": "YandereMaidDark02",
+      "condition": "1EnemyPoisonedAlt",
+      "value": 1.05
+    },
+    {
+      "name": "YandereMaidDark02",
+      "condition": "AllEnemiesPoisonedAlt",
+      "value": 1.1
+    },
+    {
+      "name": "YandereMaidDark02",
+      "condition": "TimeInCombatNot200",
       "value": 1.01
     }
   ]
