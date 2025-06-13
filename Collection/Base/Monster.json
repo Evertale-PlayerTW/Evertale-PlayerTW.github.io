@@ -3966,6 +3966,9 @@
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
         ],
+        "Relationship": [
+            "RelationshipFlatAtkF01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -4072,6 +4075,9 @@
                 "Title": "@AddWeaponPrefStaffNameKey",
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipFlatAtkF01"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -4216,6 +4222,9 @@
                 "Title": "@AddWeaponPrefStaffNameKey",
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipFlatAtkF01"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -4700,6 +4709,9 @@
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
         ],
+        "Relationship": [
+            "RelationshipFlatAtkF01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -4811,6 +4823,9 @@
                 "Title": "@AddWeaponPrefSpearNameKey",
                 "Description": "@AddWeaponPrefSpearDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipFlatAtkF01"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -8864,6 +8879,25 @@
                 "@WaterElfWarriorGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE01",
+            "RelationshipFlatAtkE07",
+            "RelationshipPercentHPA02",
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentAtkC03",
+            "RelationshipPercentHPC05",
+            "RelationshipPercentHPB11",
+            "RelationshipPercentAtkB16",
+            "RelationshipPercentAtkB23",
+            "RelationshipPercentHPB31",
+            "RelationshipPercentHPA10",
+            "RelationshipPercentAtkB38",
+            "RelationshipPercentAtkB45",
+            "RelationshipPercentAtkB54",
+            "RelationshipPercentHPA28",
+            "RelationshipPercentAtkB61",
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -8993,6 +9027,25 @@
                 "@WaterElfWarriorGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE01",
+            "RelationshipFlatAtkE07",
+            "RelationshipPercentHPA02",
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentAtkC03",
+            "RelationshipPercentHPC05",
+            "RelationshipPercentHPB11",
+            "RelationshipPercentAtkB16",
+            "RelationshipPercentAtkB23",
+            "RelationshipPercentHPB31",
+            "RelationshipPercentHPA10",
+            "RelationshipPercentAtkB38",
+            "RelationshipPercentAtkB45",
+            "RelationshipPercentAtkB54",
+            "RelationshipPercentHPA28",
+            "RelationshipPercentAtkB61",
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -9126,6 +9179,23 @@
                 "@AirElfWarriorGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE02",
+            "RelationshipPercentHPC02",
+            "RelationshipPercentAtkC02",
+            "RelationshipPercentAtkC03",
+            "RelationshipPercentHPC06",
+            "RelationshipPercentHPC08",
+            "RelationshipPercentHPB14",
+            "RelationshipPercentAtkB19",
+            "RelationshipPercentHPB27",
+            "RelationshipPercentHPA07",
+            "RelationshipPercentAtkB37",
+            "RelationshipPercentAtkB42",
+            "RelationshipPercentAtkB46",
+            "RelationshipPercentAtkB52",
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -9251,6 +9321,23 @@
                 "@AirElfWarriorGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE02",
+            "RelationshipPercentHPC02",
+            "RelationshipPercentAtkC02",
+            "RelationshipPercentAtkC03",
+            "RelationshipPercentHPC06",
+            "RelationshipPercentHPC08",
+            "RelationshipPercentHPB14",
+            "RelationshipPercentAtkB19",
+            "RelationshipPercentHPB27",
+            "RelationshipPercentHPA07",
+            "RelationshipPercentAtkB37",
+            "RelationshipPercentAtkB42",
+            "RelationshipPercentAtkB46",
+            "RelationshipPercentAtkB52",
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -9382,6 +9469,24 @@
                 "@BeastSoldierGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE03",
+            "RelationshipFlatHPE04",
+            "RelationshipPercentAtkA02",
+            "RelationshipPercentHPC04",
+            "RelationshipPercentAtkC03",
+            "RelationshipPercentHPB07",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentHPB20",
+            "RelationshipPercentAtkB27",
+            "RelationshipPercentAtkB30",
+            "RelationshipPercentAtkB36",
+            "RelationshipPercentHPA14",
+            "RelationshipPercentHPA17",
+            "RelationshipPercentHPA22",
+            "RelationshipPercentHPA24",
+            "RelationshipPercentAtkB60"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -9502,6 +9607,24 @@
                 "@BeastSoldierGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE03",
+            "RelationshipFlatHPE04",
+            "RelationshipPercentAtkA02",
+            "RelationshipPercentHPC04",
+            "RelationshipPercentAtkC03",
+            "RelationshipPercentHPB07",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentHPB20",
+            "RelationshipPercentAtkB27",
+            "RelationshipPercentAtkB30",
+            "RelationshipPercentAtkB36",
+            "RelationshipPercentHPA14",
+            "RelationshipPercentHPA17",
+            "RelationshipPercentHPA22",
+            "RelationshipPercentHPA24",
+            "RelationshipPercentAtkB60"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -9622,6 +9745,24 @@
                 "@FireElfKnightGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE02",
+            "RelationshipFlatHPE04",
+            "RelationshipPercentHPC02",
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPB08",
+            "RelationshipPercentHPB09",
+            "RelationshipPercentHPB13",
+            "RelationshipPercentHPB22",
+            "RelationshipPercentAtkB24",
+            "RelationshipPercentHPB31",
+            "RelationshipPercentHPA09",
+            "RelationshipPercentAtkB43",
+            "RelationshipPercentHPA17",
+            "RelationshipPercentAtkB51",
+            "RelationshipPercentHPA25",
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -9761,6 +9902,24 @@
                 "@FireElfKnightGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE02",
+            "RelationshipFlatHPE04",
+            "RelationshipPercentHPC02",
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPB08",
+            "RelationshipPercentHPB09",
+            "RelationshipPercentHPB13",
+            "RelationshipPercentHPB22",
+            "RelationshipPercentAtkB24",
+            "RelationshipPercentHPB31",
+            "RelationshipPercentHPA09",
+            "RelationshipPercentAtkB43",
+            "RelationshipPercentHPA17",
+            "RelationshipPercentAtkB51",
+            "RelationshipPercentHPA25",
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -9920,6 +10079,25 @@
                 "@BeastClericGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE09",
+            "RelationshipFlatAtkE07",
+            "RelationshipPercentHPC01",
+            "RelationshipPercentAtkC02",
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPB06",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentHPB15",
+            "RelationshipPercentAtkB22",
+            "RelationshipPercentHPB30",
+            "RelationshipPercentAtkB34",
+            "RelationshipPercentHPA16",
+            "RelationshipPercentHPA20",
+            "RelationshipPercentHPA23",
+            "RelationshipPercentAtkB57",
+            "RelationshipPercentAtkB58",
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -10108,6 +10286,25 @@
                 "@BeastClericGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE09",
+            "RelationshipFlatAtkE07",
+            "RelationshipPercentHPC01",
+            "RelationshipPercentAtkC02",
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPB06",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentHPB15",
+            "RelationshipPercentAtkB22",
+            "RelationshipPercentHPB30",
+            "RelationshipPercentAtkB34",
+            "RelationshipPercentHPA16",
+            "RelationshipPercentHPA20",
+            "RelationshipPercentHPA23",
+            "RelationshipPercentAtkB57",
+            "RelationshipPercentAtkB58",
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -10296,6 +10493,23 @@
                 "@MartialArtistGirlGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC01",
+            "RelationshipPercentAtkB05",
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentHPC04",
+            "RelationshipPercentAtkC04",
+            "RelationshipPercentHPB12",
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB21",
+            "RelationshipPercentHPB29",
+            "RelationshipPercentAtkB34",
+            "RelationshipPercentHPA13",
+            "RelationshipPercentAtkB46",
+            "RelationshipPercentAtkB51",
+            "RelationshipPercentHPA26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -10416,6 +10630,23 @@
                 "@MartialArtistGirlGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC01",
+            "RelationshipPercentAtkB05",
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentHPC04",
+            "RelationshipPercentAtkC04",
+            "RelationshipPercentHPB12",
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB21",
+            "RelationshipPercentHPB29",
+            "RelationshipPercentAtkB34",
+            "RelationshipPercentHPA13",
+            "RelationshipPercentAtkB46",
+            "RelationshipPercentAtkB51",
+            "RelationshipPercentHPA26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -10530,6 +10761,23 @@
                 "@RedScarfFrogGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE01",
+            "RelationshipFlatHPE09",
+            "RelationshipPercentHPC02",
+            "RelationshipPercentHPB03",
+            "RelationshipPercentHPC07",
+            "RelationshipPercentHPB10",
+            "RelationshipPercentHPB12",
+            "RelationshipPercentHPB20",
+            "RelationshipPercentHPB25",
+            "RelationshipPercentAtkB28",
+            "RelationshipPercentAtkB33",
+            "RelationshipPercentAtkB40",
+            "RelationshipPercentHPA18",
+            "RelationshipPercentAtkB56",
+            "RelationshipPercentHPA27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -10646,6 +10894,23 @@
                 "@RedScarfFrogGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE01",
+            "RelationshipFlatHPE09",
+            "RelationshipPercentHPC02",
+            "RelationshipPercentHPB03",
+            "RelationshipPercentHPC07",
+            "RelationshipPercentHPB10",
+            "RelationshipPercentHPB12",
+            "RelationshipPercentHPB20",
+            "RelationshipPercentHPB25",
+            "RelationshipPercentAtkB28",
+            "RelationshipPercentAtkB33",
+            "RelationshipPercentAtkB40",
+            "RelationshipPercentHPA18",
+            "RelationshipPercentAtkB56",
+            "RelationshipPercentHPA27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -10782,6 +11047,23 @@
                 "@ElfBattleMageGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE08",
+            "RelationshipPercentHPC01",
+            "RelationshipPercentHPC04",
+            "RelationshipPercentAtkB09",
+            "RelationshipPercentHPC07",
+            "RelationshipPercentHPB09",
+            "RelationshipFlatAtkE08",
+            "RelationshipPercentAtkB18",
+            "RelationshipPercentHPB28",
+            "RelationshipPercentAtkB31",
+            "RelationshipPercentAtkB38",
+            "RelationshipPercentAtkB41",
+            "RelationshipPercentAtkB47",
+            "RelationshipPercentAtkB53",
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -10959,6 +11241,23 @@
                 "@ElfBattleMageGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE08",
+            "RelationshipPercentHPC01",
+            "RelationshipPercentHPC04",
+            "RelationshipPercentAtkB09",
+            "RelationshipPercentHPC07",
+            "RelationshipPercentHPB09",
+            "RelationshipFlatAtkE08",
+            "RelationshipPercentAtkB18",
+            "RelationshipPercentHPB28",
+            "RelationshipPercentAtkB31",
+            "RelationshipPercentAtkB38",
+            "RelationshipPercentAtkB41",
+            "RelationshipPercentAtkB47",
+            "RelationshipPercentAtkB53",
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -11136,6 +11435,23 @@
                 "@TwoFaceDemonGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE03",
+            "RelationshipFlatAtkE04",
+            "RelationshipFlatAtkE05",
+            "RelationshipPercentHPC03",
+            "RelationshipPercentAtkB02",
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentAtkC05",
+            "RelationshipPercentHPB19",
+            "RelationshipPercentHPB25",
+            "RelationshipPercentAtkB29",
+            "RelationshipPercentAtkB35",
+            "RelationshipPercentHPA11",
+            "RelationshipPercentAtkB42",
+            "RelationshipPercentAtkB44",
+            "RelationshipPercentAtkB61"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -11297,6 +11613,23 @@
                 "@TwoFaceDemonGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE03",
+            "RelationshipFlatAtkE04",
+            "RelationshipFlatAtkE05",
+            "RelationshipPercentHPC03",
+            "RelationshipPercentAtkB02",
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentAtkC05",
+            "RelationshipPercentHPB19",
+            "RelationshipPercentHPB25",
+            "RelationshipPercentAtkB29",
+            "RelationshipPercentAtkB35",
+            "RelationshipPercentHPA11",
+            "RelationshipPercentAtkB42",
+            "RelationshipPercentAtkB44",
+            "RelationshipPercentAtkB61"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -11450,6 +11783,25 @@
                 "@FloatingMageGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE04",
+            "RelationshipFlatAtkE06",
+            "RelationshipPercentAtkA03",
+            "RelationshipPercentHPB03",
+            "RelationshipPercentAtkC06",
+            "RelationshipPercentAtkC07",
+            "RelationshipPercentAtkC09",
+            "RelationshipPercentAtkB17",
+            "RelationshipPercentAtkB22",
+            "RelationshipPercentAtkB30",
+            "RelationshipPercentHPA09",
+            "RelationshipPercentAtkB41",
+            "RelationshipPercentAtkB46",
+            "RelationshipPercentHPA21",
+            "RelationshipPercentAtkB54",
+            "RelationshipPercentAtkB59",
+            "RelationshipPercentHPA31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -11617,6 +11969,25 @@
                 "@FloatingMageGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE04",
+            "RelationshipFlatAtkE06",
+            "RelationshipPercentAtkA03",
+            "RelationshipPercentHPB03",
+            "RelationshipPercentAtkC06",
+            "RelationshipPercentAtkC07",
+            "RelationshipPercentAtkC09",
+            "RelationshipPercentAtkB17",
+            "RelationshipPercentAtkB22",
+            "RelationshipPercentAtkB30",
+            "RelationshipPercentHPA09",
+            "RelationshipPercentAtkB41",
+            "RelationshipPercentAtkB46",
+            "RelationshipPercentHPA21",
+            "RelationshipPercentAtkB54",
+            "RelationshipPercentAtkB59",
+            "RelationshipPercentHPA31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -11777,6 +12148,24 @@
                 "@FoxDuelistGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE01",
+            "RelationshipFlatHPE03",
+            "RelationshipPercentHPA05",
+            "RelationshipPercentHPC05",
+            "RelationshipPercentAtkC04",
+            "RelationshipPercentHPC08",
+            "RelationshipPercentHPC10",
+            "RelationshipPercentHPB22",
+            "RelationshipPercentHPB27",
+            "RelationshipPercentHPA08",
+            "RelationshipPercentAtkB32",
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentAtkB47",
+            "RelationshipPercentHPA21",
+            "RelationshipPercentHPA27",
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -11932,6 +12321,24 @@
                 "@FoxDuelistGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE01",
+            "RelationshipFlatHPE03",
+            "RelationshipPercentHPA05",
+            "RelationshipPercentHPC05",
+            "RelationshipPercentAtkC04",
+            "RelationshipPercentHPC08",
+            "RelationshipPercentHPC10",
+            "RelationshipPercentHPB22",
+            "RelationshipPercentHPB27",
+            "RelationshipPercentHPA08",
+            "RelationshipPercentAtkB32",
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentAtkB47",
+            "RelationshipPercentHPA21",
+            "RelationshipPercentHPA27",
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -12083,6 +12490,24 @@
                 "@RedHairKnightGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE02",
+            "RelationshipPercentAtkC01",
+            "RelationshipPercentHPA01",
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentHPB11",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentHPC08",
+            "RelationshipPercentAtkA09",
+            "RelationshipPercentHPB26",
+            "RelationshipPercentAtkB31",
+            "RelationshipPercentHPA11",
+            "RelationshipPercentHPA16",
+            "RelationshipPercentAtkB50",
+            "RelationshipPercentAtkB56",
+            "RelationshipPercentAtkB59",
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -12215,6 +12640,24 @@
                 "@RedHairKnightGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE02",
+            "RelationshipPercentAtkC01",
+            "RelationshipPercentHPA01",
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentHPB11",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentHPC08",
+            "RelationshipPercentAtkA09",
+            "RelationshipPercentHPB26",
+            "RelationshipPercentAtkB31",
+            "RelationshipPercentHPA11",
+            "RelationshipPercentHPA16",
+            "RelationshipPercentAtkB50",
+            "RelationshipPercentAtkB56",
+            "RelationshipPercentAtkB59",
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -12341,6 +12784,23 @@
                 "@RoseElfGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE03",
+            "RelationshipPercentAtkA04",
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentHPB06",
+            "RelationshipPercentHPC07",
+            "RelationshipPercentHPB13",
+            "RelationshipPercentHPC10",
+            "RelationshipPercentAtkB16",
+            "RelationshipPercentAtkB20",
+            "RelationshipFlatHPF02",
+            "RelationshipPercentAtkB35",
+            "RelationshipPercentHPA15",
+            "RelationshipPercentAtkB44",
+            "RelationshipPercentAtkB48",
+            "RelationshipPercentHPA22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -12478,6 +12938,23 @@
                 "@RoseElfGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE03",
+            "RelationshipPercentAtkA04",
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentHPB06",
+            "RelationshipPercentHPC07",
+            "RelationshipPercentHPB13",
+            "RelationshipPercentHPC10",
+            "RelationshipPercentAtkB16",
+            "RelationshipPercentAtkB20",
+            "RelationshipFlatHPF02",
+            "RelationshipPercentAtkB35",
+            "RelationshipPercentHPA15",
+            "RelationshipPercentAtkB44",
+            "RelationshipPercentAtkB48",
+            "RelationshipPercentHPA22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -12631,6 +13108,25 @@
                 "@TrainerBoyGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPF01",
+            "RelationshipFlatHPE04",
+            "RelationshipPercentAtkA05",
+            "RelationshipPercentAtkB04",
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentHPC07",
+            "RelationshipPercentHPC11",
+            "RelationshipPercentAtkB17",
+            "RelationshipPercentHPB24",
+            "RelationshipPercentHPA06",
+            "RelationshipPercentHPA10",
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentHPA19",
+            "RelationshipPercentAtkB52",
+            "RelationshipPercentAtkB55",
+            "RelationshipPercentAtkB57",
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -12807,6 +13303,25 @@
                 "@TrainerBoyGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPF01",
+            "RelationshipFlatHPE04",
+            "RelationshipPercentAtkA05",
+            "RelationshipPercentAtkB04",
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentHPC07",
+            "RelationshipPercentHPC11",
+            "RelationshipPercentAtkB17",
+            "RelationshipPercentHPB24",
+            "RelationshipPercentHPA06",
+            "RelationshipPercentHPA10",
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentHPA19",
+            "RelationshipPercentAtkB52",
+            "RelationshipPercentAtkB55",
+            "RelationshipPercentAtkB57",
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -12979,6 +13494,24 @@
                 "@TrainerGirlGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPF01",
+            "RelationshipPercentAtkC01",
+            "RelationshipPercentHPB01",
+            "RelationshipPercentHPC05",
+            "RelationshipPercentHPB05",
+            "RelationshipPercentHPC08",
+            "RelationshipPercentAtkC09",
+            "RelationshipPercentAtkB14",
+            "RelationshipPercentHPB23",
+            "RelationshipPercentAtkB25",
+            "RelationshipPercentAtkB29",
+            "RelationshipPercentAtkB36",
+            "RelationshipPercentHPA18",
+            "RelationshipPercentAtkB53",
+            "RelationshipPercentAtkB58",
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -13142,6 +13675,24 @@
                 "@TrainerGirlGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPF01",
+            "RelationshipPercentAtkC01",
+            "RelationshipPercentHPB01",
+            "RelationshipPercentHPC05",
+            "RelationshipPercentHPB05",
+            "RelationshipPercentHPC08",
+            "RelationshipPercentAtkC09",
+            "RelationshipPercentAtkB14",
+            "RelationshipPercentHPB23",
+            "RelationshipPercentAtkB25",
+            "RelationshipPercentAtkB29",
+            "RelationshipPercentAtkB36",
+            "RelationshipPercentHPA18",
+            "RelationshipPercentAtkB53",
+            "RelationshipPercentAtkB58",
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -13302,6 +13853,24 @@
                 "@ArcDemonGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE04",
+            "RelationshipPercentAtkC02",
+            "RelationshipPercentAtkB01",
+            "RelationshipPercentHPB04",
+            "RelationshipPercentAtkC08",
+            "RelationshipPercentHPC11",
+            "RelationshipPercentHPB17",
+            "RelationshipPercentAtkB18",
+            "RelationshipPercentHPB26",
+            "RelationshipPercentAtkB26",
+            "RelationshipPercentAtkB32",
+            "RelationshipPercentHPA12",
+            "RelationshipPercentHPA18",
+            "RelationshipPercentAtkB49",
+            "RelationshipPercentHPA24",
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -13432,6 +14001,24 @@
                 "@ArcDemonGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE04",
+            "RelationshipPercentAtkC02",
+            "RelationshipPercentAtkB01",
+            "RelationshipPercentHPB04",
+            "RelationshipPercentAtkC08",
+            "RelationshipPercentHPC11",
+            "RelationshipPercentHPB17",
+            "RelationshipPercentAtkB18",
+            "RelationshipPercentHPB26",
+            "RelationshipPercentAtkB26",
+            "RelationshipPercentAtkB32",
+            "RelationshipPercentHPA12",
+            "RelationshipPercentHPA18",
+            "RelationshipPercentAtkB49",
+            "RelationshipPercentHPA24",
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -13592,6 +14179,27 @@
                 "@SquidHeadGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE05",
+            "RelationshipFlatHPE07",
+            "RelationshipPercentHPC03",
+            "RelationshipPercentHPA03",
+            "RelationshipPercentHPA05",
+            "RelationshipPercentHPB02",
+            "RelationshipPercentAtkB09",
+            "RelationshipPercentHPB19",
+            "RelationshipPercentHPB23",
+            "RelationshipPercentAtkB26",
+            "RelationshipPercentHPA06",
+            "RelationshipPercentAtkB37",
+            "RelationshipPercentAtkB43",
+            "RelationshipPercentAtkB48",
+            "RelationshipPercentHPA23",
+            "RelationshipPercentHPA26",
+            "RelationshipPercentAtkB60",
+            "RelationshipPercentHPA28",
+            "RelationshipPercentAtkB64"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -13750,6 +14358,27 @@
                 "@SquidHeadGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE05",
+            "RelationshipFlatHPE07",
+            "RelationshipPercentHPC03",
+            "RelationshipPercentHPA03",
+            "RelationshipPercentHPA05",
+            "RelationshipPercentHPB02",
+            "RelationshipPercentAtkB09",
+            "RelationshipPercentHPB19",
+            "RelationshipPercentHPB23",
+            "RelationshipPercentAtkB26",
+            "RelationshipPercentHPA06",
+            "RelationshipPercentAtkB37",
+            "RelationshipPercentAtkB43",
+            "RelationshipPercentAtkB48",
+            "RelationshipPercentHPA23",
+            "RelationshipPercentHPA26",
+            "RelationshipPercentAtkB60",
+            "RelationshipPercentHPA28",
+            "RelationshipPercentAtkB64"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -13902,6 +14531,25 @@
                 "@HighAngelSoldierGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE02",
+            "RelationshipFlatAtkE03",
+            "RelationshipFlatHPE06",
+            "RelationshipPercentHPC01",
+            "RelationshipPercentAtkB03",
+            "RelationshipPercentAtkC05",
+            "RelationshipPercentAtkB10",
+            "RelationshipPercentHPB18",
+            "RelationshipPercentHPB24",
+            "RelationshipPercentAtkB27",
+            "RelationshipPercentAtkB33",
+            "RelationshipPercentHPA13",
+            "RelationshipPercentAtkB45",
+            "RelationshipPercentAtkB49",
+            "RelationshipPercentHPA25",
+            "RelationshipPercentAtkB64",
+            "RelationshipPercentHPA31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -14044,6 +14692,25 @@
                 "@HighAngelSoldierGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE02",
+            "RelationshipFlatAtkE03",
+            "RelationshipFlatHPE06",
+            "RelationshipPercentHPC01",
+            "RelationshipPercentAtkB03",
+            "RelationshipPercentAtkC05",
+            "RelationshipPercentAtkB10",
+            "RelationshipPercentHPB18",
+            "RelationshipPercentHPB24",
+            "RelationshipPercentAtkB27",
+            "RelationshipPercentAtkB33",
+            "RelationshipPercentHPA13",
+            "RelationshipPercentAtkB45",
+            "RelationshipPercentAtkB49",
+            "RelationshipPercentHPA25",
+            "RelationshipPercentAtkB64",
+            "RelationshipPercentHPA31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -14211,6 +14878,12 @@
                 "@PharaohLizardGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE02",
+            "RelationshipPercentHPB11",
+            "RelationshipPercentHPB18",
+            "RelationshipPercentAtkB44"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -14354,6 +15027,12 @@
                 "@PharaohLizardGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE02",
+            "RelationshipPercentHPB11",
+            "RelationshipPercentHPB18",
+            "RelationshipPercentAtkB44"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -14489,6 +15168,13 @@
                 "@GearLancerGirlGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE02",
+            "RelationshipPercentHPB04",
+            "RelationshipPercentHPB17",
+            "RelationshipPercentAtkB25",
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -14648,6 +15334,13 @@
                 "@GearLancerGirlGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE02",
+            "RelationshipPercentHPB04",
+            "RelationshipPercentHPB17",
+            "RelationshipPercentAtkB25",
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -14798,6 +15491,13 @@
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
         ],
+        "Relationship": [
+            "RelationshipFlatHPE04",
+            "RelationshipPercentHPC13",
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB40",
+            "RelationshipPercentHPA31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -14921,6 +15621,13 @@
                 "Title": "@AddWeaponPrefAxeNameKey",
                 "Description": "@AddWeaponPrefAxeDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipFlatHPE04",
+            "RelationshipPercentHPC13",
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB40",
+            "RelationshipPercentHPA31"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -15047,6 +15754,12 @@
                 "@SmokePipeFrogGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE01",
+            "RelationshipPercentHPB09",
+            "RelationshipPercentHPB30",
+            "RelationshipPercentAtkB35"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -15196,6 +15909,12 @@
                 "@SmokePipeFrogGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE01",
+            "RelationshipPercentHPB09",
+            "RelationshipPercentHPB30",
+            "RelationshipPercentAtkB35"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -15339,6 +16058,12 @@
                 "@CatEaredFighterGacha43Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE03",
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentAtkB48",
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -15466,6 +16191,12 @@
                 "@CatEaredFighterGacha43Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE03",
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentAtkB48",
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -15611,6 +16342,12 @@
                 "@EarthMercenaryGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE03",
+            "RelationshipPercentHPB01",
+            "RelationshipPercentHPA08",
+            "RelationshipPercentHPA19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -15777,6 +16514,12 @@
                 "@EarthMercenaryGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE03",
+            "RelationshipPercentHPB01",
+            "RelationshipPercentHPA08",
+            "RelationshipPercentHPA19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -15972,6 +16715,12 @@
                 "@ElfMusicianGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE09",
+            "RelationshipPercentHPB13",
+            "RelationshipPercentAtkB54",
+            "RelationshipPercentAtkB60"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -16140,6 +16889,12 @@
                 "@ElfMusicianGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE09",
+            "RelationshipPercentHPB13",
+            "RelationshipPercentAtkB54",
+            "RelationshipPercentAtkB60"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -16304,6 +17059,12 @@
                 "@GoldAngelGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE03",
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentAtkB56",
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -16443,6 +17204,12 @@
                 "@GoldAngelGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE03",
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentAtkB56",
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -16572,6 +17339,12 @@
                 "Title": "@AddWeaponPrefHammerNameKey",
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipFlatHPE04",
+            "RelationshipPercentHPB16",
+            "RelationshipPercentAtkB51",
+            "RelationshipPercentHPA27"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -16710,6 +17483,12 @@
                 "Title": "@AddWeaponPrefHammerNameKey",
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipFlatHPE04",
+            "RelationshipPercentHPB16",
+            "RelationshipPercentAtkB51",
+            "RelationshipPercentHPA27"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -16850,6 +17629,12 @@
                 "@AztecWarriorGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE02",
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentHPA24",
+            "RelationshipPercentAtkB58"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -16982,6 +17767,12 @@
                 "@AztecWarriorGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE02",
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentHPA24",
+            "RelationshipPercentAtkB58"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -17110,6 +17901,12 @@
                 "@FrogSorcerorGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE01",
+            "RelationshipPercentHPB13",
+            "RelationshipPercentAtkB50",
+            "RelationshipPercentAtkB57"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -17264,6 +18061,12 @@
                 "@FrogSorcerorGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE01",
+            "RelationshipPercentHPB13",
+            "RelationshipPercentAtkB50",
+            "RelationshipPercentAtkB57"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -17415,6 +18218,12 @@
                 "@MaskPurpleWitchGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE04",
+            "RelationshipPercentHPB02",
+            "RelationshipPercentAtkB20",
+            "RelationshipPercentAtkB43"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -17554,6 +18363,12 @@
                 "@MaskPurpleWitchGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE04",
+            "RelationshipPercentHPB02",
+            "RelationshipPercentAtkB20",
+            "RelationshipPercentAtkB43"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -17712,6 +18527,12 @@
                 "@MonsterBoyGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE01",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentAtkB52",
+            "RelationshipPercentAtkB61"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -17858,6 +18679,12 @@
                 "@MonsterBoyGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE01",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentAtkB52",
+            "RelationshipPercentAtkB61"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -17998,6 +18825,12 @@
                 "Title": "@AddWeaponPrefKatanaNameKey",
                 "Description": "@AddWeaponPrefKatanaDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipFlatAtkE06",
+            "RelationshipPercentHPB16",
+            "RelationshipPercentHPB19",
+            "RelationshipPercentAtkB47"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -18141,6 +18974,12 @@
         "Conjures": [
             "DeathMinion01"
         ],
+        "Relationship": [
+            "RelationshipFlatAtkE06",
+            "RelationshipPercentHPB16",
+            "RelationshipPercentHPB19",
+            "RelationshipPercentAtkB47"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -18278,6 +19117,13 @@
                 "@InannaGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE08",
+            "RelationshipPercentAtkB09",
+            "RelationshipPercentHPB29",
+            "RelationshipPercentHPA17",
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -18452,6 +19298,13 @@
                 "@InannaGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE08",
+            "RelationshipPercentAtkB09",
+            "RelationshipPercentHPB29",
+            "RelationshipPercentHPA17",
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -18622,6 +19475,12 @@
                 "@BugWarriorGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE01",
+            "RelationshipPercentHPC13",
+            "RelationshipPercentHPB28",
+            "RelationshipPercentAtkB45"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -18777,6 +19636,12 @@
                 "@BugWarriorGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE01",
+            "RelationshipPercentHPC13",
+            "RelationshipPercentHPB28",
+            "RelationshipPercentAtkB45"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -18923,6 +19788,12 @@
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
         ],
+        "Relationship": [
+            "RelationshipFlatAtkE04",
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentAtkB53",
+            "RelationshipPercentHPA28"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -19045,6 +19916,12 @@
                 "Title": "@AddWeaponPrefStaffNameKey",
                 "Description": "@AddWeaponPrefStaffDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipFlatAtkE04",
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentAtkB53",
+            "RelationshipPercentHPA28"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -19186,6 +20063,9 @@
                 "@ElfFireSamuraiIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -19331,6 +20211,9 @@
                 "@ElfFireSamuraiIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -19471,6 +20354,9 @@
                 "@SilverHairBerserkerIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -19637,6 +20523,9 @@
                 "@SilverHairBerserkerIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -19794,6 +20683,9 @@
                 "@FoxMutantIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -19938,6 +20830,9 @@
                 "@FoxMutantIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -20059,6 +20954,9 @@
             }
         ],
         "Gacha_Intro": "@Taotie01GachaIntroText",
+        "Relationship": [
+            "RelationshipPercentAtkA02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -20173,6 +21071,9 @@
             }
         ],
         "Gacha_Intro": "@Taotie02GachaIntroText",
+        "Relationship": [
+            "RelationshipPercentAtkA02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -20305,6 +21206,9 @@
                 "@DemonElfBoyIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -20464,6 +21368,9 @@
                 "@DemonElfBoyIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -20629,6 +21536,9 @@
                 "@KirinIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -20766,6 +21676,9 @@
                 "@KirinIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -20896,6 +21809,10 @@
                 "@BlueSeaSerpentIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB05",
+            "RelationshipPercentHPB16"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -21047,6 +21964,10 @@
                 "@BlueSeaSerpentIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB05",
+            "RelationshipPercentHPB16"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -21629,6 +22550,9 @@
                 "Title": "@AddWeaponPrefKatanaNameKey",
                 "Description": "@AddWeaponPrefKatanaDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipFlatHPF02"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -22552,6 +23476,9 @@
                 "@RizetteCrestbearerIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA04"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -22709,6 +23636,9 @@
                 "@RizetteCrestbearerIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA04"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -22865,6 +23795,9 @@
                 "@FinnCrestbearerIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA04"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -23003,6 +23936,9 @@
                 "@FinnCrestbearerIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA04"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -23114,6 +24050,9 @@
             }
         ],
         "Gacha_Intro": "@AirDragon01GachaIntroText",
+        "Relationship": [
+            "RelationshipPercentAtkC02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1.05,
             "Threat": {
@@ -23247,6 +24186,9 @@
             }
         ],
         "Gacha_Intro": "@AirDragon02GachaIntroText",
+        "Relationship": [
+            "RelationshipPercentAtkC02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1.05,
             "Threat": {
@@ -23381,6 +24323,12 @@
                 "@BattleClericGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE06",
+            "RelationshipPercentHPB03",
+            "RelationshipPercentHPA20",
+            "RelationshipPercentHPA26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -23521,6 +24469,12 @@
                 "@BattleClericGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE06",
+            "RelationshipPercentHPB03",
+            "RelationshipPercentHPA20",
+            "RelationshipPercentHPA26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -23690,6 +24644,9 @@
                 "@AliceIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA04"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1.05,
             "Threat": {
@@ -23843,6 +24800,9 @@
                 "@AliceIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA04"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1.05,
             "Threat": {
@@ -24120,6 +25080,9 @@
                 "@ReiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -24271,6 +25234,9 @@
                 "@ReiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -24450,6 +25416,9 @@
                 "@NagiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -24577,6 +25546,9 @@
                 "@NagiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA02"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -24685,6 +25657,13 @@
                 "@GreenDragonGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE03",
+            "RelationshipPercentHPB07",
+            "RelationshipPercentHPB31",
+            "RelationshipPercentHPA16",
+            "RelationshipPercentAtkB64"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -24834,6 +25813,13 @@
                 "@GreenDragonGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE03",
+            "RelationshipPercentHPB07",
+            "RelationshipPercentHPB31",
+            "RelationshipPercentHPA16",
+            "RelationshipPercentAtkB64"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -25020,6 +26006,9 @@
                 "@MoonGoddessIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -25208,6 +26197,9 @@
                 "@MoonGoddessIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -25382,6 +26374,9 @@
                 "@ButterflyLadyIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -25532,6 +26527,9 @@
                 "@ButterflyLadyIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -25694,6 +26692,23 @@
                 "@PinkHairWitchGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE01",
+            "RelationshipFlatHPE08",
+            "RelationshipPercentHPC03",
+            "RelationshipPercentAtkA01",
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPB05",
+            "RelationshipPercentAtkC06",
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB23",
+            "RelationshipPercentAtkB28",
+            "RelationshipPercentHPA07",
+            "RelationshipPercentHPA12",
+            "RelationshipPercentHPA14",
+            "RelationshipPercentAtkB50",
+            "RelationshipPercentAtkB55"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -25868,6 +26883,23 @@
                 "@PinkHairWitchGacha21Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE01",
+            "RelationshipFlatHPE08",
+            "RelationshipPercentHPC03",
+            "RelationshipPercentAtkA01",
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPB05",
+            "RelationshipPercentAtkC06",
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB23",
+            "RelationshipPercentAtkB28",
+            "RelationshipPercentHPA07",
+            "RelationshipPercentHPA12",
+            "RelationshipPercentHPA14",
+            "RelationshipPercentAtkB50",
+            "RelationshipPercentAtkB55"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -26054,6 +27086,9 @@
                 "@GoldAppleGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -26215,6 +27250,9 @@
                 "@GoldAppleGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -26371,6 +27409,11 @@
                 "@AstridRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC01",
+            "RelationshipPercentAtkA09",
+            "RelationshipPercentAtkB32"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -26540,6 +27583,11 @@
                 "@AstridRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC01",
+            "RelationshipPercentAtkA09",
+            "RelationshipPercentAtkB32"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -26700,6 +27748,10 @@
                 "@CherryBlossomIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA01",
+            "RelationshipPercentAtkB18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -26856,6 +27908,10 @@
                 "@CherryBlossomIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA01",
+            "RelationshipPercentAtkB18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -26999,6 +28055,10 @@
             "FireMinion01"
         ],
         "Gacha_Intro": "@FireDragon01GachaIntroText",
+        "Relationship": [
+            "RelationshipPercentHPA01",
+            "RelationshipPercentAtkB19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -27156,6 +28216,10 @@
             "FireMinion01"
         ],
         "Gacha_Intro": "@FireDragon02GachaIntroText",
+        "Relationship": [
+            "RelationshipPercentHPA01",
+            "RelationshipPercentAtkB19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -27312,6 +28376,10 @@
                 "@FurCoatLizardGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE05",
+            "RelationshipPercentHPA01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -27441,6 +28509,10 @@
                 "@FurCoatLizardGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE05",
+            "RelationshipPercentHPA01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -27557,6 +28629,10 @@
                 "@PurpleElfKnightGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB10",
+            "RelationshipPercentHPC09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -27704,6 +28780,10 @@
                 "@PurpleElfKnightGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB10",
+            "RelationshipPercentHPC09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -31784,6 +32864,9 @@
                 "@DeathKnightIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -31934,6 +33017,9 @@
                 "@DeathKnightIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -32080,6 +33166,9 @@
                 "@WhiteKnightIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -32227,6 +33316,9 @@
                 "@WhiteKnightIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA01"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -32360,6 +33452,10 @@
                 "@DevilLadyGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkD01",
+            "RelationshipPercentHPC12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -32533,6 +33629,10 @@
                 "@DevilLadyGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkD01",
+            "RelationshipPercentHPC12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -32697,6 +33797,12 @@
                 "@WaterPriestessGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE05",
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentAtkB21",
+            "RelationshipPercentAtkB55"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -32860,6 +33966,12 @@
                 "@WaterPriestessGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE05",
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentAtkB21",
+            "RelationshipPercentAtkB55"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -33068,6 +34180,10 @@
                 "@SwimsuitAstridIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA06",
+            "RelationshipPercentAtkC10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -33245,6 +34361,10 @@
                 "@SwimsuitAstridIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA06",
+            "RelationshipPercentAtkC10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -33415,6 +34535,10 @@
                 "@SwimsuitLudmillaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA06",
+            "RelationshipPercentAtkB16"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -33576,6 +34700,10 @@
                 "@SwimsuitLudmillaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA06",
+            "RelationshipPercentAtkB16"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -33741,6 +34869,12 @@
                 "@WaterLancerGirlGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE07",
+            "RelationshipPercentHPB12",
+            "RelationshipPercentAtkB24",
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -33890,6 +35024,12 @@
                 "@WaterLancerGirlGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE07",
+            "RelationshipPercentHPB12",
+            "RelationshipPercentAtkB24",
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -34047,6 +35187,10 @@
                 "@AngelFighterIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA03",
+            "RelationshipPercentHPB08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -34217,6 +35361,10 @@
                 "@AngelFighterIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA03",
+            "RelationshipPercentHPB08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -34383,6 +35531,9 @@
                 "@ElminaRegularIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -34523,6 +35674,9 @@
                 "@ElminaRegularIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -34729,6 +35883,10 @@
                 "@IceWitchIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA02",
+            "RelationshipPercentHPB19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -34888,6 +36046,10 @@
                 "@IceWitchIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA02",
+            "RelationshipPercentHPB19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -35059,6 +36221,10 @@
                 "@LegendFireDragonIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB04",
+            "RelationshipPercentHPB11"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -35237,6 +36403,10 @@
                 "@LegendFireDragonIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB04",
+            "RelationshipPercentHPB11"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -35398,6 +36568,12 @@
                 "@FireGirlWarriorGacha45Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB04",
+            "RelationshipFlatAtkE08",
+            "RelationshipPercentAtkA09",
+            "RelationshipPercentHPA25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -35544,6 +36720,12 @@
                 "@FireGirlWarriorGacha45Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB04",
+            "RelationshipFlatAtkE08",
+            "RelationshipPercentAtkA09",
+            "RelationshipPercentHPA25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -35681,6 +36863,10 @@
                 "Description": "@AddWeaponPrefGreatSwordDescriptionKey"
             }
         ],
+        "Relationship": [
+            "RelationshipFlatAtkE06",
+            "RelationshipPercentAtkB04"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -35799,6 +36985,10 @@
         ],
         "Conjures": [
             "DeathMinion01"
+        ],
+        "Relationship": [
+            "RelationshipFlatAtkE06",
+            "RelationshipPercentAtkB04"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -35929,6 +37119,11 @@
                 "@LudmillaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentHPB15",
+            "RelationshipPercentAtkB24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -36108,6 +37303,11 @@
                 "@LudmillaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB06",
+            "RelationshipPercentHPB15",
+            "RelationshipPercentAtkB24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -36282,6 +37482,10 @@
                 "@NorzaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB01",
+            "RelationshipPercentHPB09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -36428,6 +37632,10 @@
                 "@NorzaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB01",
+            "RelationshipPercentHPB09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -36569,6 +37777,10 @@
                 "@ArgaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB20"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -36707,6 +37919,10 @@
                 "@ArgaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB20"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -36822,6 +38038,13 @@
                 "@RibbonStudentGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE02",
+            "RelationshipPercentHPB09",
+            "RelationshipPercentAtkB14",
+            "RelationshipPercentHPA15",
+            "RelationshipPercentAtkB59"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -36976,6 +38199,13 @@
                 "@RibbonStudentGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE02",
+            "RelationshipPercentHPB09",
+            "RelationshipPercentAtkB14",
+            "RelationshipPercentHPA15",
+            "RelationshipPercentAtkB59"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -37152,6 +38382,10 @@
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
         ],
+        "Relationship": [
+            "RelationshipPercentAtkC04",
+            "RelationshipPercentAtkC07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -37291,6 +38525,10 @@
                 "Title": "@AddWeaponPrefHammerNameKey",
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipPercentAtkC04",
+            "RelationshipPercentAtkC07"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -37442,6 +38680,10 @@
                 "@NovaBlastDragonIdle29Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB04",
+            "RelationshipPercentAtkB13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -37595,6 +38837,10 @@
                 "@NovaBlastDragonIdle29Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB04",
+            "RelationshipPercentAtkB13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -37743,6 +38989,12 @@
                 "@DarkRizetteIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA05",
+            "RelationshipPercentAtkC07",
+            "RelationshipPercentAtkB23",
+            "RelationshipPercentHPA06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -37905,6 +39157,12 @@
                 "@DarkRizetteIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA05",
+            "RelationshipPercentAtkC07",
+            "RelationshipPercentAtkB23",
+            "RelationshipPercentHPA06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -38058,6 +39316,9 @@
                 "@ChristmasElminaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -38208,6 +39469,9 @@
                 "@ChristmasElminaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -38351,6 +39615,10 @@
                 "@NewYearRolotiaIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC04",
+            "RelationshipPercentHPB22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -38491,6 +39759,10 @@
                 "@NewYearRolotiaIdle48Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC04",
+            "RelationshipPercentHPB22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -38645,6 +39917,10 @@
                 "@ChristmasCatEarGacha45Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB06",
+            "RelationshipPercentAtkB09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -38822,6 +40098,10 @@
                 "@ChristmasCatEarGacha45Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB06",
+            "RelationshipPercentAtkB09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -39011,6 +40291,10 @@
                 "@ChineseRizetteIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB07",
+            "RelationshipPercentHPC14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -39164,6 +40448,10 @@
                 "@ChineseRizetteIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB07",
+            "RelationshipPercentHPC14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -39296,6 +40584,10 @@
             }
         ],
         "Gacha_Intro": "@EarthKaiju01GachaIntroText",
+        "Relationship": [
+            "RelationshipPercentAtkB02",
+            "RelationshipPercentHPB20"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -39437,6 +40729,10 @@
             }
         ],
         "Gacha_Intro": "@EarthKaiju02GachaIntroText",
+        "Relationship": [
+            "RelationshipPercentAtkB02",
+            "RelationshipPercentHPB20"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -39589,6 +40885,10 @@
                 "@SamuraiGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC03",
+            "RelationshipPercentAtkB14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -39726,6 +41026,10 @@
                 "@SamuraiGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC03",
+            "RelationshipPercentAtkB14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -39858,6 +41162,10 @@
                 "@DancingAssassinIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA02",
+            "RelationshipPercentHPB10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -40013,6 +41321,10 @@
                 "@DancingAssassinIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA02",
+            "RelationshipPercentHPB10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -40149,6 +41461,10 @@
         "Conjures": [
             "FireMinion01"
         ],
+        "Relationship": [
+            "RelationshipPercentAtkC07",
+            "RelationshipPercentAtkC08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -40276,6 +41592,10 @@
         "Conjures": [
             "FireMinion01"
         ],
+        "Relationship": [
+            "RelationshipPercentAtkC07",
+            "RelationshipPercentAtkC08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -40395,6 +41715,10 @@
                 "Title": "@AddWeaponPrefHammerNameKey",
                 "Description": "@AddWeaponPrefHammerDescriptionKey"
             }
+        ],
+        "Relationship": [
+            "RelationshipPercentHPC04",
+            "RelationshipPercentHPB10"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -40551,6 +41875,10 @@
         ],
         "Conjures": [
             "EarthMinion01"
+        ],
+        "Relationship": [
+            "RelationshipPercentHPC04",
+            "RelationshipPercentHPB10"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -40721,6 +42049,10 @@
                 "@DarkLudmillaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA01",
+            "RelationshipPercentAtkC08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -40885,6 +42217,10 @@
                 "@DarkLudmillaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA01",
+            "RelationshipPercentAtkC08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -41041,6 +42377,10 @@
                 "@DarkAstridIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA05",
+            "RelationshipPercentAtkC05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -41208,6 +42548,10 @@
                 "@DarkAstridIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA05",
+            "RelationshipPercentAtkC05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -41364,6 +42708,10 @@
                 "@CyrusIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB03",
+            "RelationshipPercentAtkA08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -41525,6 +42873,10 @@
                 "@CyrusIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB03",
+            "RelationshipPercentAtkA08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -41714,6 +43066,11 @@
                 "@RizetteNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB03",
+            "RelationshipPercentHPD01",
+            "RelationshipPercentAtkB22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -41891,6 +43248,11 @@
                 "@RizetteNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB03",
+            "RelationshipPercentHPD01",
+            "RelationshipPercentAtkB22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -42077,6 +43439,10 @@
                 "@GloriaGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPD01",
+            "RelationshipPercentHPC06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -42231,6 +43597,10 @@
                 "@GloriaGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPD01",
+            "RelationshipPercentHPC06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -42386,6 +43756,12 @@
                 "@SpearGirlWarriorGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB05",
+            "RelationshipPercentHPB08",
+            "RelationshipPercentHPB21",
+            "RelationshipPercentHPA22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -42541,6 +43917,12 @@
                 "@SpearGirlWarriorGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB05",
+            "RelationshipPercentHPB08",
+            "RelationshipPercentHPB21",
+            "RelationshipPercentHPA22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -42717,6 +44099,10 @@
                 "@CrescentIdle29Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentHPC13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -42867,6 +44253,10 @@
                 "@CrescentIdle29Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB08",
+            "RelationshipPercentHPC13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -43042,6 +44432,10 @@
                 "@KisaraIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentHPB21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -43206,6 +44600,10 @@
                 "@KisaraIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB07",
+            "RelationshipPercentHPB21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -43363,6 +44761,10 @@
                 "@RolotiaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB01",
+            "RelationshipPercentHPC06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -43506,6 +44908,10 @@
                 "@RolotiaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB01",
+            "RelationshipPercentHPC06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -43667,6 +45073,10 @@
                 "@TimeWitchGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC06",
+            "RelationshipPercentHPC10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -43823,6 +45233,10 @@
                 "@TimeWitchGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC06",
+            "RelationshipPercentHPC10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -43987,6 +45401,10 @@
                 "@BahamutIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB02",
+            "RelationshipPercentAtkA07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -44162,6 +45580,10 @@
                 "@BahamutIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB02",
+            "RelationshipPercentAtkA07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -44335,6 +45757,11 @@
                 "@JeanneIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB03",
+            "RelationshipPercentAtkB10",
+            "RelationshipPercentHPB27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -44513,6 +45940,11 @@
                 "@JeanneIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB03",
+            "RelationshipPercentAtkB10",
+            "RelationshipPercentHPB27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -44935,6 +46367,10 @@
                 "@AxeAngelGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE07",
+            "RelationshipPercentAtkB10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -45077,6 +46513,10 @@
                 "@AxeAngelGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatAtkE07",
+            "RelationshipPercentAtkB10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -45227,6 +46667,10 @@
                 "@RolotiaSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC05",
+            "RelationshipPercentHPB17"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -45361,6 +46805,10 @@
                 "@RolotiaSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC05",
+            "RelationshipPercentHPB17"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -45488,6 +46936,10 @@
                 "@ElminaSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA06",
+            "RelationshipPercentHPB12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -45622,6 +47074,10 @@
                 "@ElminaSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA06",
+            "RelationshipPercentHPB12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -45774,6 +47230,10 @@
                 "@DancingAssassinSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB01",
+            "RelationshipPercentAtkA07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -45926,6 +47386,10 @@
                 "@DancingAssassinSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB01",
+            "RelationshipPercentAtkA07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -46092,6 +47556,10 @@
                 "@AntaresSwimsuitGacha45Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE07",
+            "RelationshipPercentHPC05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -46268,6 +47736,10 @@
                 "@AntaresSwimsuitGacha45Key"
             ]
         },
+        "Relationship": [
+            "RelationshipFlatHPE07",
+            "RelationshipPercentHPC05"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -46452,6 +47924,11 @@
                 "@CallenDragonIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA03",
+            "RelationshipPercentAtkC06",
+            "RelationshipPercentAtkB27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -46636,6 +48113,11 @@
                 "@CallenDragonIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA03",
+            "RelationshipPercentAtkC06",
+            "RelationshipPercentAtkB27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -46803,6 +48285,10 @@
                 "@EyepatchGuardGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC06",
+            "RelationshipPercentAtkC08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -46966,6 +48452,10 @@
                 "@EyepatchGuardGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC06",
+            "RelationshipPercentAtkC08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -47140,6 +48630,10 @@
                 "@GothGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkD01",
+            "RelationshipPercentHPB13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -47324,6 +48818,10 @@
                 "@GothGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkD01",
+            "RelationshipPercentHPB13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -47500,6 +48998,10 @@
                 "@IkemenSamuraiIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPB23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -47697,6 +49199,10 @@
                 "@IkemenSamuraiIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPB23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -47889,6 +49395,10 @@
                 "@OssiaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB02",
+            "RelationshipPercentHPC08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -48043,6 +49553,10 @@
                 "@OssiaIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB02",
+            "RelationshipPercentHPC08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -48177,6 +49691,11 @@
         "Conjures": [
             "WaterMinion01"
         ],
+        "Relationship": [
+            "RelationshipPercentHPA02",
+            "RelationshipPercentHPB05",
+            "RelationshipPercentHPA23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -48278,6 +49797,11 @@
         ],
         "Conjures": [
             "WaterMinion01"
+        ],
+        "Relationship": [
+            "RelationshipPercentHPA02",
+            "RelationshipPercentHPB05",
+            "RelationshipPercentHPA23"
         ],
         "AI_Logic": {
             "Pick_Weight": 1,
@@ -48414,6 +49938,10 @@
                 "@RedElfOfficerGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB05",
+            "RelationshipFlatAtkE08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -48545,6 +50073,10 @@
                 "@RedElfOfficerGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB05",
+            "RelationshipFlatAtkE08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -48684,6 +50216,10 @@
                 "@YandereMaidIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPC07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -48858,6 +50394,10 @@
                 "@YandereMaidIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA04",
+            "RelationshipPercentHPC07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -49027,6 +50567,10 @@
                 "@SchoolGirlWarriorIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkD02",
+            "RelationshipPercentHPB18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -49175,6 +50719,10 @@
                 "@SchoolGirlWarriorIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkD02",
+            "RelationshipPercentHPB18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -49318,6 +50866,11 @@
                 "@OniSchoolGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB05",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentAtkB24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -49459,6 +51012,11 @@
                 "@OniSchoolGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB05",
+            "RelationshipPercentAtkB11",
+            "RelationshipPercentAtkB24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -49581,6 +51139,10 @@
                 "@BunnySamuraiGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkD02",
+            "RelationshipPercentAtkC03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -49691,6 +51253,10 @@
                 "@BunnySamuraiGacha39Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkD02",
+            "RelationshipPercentAtkC03"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -49921,6 +51487,11 @@
                 "@DarkRizetteChristmasIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB09",
+            "RelationshipPercentAtkB12",
+            "RelationshipPercentAtkB34"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -50103,6 +51674,11 @@
                 "@DarkRizetteChristmasIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB09",
+            "RelationshipPercentAtkB12",
+            "RelationshipPercentAtkB34"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -50277,6 +51853,10 @@
                 "@DarkAstridNewYearIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC04",
+            "RelationshipPercentAtkA08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -50408,6 +51988,10 @@
                 "@DarkAstridNewYearIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC04",
+            "RelationshipPercentAtkA08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -50534,6 +52118,11 @@
                 "@CatIdolGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB14",
+            "RelationshipPercentHPB22",
+            "RelationshipPercentAtkB30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -50756,6 +52345,11 @@
                 "@CatIdolGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB14",
+            "RelationshipPercentHPB22",
+            "RelationshipPercentAtkB30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -50961,6 +52555,9 @@
                 "@DarkCatFighterGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -51105,6 +52702,9 @@
                 "@DarkCatFighterGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -51257,6 +52857,10 @@
                 "@AntaresModernIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB14",
+            "RelationshipPercentAtkB25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -51410,6 +53014,10 @@
                 "@AntaresModernIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB14",
+            "RelationshipPercentAtkB25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -51559,6 +53167,11 @@
                 "@MechaSisterIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC09",
+            "RelationshipPercentHPB24",
+            "RelationshipPercentHPA07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -51719,6 +53332,11 @@
                 "@MechaSisterIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC09",
+            "RelationshipPercentHPB24",
+            "RelationshipPercentHPA07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -51875,6 +53493,11 @@
                 "@DeadlyNurseIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA07",
+            "RelationshipPercentAtkB12",
+            "RelationshipPercentHPB26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -52070,6 +53693,11 @@
                 "@DeadlyNurseIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA07",
+            "RelationshipPercentAtkB12",
+            "RelationshipPercentHPB26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -52263,6 +53891,11 @@
                 "@ReiSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC09",
+            "RelationshipPercentAtkB17",
+            "RelationshipPercentHPB25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -52440,6 +54073,11 @@
                 "@ReiSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC09",
+            "RelationshipPercentAtkB17",
+            "RelationshipPercentHPB25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -52900,6 +54538,10 @@
                 "@RizetteYoungIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC10",
+            "RelationshipPercentAtkB13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -53057,6 +54699,10 @@
                 "@RizetteYoungIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC10",
+            "RelationshipPercentAtkB13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -53238,6 +54884,10 @@
                 "@ShannaRidingHoodIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC11",
+            "RelationshipPercentAtkA09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -53386,6 +55036,10 @@
                 "@ShannaRidingHoodIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC11",
+            "RelationshipPercentAtkA09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -53517,6 +55171,9 @@
                 "@LunaHoodGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC11"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -53690,6 +55347,9 @@
                 "@LunaHoodGacha41Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC11"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -53872,6 +55532,12 @@
                 "@SnowWhiteIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA08",
+            "RelationshipPercentAtkB14",
+            "RelationshipPercentHPB26",
+            "RelationshipPercentHPA07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -54018,6 +55684,12 @@
                 "@SnowWhiteIdle147Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA08",
+            "RelationshipPercentAtkB14",
+            "RelationshipPercentHPB26",
+            "RelationshipPercentHPA07"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -54172,6 +55844,12 @@
                 "@LudmillaBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC12",
+            "RelationshipPercentHPB18",
+            "RelationshipPercentHPB31",
+            "RelationshipPercentAtkB40"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -54319,6 +55997,12 @@
                 "@LudmillaBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC12",
+            "RelationshipPercentHPB18",
+            "RelationshipPercentHPB31",
+            "RelationshipPercentAtkB40"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -54499,6 +56183,11 @@
                 "@YandereMaidSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB15",
+            "RelationshipPercentHPB20",
+            "RelationshipPercentAtkB21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -54637,6 +56326,11 @@
                 "@YandereMaidSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB15",
+            "RelationshipPercentHPB20",
+            "RelationshipPercentAtkB21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -54767,6 +56461,11 @@
                 "@RizetteSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC10",
+            "RelationshipPercentAtkB16",
+            "RelationshipPercentAtkB26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -54942,6 +56641,11 @@
                 "@RizetteSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkC10",
+            "RelationshipPercentAtkB16",
+            "RelationshipPercentAtkB26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -55115,6 +56819,10 @@
                 "@CallenSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB16",
+            "RelationshipPercentHPB25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -55308,6 +57016,10 @@
                 "@CallenSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB16",
+            "RelationshipPercentHPB25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -55569,6 +57281,10 @@
                 "@JeanneDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB12",
+            "RelationshipPercentHPB23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -55743,6 +57459,10 @@
                 "@JeanneDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB12",
+            "RelationshipPercentHPB23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -56218,6 +57938,11 @@
                 "@CallenDragonDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC13",
+            "RelationshipPercentAtkB20",
+            "RelationshipPercentHPB28"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -56390,6 +58115,11 @@
                 "@CallenDragonDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC13",
+            "RelationshipPercentAtkB20",
+            "RelationshipPercentHPB28"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -56557,6 +58287,11 @@
                 "@ElminaNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB13",
+            "RelationshipPercentAtkB21",
+            "RelationshipPercentHPA12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -56707,6 +58442,11 @@
                 "@ElminaNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB13",
+            "RelationshipPercentAtkB21",
+            "RelationshipPercentHPA12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -56852,6 +58592,10 @@
                 "@CatIdolHalloweenIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC14",
+            "RelationshipPercentHPB21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -57002,6 +58746,10 @@
                 "@CatIdolHalloweenIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPC14",
+            "RelationshipPercentHPB21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -57147,6 +58895,12 @@
                 "@MyshaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA09",
+            "RelationshipPercentAtkB22",
+            "RelationshipPercentHPA11",
+            "RelationshipPercentHPA12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -57319,6 +59073,12 @@
                 "@MyshaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkA09",
+            "RelationshipPercentAtkB22",
+            "RelationshipPercentHPA11",
+            "RelationshipPercentHPA12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -57486,6 +59246,11 @@
                 "@WhiteSnakeGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB17",
+            "RelationshipPercentAtkB17",
+            "RelationshipPercentAtkB25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -57665,6 +59430,11 @@
                 "@WhiteSnakeGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB17",
+            "RelationshipPercentAtkB17",
+            "RelationshipPercentAtkB25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -57842,6 +59612,10 @@
                 "@OniSchoolSamuraiIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB18",
+            "RelationshipPercentAtkB18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -58012,6 +59786,10 @@
                 "@OniSchoolSamuraiIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB18",
+            "RelationshipPercentAtkB18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -58175,6 +59953,10 @@
                 "@LudmillaChristmasIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB14",
+            "RelationshipPercentHPB24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -58384,6 +60166,10 @@
                 "@LudmillaChristmasIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB14",
+            "RelationshipPercentHPB24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -58588,6 +60374,11 @@
                 "@MechaSisterDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB19",
+            "RelationshipPercentHPB27",
+            "RelationshipPercentAtkB31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -58780,6 +60571,11 @@
                 "@MechaSisterDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB19",
+            "RelationshipPercentHPB27",
+            "RelationshipPercentAtkB31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -58970,6 +60766,11 @@
                 "@CallenRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB26",
+            "RelationshipPercentHPA10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -59173,6 +60974,11 @@
                 "@CallenRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB15",
+            "RelationshipPercentAtkB26",
+            "RelationshipPercentHPA10"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -59371,6 +61177,10 @@
                 "@JeanneValentineIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB20",
+            "RelationshipPercentAtkB29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -59541,6 +61351,10 @@
                 "@JeanneValentineIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB20",
+            "RelationshipPercentAtkB29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -60024,6 +61838,10 @@
                 "@HorseIdolGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB16",
+            "RelationshipPercentAtkB23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -60146,6 +61964,10 @@
                 "@HorseIdolGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB16",
+            "RelationshipPercentAtkB23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -60263,6 +62085,10 @@
                 "@AstridBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB21",
+            "RelationshipPercentAtkB19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -60415,6 +62241,10 @@
                 "@AstridBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB21",
+            "RelationshipPercentAtkB19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -60562,6 +62392,9 @@
                 "@MyshaIdolGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB17"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -60730,6 +62563,9 @@
                 "@MyshaIdolGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB17"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -60897,6 +62733,9 @@
                 "@ShutenDojiIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -61073,6 +62912,9 @@
                 "@ShutenDojiIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -61245,6 +63087,10 @@
                 "@EarthGoddessIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB22",
+            "RelationshipPercentHPB28"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -61450,6 +63296,10 @@
                 "@EarthGoddessIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB22",
+            "RelationshipPercentHPB28"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -61647,6 +63497,9 @@
                 "@AntaresRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -61793,6 +63646,9 @@
                 "@AntaresRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -61934,6 +63790,10 @@
                 "@MyshaDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB20",
+            "RelationshipPercentHPB30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -62094,6 +63954,10 @@
                 "@MyshaDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB20",
+            "RelationshipPercentHPB30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -62250,6 +64114,10 @@
                 "@CowGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB23",
+            "RelationshipPercentHPB29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -62440,6 +64308,10 @@
                 "@CowGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB23",
+            "RelationshipPercentHPB29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -62628,6 +64500,10 @@
                 "@CallenBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB21",
+            "RelationshipPercentAtkB35"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -62788,6 +64664,10 @@
                 "@CallenBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB21",
+            "RelationshipPercentAtkB35"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -62940,6 +64820,10 @@
                 "@ReiBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB24",
+            "RelationshipPercentHPB30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -63138,6 +65022,10 @@
                 "@ReiBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB24",
+            "RelationshipPercentHPB30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -63331,6 +65219,11 @@
                 "@SnowWhiteSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB25",
+            "RelationshipPercentAtkB27",
+            "RelationshipPercentHPA09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -63488,6 +65381,11 @@
                 "@SnowWhiteSwimsuitIdle149Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB25",
+            "RelationshipPercentAtkB27",
+            "RelationshipPercentHPA09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -63643,6 +65541,9 @@
                 "@TheoRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -63836,6 +65737,9 @@
                 "@TheoRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -64028,6 +65932,11 @@
                 "@DeadlyVampireIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB26",
+            "RelationshipPercentHPB29",
+            "RelationshipPercentHPA06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -64179,6 +66088,11 @@
                 "@DeadlyVampireIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB26",
+            "RelationshipPercentHPB29",
+            "RelationshipPercentHPA06"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -64321,6 +66235,9 @@
                 "@MerlinRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -64460,6 +66377,9 @@
                 "@MerlinRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -64594,6 +66514,10 @@
                 "@FreyaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB27",
+            "RelationshipPercentAtkB28"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -64742,6 +66666,10 @@
                 "@FreyaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB27",
+            "RelationshipPercentAtkB28"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -64887,6 +66815,10 @@
                 "@InugamiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB28",
+            "RelationshipPercentHPA08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -65052,6 +66984,10 @@
                 "@InugamiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB28",
+            "RelationshipPercentHPA08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -65216,6 +67152,10 @@
                 "@DeerGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB24",
+            "RelationshipPercentAtkB33"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -65434,6 +67374,10 @@
                 "@DeerGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB24",
+            "RelationshipPercentAtkB33"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -65647,6 +67591,9 @@
                 "@OssiaHalloweenIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -65862,6 +67809,9 @@
                 "@OssiaHalloweenIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -66069,6 +68019,11 @@
                 "@GokuRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB25",
+            "RelationshipPercentHPA08",
+            "RelationshipPercentAtkB37"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -66210,6 +68165,11 @@
                 "@GokuRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB25",
+            "RelationshipPercentHPA08",
+            "RelationshipPercentAtkB37"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -66346,6 +68306,10 @@
                 "@AliceDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB30",
+            "RelationshipPercentAtkB34"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -66512,6 +68476,10 @@
                 "@AliceDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB30",
+            "RelationshipPercentAtkB34"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -66673,6 +68641,10 @@
                 "@ElminaBunnyIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB26",
+            "RelationshipPercentAtkB33"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -66818,6 +68790,10 @@
                 "@ElminaBunnyIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB26",
+            "RelationshipPercentAtkB33"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -66961,6 +68937,9 @@
                 "@TiamatRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -67095,6 +69074,9 @@
                 "@TiamatRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -67221,6 +69203,12 @@
                 "@RoundTableKnightIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB28",
+            "RelationshipPercentAtkB31",
+            "RelationshipPercentAtkB32",
+            "RelationshipPercentHPA13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -67394,6 +69382,12 @@
                 "@RoundTableKnightIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB28",
+            "RelationshipPercentAtkB31",
+            "RelationshipPercentAtkB32",
+            "RelationshipPercentHPA13"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -67562,6 +69556,11 @@
                 "@CrossSwordKnightIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB29",
+            "RelationshipPercentAtkB30",
+            "RelationshipPercentHPA09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -67717,6 +69716,11 @@
                 "@CrossSwordKnightIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB29",
+            "RelationshipPercentAtkB30",
+            "RelationshipPercentHPA09"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -67870,6 +69874,11 @@
                 "@JeanneBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA06",
+            "RelationshipPercentAtkB41",
+            "RelationshipPercentHPA19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -68048,6 +70057,11 @@
                 "@JeanneBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA06",
+            "RelationshipPercentAtkB41",
+            "RelationshipPercentHPA19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -68575,6 +70589,10 @@
                 "@LudmillaRacequeenIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA07",
+            "RelationshipPercentHPA14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -68717,6 +70735,10 @@
                 "@LudmillaRacequeenIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA07",
+            "RelationshipPercentHPA14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -68852,6 +70874,9 @@
                 "@TwinGodRegularIdle76Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -69006,6 +71031,9 @@
                 "@TwinGodRegularIdle76Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -69156,6 +71184,11 @@
                 "@MechaSisterSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB31",
+            "RelationshipPercentHPA10",
+            "RelationshipPercentAtkB36"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -69329,6 +71362,11 @@
                 "@MechaSisterSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPB31",
+            "RelationshipPercentHPA10",
+            "RelationshipPercentAtkB36"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -69555,6 +71593,9 @@
                 "@GyurelleRegularIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -69715,6 +71756,9 @@
                 "@GyurelleRegularIdle149Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -69867,6 +71911,9 @@
                 "@OssiaDarkIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -70034,6 +72081,9 @@
                 "@OssiaDarkIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA08"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -70196,6 +72246,11 @@
                 "@AstridNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB32",
+            "RelationshipPercentAtkB36",
+            "RelationshipPercentAtkB41"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -70368,6 +72423,11 @@
                 "@AstridNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB32",
+            "RelationshipPercentAtkB36",
+            "RelationshipPercentAtkB41"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -70536,6 +72596,11 @@
                 "@CinderellaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB33",
+            "RelationshipPercentHPA11",
+            "RelationshipPercentHPA15"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -70704,6 +72769,11 @@
                 "@CinderellaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB33",
+            "RelationshipPercentHPA11",
+            "RelationshipPercentHPA15"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -70874,6 +72944,10 @@
                 "@IbarahimeRegularIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA09",
+            "RelationshipPercentAtkB38"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -71023,6 +73097,10 @@
                 "@IbarahimeRegularIdle149Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA09",
+            "RelationshipPercentAtkB38"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -71168,6 +73246,11 @@
                 "@DarkRizetteSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB34",
+            "RelationshipPercentHPA13",
+            "RelationshipPercentAtkB38"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -71330,6 +73413,11 @@
                 "@DarkRizetteSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB34",
+            "RelationshipPercentHPA13",
+            "RelationshipPercentAtkB38"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -71492,6 +73580,11 @@
                 "@LudmillaSchoolGirlIdle145Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB35",
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentAtkB45"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -71669,6 +73762,11 @@
                 "@LudmillaSchoolGirlIdle145Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB35",
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentAtkB45"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -71839,6 +73937,10 @@
                 "@RolotiaNewIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA10",
+            "RelationshipPercentHPA14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -72023,6 +74125,10 @@
                 "@RolotiaNewIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA10",
+            "RelationshipPercentHPA14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -72202,6 +74308,11 @@
                 "@SnowWhiteBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB36",
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentHPA15"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -72367,6 +74478,11 @@
                 "@SnowWhiteBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB36",
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentHPA15"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -72813,6 +74929,11 @@
                 "@NobunagaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA11",
+            "RelationshipPercentAtkB37",
+            "RelationshipPercentAtkB42"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -72959,6 +75080,11 @@
                 "@NobunagaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA11",
+            "RelationshipPercentAtkB37",
+            "RelationshipPercentAtkB42"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -73101,6 +75227,9 @@
                 "@BurnedGirlRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB37"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -73237,6 +75366,9 @@
                 "@BurnedGirlRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB37"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -73371,6 +75503,9 @@
                 "@AliceMagicalGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -73544,6 +75679,9 @@
                 "@AliceMagicalGirlIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA12"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -73815,6 +75953,10 @@
                 "@RoundTableKnightBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA13",
+            "RelationshipPercentHPA21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -73963,6 +76105,10 @@
                 "@RoundTableKnightBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA13",
+            "RelationshipPercentHPA21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -74110,6 +76256,10 @@
                 "@KingArthurRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB38",
+            "RelationshipPercentAtkB43"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -74272,6 +76422,10 @@
                 "@KingArthurRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB38",
+            "RelationshipPercentAtkB43"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -74447,6 +76601,9 @@
                 "@YandereMaidRaceQueenIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -74623,6 +76780,9 @@
                 "@YandereMaidRaceQueenIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA14"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -74813,6 +76973,10 @@
                 "@JeanneDarkSwimsuitIdle53Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentHPA16"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -74987,6 +77151,10 @@
                 "@JeanneDarkSwimsuitIdle53Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB39",
+            "RelationshipPercentHPA16"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -75155,6 +77323,10 @@
                 "@HimikoRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA15",
+            "RelationshipPercentAtkB40"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -75296,6 +77468,10 @@
                 "@HimikoRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA15",
+            "RelationshipPercentAtkB40"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -75432,6 +77608,10 @@
                 "@KaguyahimeRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB40",
+            "RelationshipPercentHPA17"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -75582,6 +77762,10 @@
                 "@KaguyahimeRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB40",
+            "RelationshipPercentHPA17"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -75730,6 +77914,11 @@
                 "@OdinRegularIdle52Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB41",
+            "RelationshipPercentAtkB42",
+            "RelationshipPercentHPA18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -75876,6 +78065,11 @@
                 "@OdinRegularIdle52Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB41",
+            "RelationshipPercentAtkB42",
+            "RelationshipPercentHPA18"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -76183,6 +78377,10 @@
                 "@LokiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB42",
+            "RelationshipPercentAtkB46"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -76337,6 +78535,10 @@
                 "@LokiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB42",
+            "RelationshipPercentAtkB46"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -76486,6 +78688,10 @@
                 "@MechaSisterBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB43",
+            "RelationshipPercentAtkB47"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -76645,6 +78851,10 @@
                 "@MechaSisterBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB43",
+            "RelationshipPercentAtkB47"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -76802,6 +79012,11 @@
                 "@CleopatraRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA16",
+            "RelationshipPercentAtkB44",
+            "RelationshipPercentAtkB48"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -76953,6 +79168,11 @@
                 "@CleopatraRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA16",
+            "RelationshipPercentAtkB44",
+            "RelationshipPercentAtkB48"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -77096,6 +79316,10 @@
                 "@GilgameshRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB44",
+            "RelationshipPercentAtkB49"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -77215,6 +79439,10 @@
                 "@GilgameshRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB44",
+            "RelationshipPercentAtkB49"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -77329,6 +79557,9 @@
                 "@RizetteBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA17"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -77498,6 +79729,9 @@
                 "@RizetteBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA17"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -77665,6 +79899,10 @@
                 "@GokuDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB45",
+            "RelationshipPercentAtkB50"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -77816,6 +80054,10 @@
                 "@GokuDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB45",
+            "RelationshipPercentAtkB50"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -77959,6 +80201,10 @@
                 "@OtohimeRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB46",
+            "RelationshipPercentHPA20"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -78094,6 +80340,10 @@
                 "@OtohimeRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB46",
+            "RelationshipPercentHPA20"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -78224,6 +80474,10 @@
                 "@CinderellaDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA18",
+            "RelationshipPercentAtkB51"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -78385,6 +80639,10 @@
                 "@CinderellaDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA18",
+            "RelationshipPercentAtkB51"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -78542,6 +80800,10 @@
                 "@CerberusRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB47",
+            "RelationshipPercentHPA19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -78684,6 +80946,10 @@
                 "@CerberusRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB47",
+            "RelationshipPercentHPA19"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -78821,6 +81087,10 @@
                 "@LudmillaYukataIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA19",
+            "RelationshipPercentHPA22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -78941,6 +81211,10 @@
                 "@LudmillaYukataIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA19",
+            "RelationshipPercentHPA22"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Skills": {
@@ -79056,6 +81330,11 @@
                 "@PercivalRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB48",
+            "RelationshipPercentAtkB49",
+            "RelationshipPercentHPA23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -79185,6 +81464,11 @@
                 "@PercivalRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB48",
+            "RelationshipPercentAtkB49",
+            "RelationshipPercentHPA23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -79309,6 +81593,10 @@
                 "@MordredRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB49",
+            "RelationshipPercentAtkB52"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -79450,6 +81738,10 @@
                 "@MordredRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB49",
+            "RelationshipPercentAtkB52"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -79586,6 +81878,11 @@
                 "@IbarahimeSwimsuitIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB50",
+            "RelationshipPercentHPA20",
+            "RelationshipPercentHPA26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -79746,6 +82043,11 @@
                 "@IbarahimeSwimsuitIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB50",
+            "RelationshipPercentHPA20",
+            "RelationshipPercentHPA26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -79901,6 +82203,9 @@
                 "@RapunzelRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA20"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -80052,6 +82357,9 @@
                 "@RapunzelRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA20"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -80198,6 +82506,10 @@
                 "@LuBuRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB51",
+            "RelationshipPercentHPA21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -80345,6 +82657,10 @@
                 "@LuBuRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB51",
+            "RelationshipPercentHPA21"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -80487,6 +82803,10 @@
                 "@MusashiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA21",
+            "RelationshipPercentAtkB55"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -80634,6 +82954,10 @@
                 "@MusashiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA21",
+            "RelationshipPercentAtkB55"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -80776,6 +83100,10 @@
                 "@KingArthurSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA22",
+            "RelationshipPercentHPA25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -80912,6 +83240,10 @@
                 "@KingArthurSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA22",
+            "RelationshipPercentHPA25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -81046,6 +83378,10 @@
                 "@FrankensteinRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB52",
+            "RelationshipPercentAtkB53"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -81166,6 +83502,10 @@
                 "@FrankensteinRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB52",
+            "RelationshipPercentAtkB53"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -81475,6 +83815,9 @@
                 "@GenieRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB53"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -81604,6 +83947,9 @@
                 "@GenieRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB53"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -81728,6 +84074,9 @@
                 "@CinderellaSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -81893,6 +84242,9 @@
                 "@CinderellaSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA23"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -82053,6 +84405,9 @@
                 "@UnicornRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB54"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -82215,6 +84570,9 @@
                 "@UnicornRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB54"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -82372,6 +84730,9 @@
                 "@CthulhuGirlRegularIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB54"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -82490,6 +84851,9 @@
                 "@CthulhuGirlRegularIdle49Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB54"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -82603,6 +84967,9 @@
                 "@NapoleonRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -82751,6 +85118,9 @@
                 "@NapoleonRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -82894,6 +85264,9 @@
                 "@CleopatraDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -83041,6 +85414,9 @@
                 "@CleopatraDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA24"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -83183,6 +85559,10 @@
                 "@HijikataRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB55",
+            "RelationshipPercentAtkB59"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -83351,6 +85731,10 @@
                 "@HijikataRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB55",
+            "RelationshipPercentAtkB59"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -83514,6 +85898,9 @@
                 "@OkitaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB56"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -83668,6 +86055,9 @@
                 "@OkitaRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB56"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -83817,6 +86207,9 @@
                 "@KaguyahimeSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB56"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -83954,6 +86347,9 @@
                 "@KaguyahimeSwimsuitIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB56"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -84086,6 +86482,9 @@
                 "@LudmillaNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -84239,6 +86638,9 @@
                 "@LudmillaNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA25"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -84387,6 +86789,10 @@
                 "@TristanRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB57",
+            "RelationshipPercentAtkB60"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -84555,6 +86961,10 @@
                 "@TristanRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB57",
+            "RelationshipPercentAtkB60"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -84721,6 +87131,9 @@
                 "@ExcaliburRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB57"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -84863,6 +87276,9 @@
                 "@ExcaliburRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB57"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -85070,6 +87486,11 @@
                 "@RoundTableKnightDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB58",
+            "RelationshipPercentAtkB61",
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -85251,6 +87672,11 @@
                 "@RoundTableKnightDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB58",
+            "RelationshipPercentAtkB61",
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -85427,6 +87853,9 @@
                 "@LuciferRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB58"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -85574,6 +88003,9 @@
                 "@LuciferRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB58"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -85716,6 +88148,9 @@
                 "@CrossSwordKnightDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -85887,6 +88322,9 @@
                 "@CrossSwordKnightDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA26"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -86053,6 +88491,9 @@
                 "@SnowWhiteMaidIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB59"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -86205,6 +88646,9 @@
                 "@SnowWhiteMaidIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB59"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -86355,6 +88799,9 @@
                 "@MurasakiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -86512,6 +88959,9 @@
                 "@MurasakiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA27"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -86664,6 +89114,10 @@
                 "@MermaidRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA27",
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -86842,6 +89296,10 @@
                 "@MermaidRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA27",
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -87102,6 +89560,9 @@
                 "@GokuBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB60"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -87262,6 +89723,9 @@
                 "@GokuBrideIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB60"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -87417,6 +89881,9 @@
                 "@GoemonRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA28"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -87573,6 +90040,9 @@
                 "@GoemonRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA28"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -87964,6 +90434,10 @@
                 "@KojiroRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA28",
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -88110,6 +90584,10 @@
                 "@KojiroRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA28",
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -88251,6 +90729,9 @@
                 "@DaVinciRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB61"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -88422,6 +90903,9 @@
                 "@DaVinciRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB61"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -88586,6 +91070,9 @@
                 "@SatanRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -88741,6 +91228,9 @@
                 "@SatanRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -88914,6 +91404,9 @@
                 "@DragonGirlRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -89086,6 +91579,9 @@
                 "@DragonGirlRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB62"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -89321,6 +91817,9 @@
                 "@HokusaiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -89491,6 +91990,9 @@
                 "@HokusaiRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB63"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -89654,6 +92156,9 @@
                 "@MechaSisterNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -89794,6 +92299,9 @@
                 "@MechaSisterNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -89936,6 +92444,9 @@
                 "@YamatoRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -90066,6 +92577,9 @@
                 "@YamatoRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA29"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -90185,6 +92699,9 @@
                 "@ZoroRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -90327,6 +92844,9 @@
                 "@ZoroRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA30"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -90485,6 +93005,9 @@
                 "@KaguyahimeDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB64"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -90655,6 +93178,9 @@
                 "@KaguyahimeDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB64"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -90823,6 +93349,9 @@
                 "@KirinGirlRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB64"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -90967,6 +93496,9 @@
                 "@KirinGirlRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB64"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -91183,6 +93715,9 @@
                 "@LudmillaDarkNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -91327,6 +93862,9 @@
                 "@LudmillaDarkNewIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentAtkB65"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -91490,6 +94028,9 @@
                 "@ElizabethRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -91633,6 +94174,9 @@
                 "@ElizabethRegularIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -91800,6 +94344,9 @@
                 "@YandereMaidDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
@@ -91935,6 +94482,9 @@
                 "@YandereMaidDarkIdle50Key"
             ]
         },
+        "Relationship": [
+            "RelationshipPercentHPA31"
+        ],
         "AI_Logic": {
             "Pick_Weight": 1,
             "Threat": {
